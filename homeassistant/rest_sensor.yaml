@@ -1,5 +1,4 @@
 # Fetches the daily menu JSON published by this repo's GitHub Pages.
-# Replace <github-username> below once Pages is enabled (see README.md).
 #
 # Include from configuration.yaml, e.g.:
 #   sensor: !include homeassistant/rest_sensor.yaml
@@ -7,7 +6,7 @@
 
 - platform: rest
   name: Five Moods Menu
-  resource: https://<github-username>.github.io/5moods/five-moods-zug.json
+  resource: https://magicmatt007.github.io/5moods/five-moods-zug.json
   method: GET
   scan_interval: 3600 # data itself only changes once a day; this just controls polling cost
   value_template: >-

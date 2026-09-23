@@ -26,30 +26,23 @@ DOM instead.
 
 ## Setup
 
-### 1. Push this repo to GitHub and enable Pages
-
-Create a GitHub repo, push this directory to it, then in
-**Settings → Pages** set Source to "Deploy from a branch", branch `main`,
-folder `/docs`.
-
-### 2. Run the workflow once
-
-**Actions → Update Menu → Run workflow.** After it finishes, the menu is
-published at:
+Repo: https://github.com/magicmatt007/5moods (public, GitHub Pages enabled
+on `/docs`). The menu is published at:
 
 ```
-https://<your-username>.github.io/<repo-name>/five-moods-zug.json
-https://<your-username>.github.io/<repo-name>/five-moods-zug.ics
+https://magicmatt007.github.io/5moods/five-moods-zug.json
+https://magicmatt007.github.io/5moods/five-moods-zug.ics
 ```
 
-The workflow then runs automatically every day at 05:00 UTC (~07:00 CEST).
+The `Update Menu` GitHub Actions workflow runs daily at 05:00 UTC
+(~07:00 CEST) and re-publishes `docs/*` if the menu changed. Trigger it
+manually any time from **Actions → Update Menu → Run workflow**.
 
-### 3. Home Assistant
+### Home Assistant
 
-Add the RESTful sensor from `homeassistant/rest_sensor.yaml` (update the
-URL with your GitHub Pages address from step 2), the template sensor from
-`homeassistant/template_sensor.yaml`, then add the Markdown card from
-`homeassistant/lovelace_card.yaml` to a dashboard.
+Add the RESTful sensor from `homeassistant/rest_sensor.yaml`, the template
+sensor from `homeassistant/template_sensor.yaml`, then add the Markdown
+card from `homeassistant/lovelace_card.yaml` to a dashboard.
 
 Alternatively, subscribe to the `.ics` URL directly as a calendar using the
 HACS `ics_calendar` custom integration if you just want a daily calendar
