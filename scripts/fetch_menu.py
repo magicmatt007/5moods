@@ -233,13 +233,26 @@ def build_ics(restaurant_name: str, entries_by_day: dict[date, list[MenuEntry]])
     return cal.to_ical()
 
 
+WEEKDAY_LABELS = ["Mo", "Di", "Mi", "Do", "Fr"]
+
+
 def build_json(restaurant_name: str, entries_by_day: dict[date, list[MenuEntry]]) -> dict:
+    sorted_days = sorted(entries_by_day.items())
     return {
         "restaurant": restaurant_name,
         "updated_utc": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "days": {
-            day.isoformat(): [e.as_dict() for e in day_entries]
-            for day, day_entries in sorted(entries_by_day.items())
+            day.isoformat(): [e.as_dict() for e in day_entries] for day, day_entries in sorted_days
+        },
+        # Same data, keyed by weekday label (Mo..Fr) instead of date, so a
+        # dashboard can offer a fixed set of weekday tabs without needing to
+        # compute weekdays from dates itself.
+        "by_weekday": {
+            WEEKDAY_LABELS[day.weekday()]: {
+                "date": day.isoformat(),
+                "entries": [e.as_dict() for e in day_entries],
+            }
+            for day, day_entries in sorted_days
         },
     }
 
