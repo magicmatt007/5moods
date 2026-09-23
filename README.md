@@ -20,9 +20,9 @@ DOM instead.
 
 - `scripts/fetch_menu.py` — renders the menu pages and writes the outputs below.
 - `config/restaurant.yaml` — the restaurant's menu URL.
-- `docs/five-moods-zug.json` — structured menu data (category, dish, description, price, tags), per day.
+- `docs/five-moods-zug.json` — structured menu data (category, dish, description, price, tags), keyed both by date (`days`) and by weekday label (`by_weekday`, Mo..Fr).
 - `docs/five-moods-zug.ics` — the same data as a subscribable calendar.
-- `homeassistant/` — example Home Assistant sensor and Lovelace card YAML.
+- `homeassistant/` — example Home Assistant sensor, helper and Lovelace card YAML.
 
 ## Setup
 
@@ -42,7 +42,16 @@ manually any time from **Actions → Update Menu → Run workflow**.
 
 Add the RESTful sensor from `homeassistant/rest_sensor.yaml`, the template
 sensor from `homeassistant/template_sensor.yaml`, then add the Markdown
-card from `homeassistant/lovelace_card.yaml` to a dashboard.
+card from `homeassistant/lovelace_card.yaml` to a dashboard — this gives a
+card that always shows today's menu.
+
+To browse other available days from the dashboard (a compact weekday
+tab/dropdown selector), also add the `five_moods_day` helper from
+`homeassistant/input_select.yaml` and the card from
+`homeassistant/lovelace_card_tabs.yaml`. It looks up the selected weekday
+(Mo..Fr) against `sensor.five_moods_menu`'s `by_weekday` attribute, so it
+always shows whichever date currently matches that weekday, without
+needing to know the actual dates.
 
 Alternatively, subscribe to the `.ics` URL directly as a calendar using the
 HACS `ics_calendar` custom integration if you just want a daily calendar

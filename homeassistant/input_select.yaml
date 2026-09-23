@@ -1,0 +1,18 @@
+# Weekday selector backing the "browse other days" tabs (see
+# lovelace_card_tabs.yaml). Fixed Mo..Fr options regardless of which actual
+# dates sensor.five_moods_menu currently has data for - the card looks up
+# whichever date matches the selected weekday via by_weekday.
+#
+# Merge this list item into your existing `input_select:` section, e.g.:
+#   input_select: !include homeassistant/input_select.yaml
+# (as a single-item list under `input_select:`).
+
+input_select:
+  five_moods_day:
+    name: Five Moods Tag
+    options:
+      - Mo
+      - Di
+      - Mi
+      - Do
+      - Fr

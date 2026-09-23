@@ -1,17 +1,21 @@
 # Fetches the daily menu JSON published by this repo's GitHub Pages.
 #
-# Include from configuration.yaml, e.g.:
-#   sensor: !include homeassistant/rest_sensor.yaml
-# or paste the list item(s) directly under your existing `sensor:` key.
+# Uses the modern top-level `rest:` integration syntax. Merge this list
+# item into your existing `rest:` key, e.g.:
+#   rest: !include homeassistant/rest_sensor.yaml
+# (as a single-item list under `rest:`, or copy the `- resource: ...` block
+# into your existing `rest:` list).
 
-- platform: rest
-  name: Five Moods Menu
-  resource: https://magicmatt007.github.io/5moods/five-moods-zug.json
-  method: GET
-  scan_interval: 3600 # data itself only changes once a day; this just controls polling cost
-  value_template: >-
-    {{ (value_json.days.get(now().strftime('%Y-%m-%d'), [])) | length }} dishes
-  json_attributes:
-    - restaurant
-    - updated_utc
-    - days
+rest:
+  - resource: https://magicmatt007.github.io/5moods/five-moods-zug.json
+    scan_interval: 3600 # data itself only changes once a day; this just controls polling cost
+    sensor:
+      - name: "Five Moods Menu"
+        unique_id: five_moods_menu
+        value_template: >-
+          {{ (value_json.days.get(now().strftime('%Y-%m-%d'), [])) | length }} dishes
+        json_attributes:
+          - restaurant
+          - updated_utc
+          - days
+          - by_weekday

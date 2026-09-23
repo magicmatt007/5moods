@@ -1,13 +1,14 @@
 # Derives "today's dishes" from sensor.five_moods_menu (see rest_sensor.yaml)
 # so cards don't need to repeat the date-lookup logic.
 #
-# Include from configuration.yaml, e.g.:
+# Merge this list item into your existing `template:` section, e.g.:
 #   template: !include homeassistant/template_sensor.yaml
-# or merge the list item(s) into your existing `template:` section.
+# (as a single-item list under `template:`).
 
-- sensor:
-    - name: "Five Moods Today"
+template:
+  - sensor:
       unique_id: five_moods_today
+      name: "Five Moods Today"
       state: >-
         {{ state_attr('sensor.five_moods_menu', 'days').get(now().strftime('%Y-%m-%d'), []) | length }}
       attributes:

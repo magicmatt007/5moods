@@ -1,0 +1,31 @@
+# Paste as a Manual card (YAML mode) in your dashboard. Requires
+# input_select.yaml (the five_moods_day helper) and rest_sensor.yaml's
+# by_weekday attribute.
+#
+# The tile card renders input_select.five_moods_day as a compact
+# tab/dropdown selector (Mo..Fr); the markdown card below looks up whichever
+# date in sensor.five_moods_menu's by_weekday attribute matches the
+# selected weekday and renders that day's dishes.
+
+type: vertical-stack
+cards:
+  - type: tile
+    entity: input_select.five_moods_day
+    name: Five Moods – Tag
+    features:
+      - type: select-options
+  - type: markdown
+    content: >-
+      {% set day = state_attr('sensor.five_moods_menu', 'by_weekday') or {} %}
+      {% set sel = states('input_select.five_moods_day') %}
+      {% set info = day.get(sel) %}
+      {% if info %}
+      **{{ info.date }}**
+
+      {% for dish in info.entries %}
+      **{{ dish.dish }}** ({{ dish.price }})
+
+      {% endfor %}
+      {% else %}
+      Kein Menü für diesen Tag verfügbar.
+      {% endif %}
