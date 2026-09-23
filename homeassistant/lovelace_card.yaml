@@ -1,0 +1,21 @@
+# Paste as a Manual card (YAML mode) in your dashboard, or into a
+# dashboard's YAML directly.
+
+type: markdown
+title: Five Moods – Today's Menu
+content: >-
+  {% set dishes = state_attr('sensor.five_moods_today', 'dishes') %}
+  {% if dishes %}
+  {% for d in dishes %}
+  **{{ d.category or 'Menu' }}** — {{ d.dish }}{% if d.price %} ({{ d.price }}){% endif %}
+
+  {% if d.description %}_{{ d.description }}_
+
+  {% endif -%}
+  {% if d.tags %}{{ d.tags | join(', ') }}
+
+  {% endif %}
+  {% endfor %}
+  {% else %}
+  No menu published for today.
+  {% endif %}

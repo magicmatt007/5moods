@@ -1,0 +1,229 @@
+{
+  "restaurant": "Five Moods (Siemens, Zug)",
+  "updated_utc": "2026-09-23T05:58:13+00:00",
+  "days": {
+    "2026-09-23": [
+      {
+        "category": "Daily's",
+        "dish": "Rinds Meatballs",
+        "description": "mit Tomatensauce, Jägerhörnli und Peperonata",
+        "price": "CHF 16.50",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Schonend gegarte Pouletbrust",
+        "description": "mit Salsa Verde,  Gemüse-Quinoa, gerösteten Maiskörnern und geröstetem Federkohl",
+        "price": "CHF 3.90",
+        "tags": [
+          "Glutenfrei",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Geräucherter Schweinshals-Braten",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Pasta Broccoli e Pinoli",
+        "description": "Pasta mit Olivenöl, Broccoli, gerösteten Pinienkernen und Frühlingszwiebeln",
+        "price": "CHF 15.90",
+        "tags": [
+          "Vegetarisch",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "The Caesar Burger",
+        "description": "im Brioche Bun mit Pouletbrust, Tomate, Zwiebeln, Essiggurke, Caesar Sauce, Römersalat und gehobeltem Hartkäse mit Pommes Frites",
+        "price": "CHF 22.90",
+        "tags": []
+      }
+    ],
+    "2026-09-24": [
+      {
+        "category": "Daily's",
+        "dish": "Poulet Schenkel Steak",
+        "description": "mit Rosmarinsauce, Spätzli und Bohnen",
+        "price": "CHF 15.90",
+        "tags": []
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Plant-Based Kebab",
+        "description": "mit Veganem Tzatziki, Gewürzreis, Sumac Peperoni und Spinat",
+        "price": "CHF 3.90",
+        "tags": [
+          "Vegan",
+          "Glutenfrei",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Schweins-geschnetzeltes",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Glutenfrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Pizza Prosciutto",
+        "description": "mit, Tomaten, Mozzarella, und Schinken",
+        "price": "CHF 20.90",
+        "tags": []
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Beefsteak Tatar XXL 220g",
+        "description": "mit Zwiebeln, Kapern, Oliven und Toast  Normale Portion 150g CHF 19.90",
+        "price": "CHF 26.50",
+        "tags": []
+      }
+    ],
+    "2026-09-25": [
+      {
+        "category": "Daily's",
+        "dish": "Nasi Goreng",
+        "description": "Indonesischer Reispfanne mit Gemüse und Planted Chicken",
+        "price": "CHF 15.90",
+        "tags": [
+          "Vegetarisch",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Gemüsebuffet",
+        "description": "Buntes Gemüsebuffet mit allerlei köstlichkeiten",
+        "price": "CHF 3.90",
+        "tags": [
+          "Vegan",
+          "Glutenfrei",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Fish and Chips",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": []
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Pizza & Pasta",
+        "description": "Immer von Montag bis Donnerstag",
+        "price": "CHF 0.00",
+        "tags": []
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Panierte Schweins-kotelette",
+        "description": "mit Pommes Frites und Ofentomate",
+        "price": "CHF 20.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      }
+    ],
+    "2026-09-28": [
+      {
+        "category": "Daily's",
+        "dish": "Schweins-Steak",
+        "description": "Thymian-Marsala Jus, Nudeln und Grill-Tomate",
+        "price": "CHF 17.50",
+        "tags": []
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Poulet Innenfilet",
+        "description": "mit Quark-Dip, Quinoa, Ofenbroccoli mit Fenchelsamen und Stangensellerie",
+        "price": "CHF 3.70",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Colin Knusperli",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.70",
+        "tags": []
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Ravioli Burrata Spinat",
+        "description": "Gefüllte Pasta mit Burrata Käse und Spinat mit Tomatensauce",
+        "price": "CHF 15.90",
+        "tags": []
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Fitnessteller Lachs",
+        "description": "Bunt gemischter Salatteller mit gebratenem Lachs und Zitrone",
+        "price": "CHF 19.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      }
+    ],
+    "2026-09-29": [
+      {
+        "category": "Daily's",
+        "dish": "Gelbes Thaicurry",
+        "description": "Quorn, Jasminreis, und Gemüse",
+        "price": "CHF 17.50",
+        "tags": [
+          "Vegan",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Gedämpfter Crevettenspiess",
+        "description": "mit Avocado Dip, Wildreis Wokgemüse und Chili-Pak-Choi",
+        "price": "CHF 3.70",
+        "tags": [
+          "Glutenfrei"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Rinds-Gulasch",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.70",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Mac and Cheese",
+        "description": "Hörnli an Cheddar-Käsesauce mit Röstzwiebeln",
+        "price": "CHF 15.90",
+        "tags": [
+          "Vegetarisch"
+        ]
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Reh Geschnetzeltes",
+        "description": "mit Wildrahmsauce, Butterspätzli, Rotkraut und Marroni",
+        "price": "CHF 24.90",
+        "tags": []
+      }
+    ]
+  }
+}
