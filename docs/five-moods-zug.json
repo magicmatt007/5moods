@@ -1,53 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-09-23T14:42:02+00:00",
+  "updated_utc": "2026-09-24T05:15:12+00:00",
   "days": {
-    "2026-09-23": [
-      {
-        "category": "Daily's",
-        "dish": "Rinds Meatballs",
-        "description": "mit Tomatensauce, Jägerhörnli und Peperonata",
-        "price": "CHF 16.50",
-        "tags": [
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Schonend gegarte Pouletfilets",
-        "description": "mit Salsa Verde,  Gemüse-Couscous, gerösteten Maiskörnern und geröstetem Federkohl",
-        "price": "CHF 3.90",
-        "tags": [
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Geräucherter Schweinshals-Braten",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Pasta Broccoli e Pinoli",
-        "description": "Pasta mit Olivenöl, Broccoli, gerösteten Pinienkernen und Frühlingszwiebeln",
-        "price": "CHF 15.90",
-        "tags": [
-          "Vegetarisch",
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "The Caesar Burger",
-        "description": "im Brioche Bun mit Pouletbrust, Tomate, Zwiebeln, Essiggurke, Caesar Sauce, Römersalat und gehobeltem Hartkäse mit Pommes Frites",
-        "price": "CHF 22.90",
-        "tags": []
-      }
-    ],
     "2026-09-24": [
       {
         "category": "Daily's",
@@ -220,58 +174,50 @@
         "price": "CHF 24.90",
         "tags": []
       }
+    ],
+    "2026-09-30": [
+      {
+        "category": "Daily's",
+        "dish": "Sesam Chicken Stripes",
+        "description": "Sweet-Chili-Sauce, Gebratenen Nudeln, und Wokgemüse mit Sprossen",
+        "price": "CHF 18.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Gebackene Mungobohnen Bites",
+        "description": "mit Tomatensauce, Vollkorn Penne, Wurzelgemüse aus dem Ofen  und Romanesco",
+        "price": "CHF 3.70",
+        "tags": [
+          "Vegetarisch"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Cipollata",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.70",
+        "tags": []
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Farfalle Carbonara",
+        "description": "mit Speck-Rahmsauce und Reibkäse",
+        "price": "CHF 15.90",
+        "tags": []
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "The Crispy Chicken Hawaii Burger",
+        "description": "paniertes Pouletschenkel Steak im Briochebun mit Eisberg, grillierter Ananas, Cheddar, Curry Mayonnaise und Pommes Frites",
+        "price": "CHF 20.90",
+        "tags": []
+      }
     ]
   },
   "by_weekday": {
-    "Mi": {
-      "date": "2026-09-23",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Rinds Meatballs",
-          "description": "mit Tomatensauce, Jägerhörnli und Peperonata",
-          "price": "CHF 16.50",
-          "tags": [
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Schonend gegarte Pouletfilets",
-          "description": "mit Salsa Verde,  Gemüse-Couscous, gerösteten Maiskörnern und geröstetem Federkohl",
-          "price": "CHF 3.90",
-          "tags": [
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Geräucherter Schweinshals-Braten",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Pasta Broccoli e Pinoli",
-          "description": "Pasta mit Olivenöl, Broccoli, gerösteten Pinienkernen und Frühlingszwiebeln",
-          "price": "CHF 15.90",
-          "tags": [
-            "Vegetarisch",
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "The Caesar Burger",
-          "description": "im Brioche Bun mit Pouletbrust, Tomate, Zwiebeln, Essiggurke, Caesar Sauce, Römersalat und gehobeltem Hartkäse mit Pommes Frites",
-          "price": "CHF 22.90",
-          "tags": []
-        }
-      ]
-    },
     "Do": {
       "date": "2026-09-24",
       "entries": [
@@ -453,6 +399,50 @@
           "dish": "Reh Geschnetzeltes",
           "description": "mit Wildrahmsauce, Butterspätzli, Rotkraut und Marroni",
           "price": "CHF 24.90",
+          "tags": []
+        }
+      ]
+    },
+    "Mi": {
+      "date": "2026-09-30",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Sesam Chicken Stripes",
+          "description": "Sweet-Chili-Sauce, Gebratenen Nudeln, und Wokgemüse mit Sprossen",
+          "price": "CHF 18.90",
+          "tags": [
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Gebackene Mungobohnen Bites",
+          "description": "mit Tomatensauce, Vollkorn Penne, Wurzelgemüse aus dem Ofen  und Romanesco",
+          "price": "CHF 3.70",
+          "tags": [
+            "Vegetarisch"
+          ]
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Cipollata",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.70",
+          "tags": []
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Farfalle Carbonara",
+          "description": "mit Speck-Rahmsauce und Reibkäse",
+          "price": "CHF 15.90",
+          "tags": []
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "The Crispy Chicken Hawaii Burger",
+          "description": "paniertes Pouletschenkel Steak im Briochebun mit Eisberg, grillierter Ananas, Cheddar, Curry Mayonnaise und Pommes Frites",
+          "price": "CHF 20.90",
           "tags": []
         }
       ]
