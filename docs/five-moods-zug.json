@@ -1,50 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-09-25T05:15:07+00:00",
+  "updated_utc": "2026-09-26T05:13:38+00:00",
   "days": {
-    "2026-09-25": [
-      {
-        "category": "Daily's",
-        "dish": "Pasta-Plausch",
-        "description": "mit Rinds-Bolognese, Tomatensauce und Gemüse-Rahmsauce, dazu ein Menüsalat",
-        "price": "CHF 15.90",
-        "tags": []
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Gemüsebuffet",
-        "description": "Buntes Gemüsebuffet mit allerlei köstlichkeiten",
-        "price": "CHF 3.90",
-        "tags": [
-          "Vegan",
-          "Glutenfrei",
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Fish and Chips",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": []
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Pizza & Pasta",
-        "description": "Immer von Montag bis Donnerstag",
-        "price": "CHF 0.00",
-        "tags": []
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "Panierte Schweins-kotelette",
-        "description": "mit Pommes Frites und Ofentomate",
-        "price": "CHF 20.90",
-        "tags": [
-          "Laktosefrei"
-        ]
-      }
-    ],
     "2026-09-28": [
       {
         "category": "Daily's",
@@ -57,7 +14,7 @@
         "category": "Healthy Choice",
         "dish": "Poulet Innenfilet",
         "description": "mit Quark-Dip, Quinoa, Ofenbroccoli mit Fenchelsamen und Stangensellerie",
-        "price": "CHF 3.70",
+        "price": "CHF 3.90",
         "tags": [
           "Laktosefrei"
         ]
@@ -66,7 +23,7 @@
         "category": "Free Choice",
         "dish": "Colin Knusperli",
         "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.70",
+        "price": "CHF 3.90",
         "tags": []
       },
       {
@@ -84,6 +41,13 @@
         "tags": [
           "Laktosefrei"
         ]
+      },
+      {
+        "category": "HEALTHY CHOICE",
+        "dish": "Salatbuffet",
+        "description": "",
+        "price": "CHF 0.00",
+        "tags": []
       }
     ],
     "2026-09-29": [
@@ -101,7 +65,7 @@
         "category": "Healthy Choice",
         "dish": "Gedämpfter Crevettenspiess",
         "description": "mit Avocado Dip, Wildreis Wokgemüse und Chili-Pak-Choi",
-        "price": "CHF 3.70",
+        "price": "CHF 3.90",
         "tags": [
           "Glutenfrei"
         ]
@@ -110,7 +74,7 @@
         "category": "Free Choice",
         "dish": "Rinds-Gulasch",
         "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.70",
+        "price": "CHF 3.90",
         "tags": [
           "Laktosefrei"
         ]
@@ -146,7 +110,7 @@
         "category": "Healthy Choice",
         "dish": "Gebackene Mungobohnen Bites",
         "description": "mit Tomatensauce, Vollkorn Penne, Wurzelgemüse aus dem Ofen  und Romanesco",
-        "price": "CHF 3.70",
+        "price": "CHF 3.90",
         "tags": [
           "Vegetarisch"
         ]
@@ -155,7 +119,7 @@
         "category": "Free Choice",
         "dish": "Cipollata",
         "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.70",
+        "price": "CHF 3.90",
         "tags": []
       },
       {
@@ -185,7 +149,7 @@
         "category": "Healthy Choice",
         "dish": "Linsen-Fleisch Tätschli",
         "description": "mit Kräutersalsa, gedämpften Kartoffeln, Gerösteten Karotten und gedämpften Kohlrabi",
-        "price": "CHF 3.70",
+        "price": "CHF 3.90",
         "tags": [
           "Laktosefrei"
         ]
@@ -194,7 +158,7 @@
         "category": "Free Choice",
         "dish": "Herbst Vegi Buffet",
         "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.70",
+        "price": "CHF 3.90",
         "tags": [
           "Vegetarisch"
         ]
@@ -213,55 +177,51 @@
         "price": "CHF 26.50",
         "tags": []
       }
+    ],
+    "2026-10-02": [
+      {
+        "category": "Daily's",
+        "dish": "Pasta-Plausch",
+        "description": "mit drei verschiedenen Saucen, Käse-Rahm-, Bolo- und Tomatensauce Reibkäse und ein Menü-Salat",
+        "price": "CHF 14.90",
+        "tags": []
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Gefüllte Auberginen",
+        "description": "mit Couscous, Lauch  Heute im Free Choice Integriert",
+        "price": "CHF 3.90",
+        "tags": [
+          "Vegetarisch",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Truthahnbraten",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Pizza & Pasta",
+        "description": "Immer von Montag bis Donnerstag",
+        "price": "CHF 0.00",
+        "tags": []
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Poulet Cordon-Bleu",
+        "description": "mit Pommes Frites und zweifarbigen Karotten",
+        "price": "CHF 18.50",
+        "tags": []
+      }
     ]
   },
   "by_weekday": {
-    "Fr": {
-      "date": "2026-09-25",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Pasta-Plausch",
-          "description": "mit Rinds-Bolognese, Tomatensauce und Gemüse-Rahmsauce, dazu ein Menüsalat",
-          "price": "CHF 15.90",
-          "tags": []
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Gemüsebuffet",
-          "description": "Buntes Gemüsebuffet mit allerlei köstlichkeiten",
-          "price": "CHF 3.90",
-          "tags": [
-            "Vegan",
-            "Glutenfrei",
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Fish and Chips",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": []
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Pizza & Pasta",
-          "description": "Immer von Montag bis Donnerstag",
-          "price": "CHF 0.00",
-          "tags": []
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "Panierte Schweins-kotelette",
-          "description": "mit Pommes Frites und Ofentomate",
-          "price": "CHF 20.90",
-          "tags": [
-            "Laktosefrei"
-          ]
-        }
-      ]
-    },
     "Mo": {
       "date": "2026-09-28",
       "entries": [
@@ -276,7 +236,7 @@
           "category": "Healthy Choice",
           "dish": "Poulet Innenfilet",
           "description": "mit Quark-Dip, Quinoa, Ofenbroccoli mit Fenchelsamen und Stangensellerie",
-          "price": "CHF 3.70",
+          "price": "CHF 3.90",
           "tags": [
             "Laktosefrei"
           ]
@@ -285,7 +245,7 @@
           "category": "Free Choice",
           "dish": "Colin Knusperli",
           "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.70",
+          "price": "CHF 3.90",
           "tags": []
         },
         {
@@ -303,6 +263,13 @@
           "tags": [
             "Laktosefrei"
           ]
+        },
+        {
+          "category": "HEALTHY CHOICE",
+          "dish": "Salatbuffet",
+          "description": "",
+          "price": "CHF 0.00",
+          "tags": []
         }
       ]
     },
@@ -323,7 +290,7 @@
           "category": "Healthy Choice",
           "dish": "Gedämpfter Crevettenspiess",
           "description": "mit Avocado Dip, Wildreis Wokgemüse und Chili-Pak-Choi",
-          "price": "CHF 3.70",
+          "price": "CHF 3.90",
           "tags": [
             "Glutenfrei"
           ]
@@ -332,7 +299,7 @@
           "category": "Free Choice",
           "dish": "Rinds-Gulasch",
           "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.70",
+          "price": "CHF 3.90",
           "tags": [
             "Laktosefrei"
           ]
@@ -371,7 +338,7 @@
           "category": "Healthy Choice",
           "dish": "Gebackene Mungobohnen Bites",
           "description": "mit Tomatensauce, Vollkorn Penne, Wurzelgemüse aus dem Ofen  und Romanesco",
-          "price": "CHF 3.70",
+          "price": "CHF 3.90",
           "tags": [
             "Vegetarisch"
           ]
@@ -380,7 +347,7 @@
           "category": "Free Choice",
           "dish": "Cipollata",
           "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.70",
+          "price": "CHF 3.90",
           "tags": []
         },
         {
@@ -413,7 +380,7 @@
           "category": "Healthy Choice",
           "dish": "Linsen-Fleisch Tätschli",
           "description": "mit Kräutersalsa, gedämpften Kartoffeln, Gerösteten Karotten und gedämpften Kohlrabi",
-          "price": "CHF 3.70",
+          "price": "CHF 3.90",
           "tags": [
             "Laktosefrei"
           ]
@@ -422,7 +389,7 @@
           "category": "Free Choice",
           "dish": "Herbst Vegi Buffet",
           "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.70",
+          "price": "CHF 3.90",
           "tags": [
             "Vegetarisch"
           ]
@@ -439,6 +406,51 @@
           "dish": "Beefsteak Tatar XXL 220gr",
           "description": "mit Zwiebeln, Kapern, Oliven und Toast  150gr CHF 19.90",
           "price": "CHF 26.50",
+          "tags": []
+        }
+      ]
+    },
+    "Fr": {
+      "date": "2026-10-02",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Pasta-Plausch",
+          "description": "mit drei verschiedenen Saucen, Käse-Rahm-, Bolo- und Tomatensauce Reibkäse und ein Menü-Salat",
+          "price": "CHF 14.90",
+          "tags": []
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Gefüllte Auberginen",
+          "description": "mit Couscous, Lauch  Heute im Free Choice Integriert",
+          "price": "CHF 3.90",
+          "tags": [
+            "Vegetarisch",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Truthahnbraten",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Pizza & Pasta",
+          "description": "Immer von Montag bis Donnerstag",
+          "price": "CHF 0.00",
+          "tags": []
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "Poulet Cordon-Bleu",
+          "description": "mit Pommes Frites und zweifarbigen Karotten",
+          "price": "CHF 18.50",
           "tags": []
         }
       ]

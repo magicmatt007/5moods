@@ -4,50 +4,34 @@ PRODID:-//Five Moods Menu//Five Moods (Siemens\, Zug)//DE
 X-WR-CALNAME:Mittagsmenu Five Moods (Siemens, Zug)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
-DTSTART:20260925T113000
-DTEND:20260925T130000
-DTSTAMP:20260925T051507Z
-UID:five-moods-zug-2026-09-25-5f1900c9776e@5moods
-DESCRIPTION:DAILY'S\n-------\nPasta-Plausch\nmit Rinds-Bolognese\, Tomaten
- sauce und Gemüse-Rahmsauce\, dazu ein Menüsalat\nCHF 15.90\n\n\nHEALTHY
-  CHOICE\n--------------\nGemüsebuffet\nBuntes Gemüsebuffet mit allerlei 
- köstlichkeiten\nCHF 3.90\n(Vegan\, Glutenfrei\, Laktosefrei)\n\n\nFREE C
- HOICE\n-----------\nFish and Chips\nmit Beilagen vom Free Choice- und Sala
- tbuffet.    pro 100g\nCHF 3.90\n\n\nTASTE OF ITALY\n--------------\nPizza
-  & Pasta\nImmer von Montag bis Donnerstag\nCHF 0.00\n\n\nCHEF’S CHOICE
- \n-------------\nPanierte Schweins-kotelette\nmit Pommes Frites und Ofento
- mate\nCHF 20.90\n(Laktosefrei)
-LOCATION:Five Moods (Siemens\, Zug)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20260928T113000
 DTEND:20260928T130000
-DTSTAMP:20260925T051507Z
-UID:five-moods-zug-2026-09-28-939aa6dfe09d@5moods
+DTSTAMP:20260926T051338Z
+UID:five-moods-zug-2026-09-28-0e174e543600@5moods
 DESCRIPTION:DAILY'S\n-------\nSchweins-Steak\nThymian-Marsala Jus\, Nudeln
   und Grill-Tomate\nCHF 17.50\n\n\nHEALTHY CHOICE\n--------------\nPoulet 
  Innenfilet\nmit Quark-Dip\, Quinoa\, Ofenbroccoli mit Fenchelsamen und Sta
- ngensellerie\nCHF 3.70\n(Laktosefrei)\n\n\nFREE CHOICE\n-----------\nColi
+ ngensellerie\nCHF 3.90\n(Laktosefrei)\n\n\nFREE CHOICE\n-----------\nColi
  n Knusperli\nmit Beilagen vom Free Choice- und Salatbuffet.    pro 100g\nC
- HF 3.70\n\n\nTASTE OF ITALY\n--------------\nRavioli Burrata Spinat\nGef
+ HF 3.90\n\n\nTASTE OF ITALY\n--------------\nRavioli Burrata Spinat\nGef
  üllte Pasta mit Burrata Käse und Spinat mit Tomatensauce\nCHF 15.90\n\n
  \nCHEF’S CHOICE\n-------------\nFitnessteller Lachs\nBunt gemischter Sal
- atteller mit gebratenem Lachs und Zitrone\nCHF 19.90\n(Laktosefrei)
+ atteller mit gebratenem Lachs und Zitrone\nCHF 19.90\n(Laktosefrei)\n\n\n
+ HEALTHY CHOICE\n--------------\nSalatbuffet\nCHF 0.00
 LOCATION:Five Moods (Siemens\, Zug)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20260929T113000
 DTEND:20260929T130000
-DTSTAMP:20260925T051507Z
-UID:five-moods-zug-2026-09-29-0247a114b25c@5moods
+DTSTAMP:20260926T051338Z
+UID:five-moods-zug-2026-09-29-994e892db38e@5moods
 DESCRIPTION:DAILY'S\n-------\nGelbes Thaicurry\nQuorn\, Jasminreis\, und G
  emüse\nCHF 17.50\n(Vegan\, Laktosefrei)\n\n\nHEALTHY CHOICE\n-----------
  ---\nGedämpfter Crevettenspiess\nmit Avocado Dip\, Wildreis Wokgemüse un
- d Chili-Pak-Choi\nCHF 3.70\n(Glutenfrei)\n\n\nFREE CHOICE\n-----------\nR
+ d Chili-Pak-Choi\nCHF 3.90\n(Glutenfrei)\n\n\nFREE CHOICE\n-----------\nR
  inds-Gulasch\nmit Beilagen vom Free Choice- und Salatbuffet.    pro 100g\n
- CHF 3.70\n(Laktosefrei)\n\n\nTASTE OF ITALY\n--------------\nMac and Chee
+ CHF 3.90\n(Laktosefrei)\n\n\nTASTE OF ITALY\n--------------\nMac and Chee
  se\nHörnli an Cheddar-Käsesauce mit Röstzwiebeln\nCHF 15.90\n(Vegetari
  sch)\n\n\nCHEF’S CHOICE\n-------------\nReh Geschnetzeltes\nmit Wildrahm
  sauce\, Butterspätzli\, Rotkraut und Marroni\nCHF 24.90
@@ -57,14 +41,14 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20260930T113000
 DTEND:20260930T130000
-DTSTAMP:20260925T051507Z
-UID:five-moods-zug-2026-09-30-0a2d0bd28324@5moods
+DTSTAMP:20260926T051338Z
+UID:five-moods-zug-2026-09-30-231d8f5a6844@5moods
 DESCRIPTION:DAILY'S\n-------\nSesam Chicken Stripes\nSweet-Chili-Sauce\, G
  ebratenen Nudeln\, und Wokgemüse mit Sprossen\nCHF 18.90\n(Laktosefrei)
  \n\n\nHEALTHY CHOICE\n--------------\nGebackene Mungobohnen Bites\nmit Tom
  atensauce\, Vollkorn Penne\, Wurzelgemüse aus dem Ofen  und Romanesco\nCH
- F 3.70\n(Vegetarisch)\n\n\nFREE CHOICE\n-----------\nCipollata\nmit Beila
- gen vom Free Choice- und Salatbuffet.    pro 100g\nCHF 3.70\n\n\nTASTE OF
+ F 3.90\n(Vegetarisch)\n\n\nFREE CHOICE\n-----------\nCipollata\nmit Beila
+ gen vom Free Choice- und Salatbuffet.    pro 100g\nCHF 3.90\n\n\nTASTE OF
   ITALY\n--------------\nFarfalle Carbonara\nmit Speck-Rahmsauce und Reibk
  äse\nCHF 15.90\n\n\nCHEF’S CHOICE\n-------------\nThe Crispy Chicken H
  awaii Burger\npaniertes Pouletschenkel Steak im Briochebun mit Eisberg\, g
@@ -76,18 +60,35 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261001T113000
 DTEND:20261001T130000
-DTSTAMP:20260925T051507Z
-UID:five-moods-zug-2026-10-01-24948393b2a5@5moods
+DTSTAMP:20260926T051338Z
+UID:five-moods-zug-2026-10-01-464b371bab3d@5moods
 DESCRIPTION:DAILY'S\n-------\nPoulet Schenkel\nRotweinsauce\, Kartoffelspa
  lten und Bohnenpfanne\nCHF 14.90\n\n\nHEALTHY CHOICE\n--------------\nLin
  sen-Fleisch Tätschli\nmit Kräutersalsa\, gedämpften Kartoffeln\, Gerös
- teten Karotten und gedämpften Kohlrabi\nCHF 3.70\n(Laktosefrei)\n\n\nFRE
+ teten Karotten und gedämpften Kohlrabi\nCHF 3.90\n(Laktosefrei)\n\n\nFRE
  E CHOICE\n-----------\nHerbst Vegi Buffet\nmit Beilagen vom Free Choice- u
- nd Salatbuffet.    pro 100g\nCHF 3.70\n(Vegetarisch)\n\n\nTASTE OF ITALY
+ nd Salatbuffet.    pro 100g\nCHF 3.90\n(Vegetarisch)\n\n\nTASTE OF ITALY
  \n--------------\nPizza Prosciutto\nmit Tomate\, Mozzarella\, und Schinken
  streifen\nCHF 20.50\n\n\nCHEF’S CHOICE\n-------------\nBeefsteak Tatar 
  XXL 220gr\nmit Zwiebeln\, Kapern\, Oliven und Toast  150gr CHF 19.90\nCHF
   26.50
+LOCATION:Five Moods (Siemens\, Zug)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
+DTSTART:20261002T113000
+DTEND:20261002T130000
+DTSTAMP:20260926T051338Z
+UID:five-moods-zug-2026-10-02-7048771f9669@5moods
+DESCRIPTION:DAILY'S\n-------\nPasta-Plausch\nmit drei verschiedenen Saucen
+ \, Käse-Rahm-\, Bolo- und Tomatensauce Reibkäse und ein Menü-Salat\nCHF
+  14.90\n\n\nHEALTHY CHOICE\n--------------\nGefüllte Auberginen\nmit Cou
+ scous\, Lauch  Heute im Free Choice Integriert\nCHF 3.90\n(Vegetarisch\, 
+ Laktosefrei)\n\n\nFREE CHOICE\n-----------\nTruthahnbraten\nmit Beilagen v
+ om Free Choice- und Salatbuffet.    pro 100g\nCHF 3.90\n(Laktosefrei)\n\n
+ \nTASTE OF ITALY\n--------------\nPizza & Pasta\nImmer von Montag bis Donn
+ erstag\nCHF 0.00\n\n\nCHEF’S CHOICE\n-------------\nPoulet Cordon-Bleu
+ \nmit Pommes Frites und zweifarbigen Karotten\nCHF 18.50
 LOCATION:Five Moods (Siemens\, Zug)
 END:VEVENT
 END:VCALENDAR
