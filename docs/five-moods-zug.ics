@@ -4,26 +4,9 @@ PRODID:-//Five Moods Menu//Five Moods (Siemens\, Zug)//DE
 X-WR-CALNAME:Mittagsmenu Five Moods (Siemens, Zug)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
-DTSTART:20260929T113000
-DTEND:20260929T130000
-DTSTAMP:20260929T051555Z
-UID:five-moods-zug-2026-09-29-26490c6e618b@5moods
-DESCRIPTION:DAILY'S\n-------\nGelbes Thaicurry\nTofu\, Jasminreis\, und Ge
- müse\nCHF 17.50\n(Vegan\, Laktosefrei)\n\n\nHEALTHY CHOICE\n------------
- --\nGedämpfter Crevettenspiess\nmit Avocado Dip\, Wildreis Wokgemüse und
-  Chili-Pak-Choi\nCHF 3.90\n(Glutenfrei)\n\n\nFREE CHOICE\n-----------\nRi
- nds-Gulasch\nmit Beilagen vom Free Choice- und Salatbuffet.    pro 100g\nC
- HF 3.90\n(Laktosefrei)\n\n\nTASTE OF ITALY\n--------------\nMac and Chees
- e\nHörnli an Cheddar-Käsesauce mit Röstzwiebeln\nCHF 15.90\n(Vegetaris
- ch)\n\n\nCHEF’S CHOICE\n-------------\nReh Geschnetzeltes\nmit Wildrahms
- auce\, Butterspätzli\, Rotkraut und Marroni\nCHF 24.90
-LOCATION:Five Moods (Siemens\, Zug)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20260930T113000
 DTEND:20260930T130000
-DTSTAMP:20260929T051555Z
+DTSTAMP:20260930T051539Z
 UID:five-moods-zug-2026-09-30-18149b77e96f@5moods
 DESCRIPTION:DAILY'S\n-------\nPoulet Innenfilets\nSweet-Chili-Sauce\, Gebr
  atenen Nudeln\, und Wokgemüse mit Sprossen\nCHF 18.90\n(Laktosefrei)\n\n
@@ -41,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261001T113000
 DTEND:20261001T130000
-DTSTAMP:20260929T051555Z
+DTSTAMP:20260930T051539Z
 UID:five-moods-zug-2026-10-01-9ea5f14d8cb5@5moods
 DESCRIPTION:DAILY'S\n-------\nPoulet Schenkel\nRotweinsauce\, Kartoffelspa
  lten und Bohnenpfanne\nCHF 15.90\n\n\nHEALTHY CHOICE\n--------------\nLin
@@ -59,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261002T113000
 DTEND:20261002T130000
-DTSTAMP:20260929T051555Z
+DTSTAMP:20260930T051539Z
 UID:five-moods-zug-2026-10-02-cf2396899838@5moods
 DESCRIPTION:DAILY'S\n-------\nPasta-Plausch\nmit drei verschiedenen Saucen
  \, Käse-Rahm-\, Bolo- und Tomatensauce Reibkäse und ein Menü-Salat\nCHF
@@ -76,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261005T113000
 DTEND:20261005T130000
-DTSTAMP:20260929T051555Z
+DTSTAMP:20260930T051539Z
 UID:five-moods-zug-2026-10-05-50e5ea987ffa@5moods
 DESCRIPTION:DAILY'S\n-------\nPoulet Meatballs\nmit Pfeffersauce\,  Countr
  y Cuts  und Tex-Mex Gemüse\nCHF 15.90\n\n\nHEALTHY CHOICE\n-------------
@@ -88,6 +71,24 @@ DESCRIPTION:DAILY'S\n-------\nPoulet Meatballs\nmit Pfeffersauce\,  Countr
  5.90\n(Vegetarisch)\n\n\nCHEF’S CHOICE\n-------------\nFitnessteller mit
   grillierter Pouletbrust\nBunt gemischter Salatteller mit grillierter Poul
  etbrust und Kräuterdip\nCHF 19.90
+LOCATION:Five Moods (Siemens\, Zug)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
+DTSTART:20261006T113000
+DTEND:20261006T130000
+DTSTAMP:20260930T051539Z
+UID:five-moods-zug-2026-10-06-5f42505ad7dc@5moods
+DESCRIPTION:DAILY'S\n-------\nSpätzlipfanne\nmit Röstzwiebeln\, Wurzelge
+ müse und Menüsalat\nCHF 15.90\n(Vegetarisch)\n\n\nHEALTHY CHOICE\n-----
+ ---------\nTruten Piccata\nmit Tomatensauce\, Purpur Weizen\, Peperoni und
+  Maisgemüse  Pro 100g\nCHF 3.90\n\n\nFREE CHOICE\n-----------\nEnten-ges
+ chnetzeltes\nmit Beilagen vom Free Choice- und Salatbuffet.    pro 100g\nC
+ HF 3.90\n(Glutenfrei\, Laktosefrei)\n\n\nTASTE OF ITALY\n--------------\n
+ Pizza Della Contadina\nmit Tomatensauce\, Mozzarella\, Frischkäse\, Zwieb
+ eln und Knoblauch\nCHF 21.90\n(Vegetarisch)\n\n\nCHEF’S CHOICE\n-------
+ ------\nOsso Buco Gremolata\nGeschmorte Kalbshaxe mit Gremolata Garnitur\,
+  Risotto Milanese und Peperonata\nCHF 23.90
 LOCATION:Five Moods (Siemens\, Zug)
 END:VEVENT
 END:VCALENDAR

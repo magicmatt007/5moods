@@ -1,53 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-09-29T05:15:55+00:00",
+  "updated_utc": "2026-09-30T05:15:39+00:00",
   "days": {
-    "2026-09-29": [
-      {
-        "category": "Daily's",
-        "dish": "Gelbes Thaicurry",
-        "description": "Tofu, Jasminreis, und Gemüse",
-        "price": "CHF 17.50",
-        "tags": [
-          "Vegan",
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Gedämpfter Crevettenspiess",
-        "description": "mit Avocado Dip, Wildreis Wokgemüse und Chili-Pak-Choi",
-        "price": "CHF 3.90",
-        "tags": [
-          "Glutenfrei"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Rinds-Gulasch",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Mac and Cheese",
-        "description": "Hörnli an Cheddar-Käsesauce mit Röstzwiebeln",
-        "price": "CHF 15.90",
-        "tags": [
-          "Vegetarisch"
-        ]
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "Reh Geschnetzeltes",
-        "description": "mit Wildrahmsauce, Butterspätzli, Rotkraut und Marroni",
-        "price": "CHF 24.90",
-        "tags": []
-      }
-    ],
     "2026-09-30": [
       {
         "category": "Daily's",
@@ -212,58 +166,53 @@
         "price": "CHF 19.90",
         "tags": []
       }
+    ],
+    "2026-10-06": [
+      {
+        "category": "Daily's",
+        "dish": "Spätzlipfanne",
+        "description": "mit Röstzwiebeln, Wurzelgemüse und Menüsalat",
+        "price": "CHF 15.90",
+        "tags": [
+          "Vegetarisch"
+        ]
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Truten Piccata",
+        "description": "mit Tomatensauce, Purpur Weizen, Peperoni und Maisgemüse  Pro 100g",
+        "price": "CHF 3.90",
+        "tags": []
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Enten-geschnetzeltes",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Glutenfrei",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Pizza Della Contadina",
+        "description": "mit Tomatensauce, Mozzarella, Frischkäse, Zwiebeln und Knoblauch",
+        "price": "CHF 21.90",
+        "tags": [
+          "Vegetarisch"
+        ]
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Osso Buco Gremolata",
+        "description": "Geschmorte Kalbshaxe mit Gremolata Garnitur, Risotto Milanese und Peperonata",
+        "price": "CHF 23.90",
+        "tags": []
+      }
     ]
   },
   "by_weekday": {
-    "Di": {
-      "date": "2026-09-29",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Gelbes Thaicurry",
-          "description": "Tofu, Jasminreis, und Gemüse",
-          "price": "CHF 17.50",
-          "tags": [
-            "Vegan",
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Gedämpfter Crevettenspiess",
-          "description": "mit Avocado Dip, Wildreis Wokgemüse und Chili-Pak-Choi",
-          "price": "CHF 3.90",
-          "tags": [
-            "Glutenfrei"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Rinds-Gulasch",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Mac and Cheese",
-          "description": "Hörnli an Cheddar-Käsesauce mit Röstzwiebeln",
-          "price": "CHF 15.90",
-          "tags": [
-            "Vegetarisch"
-          ]
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "Reh Geschnetzeltes",
-          "description": "mit Wildrahmsauce, Butterspätzli, Rotkraut und Marroni",
-          "price": "CHF 24.90",
-          "tags": []
-        }
-      ]
-    },
     "Mi": {
       "date": "2026-09-30",
       "entries": [
@@ -437,6 +386,53 @@
           "dish": "Fitnessteller mit grillierter Pouletbrust",
           "description": "Bunt gemischter Salatteller mit grillierter Pouletbrust und Kräuterdip",
           "price": "CHF 19.90",
+          "tags": []
+        }
+      ]
+    },
+    "Di": {
+      "date": "2026-10-06",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Spätzlipfanne",
+          "description": "mit Röstzwiebeln, Wurzelgemüse und Menüsalat",
+          "price": "CHF 15.90",
+          "tags": [
+            "Vegetarisch"
+          ]
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Truten Piccata",
+          "description": "mit Tomatensauce, Purpur Weizen, Peperoni und Maisgemüse  Pro 100g",
+          "price": "CHF 3.90",
+          "tags": []
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Enten-geschnetzeltes",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Glutenfrei",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Pizza Della Contadina",
+          "description": "mit Tomatensauce, Mozzarella, Frischkäse, Zwiebeln und Knoblauch",
+          "price": "CHF 21.90",
+          "tags": [
+            "Vegetarisch"
+          ]
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "Osso Buco Gremolata",
+          "description": "Geschmorte Kalbshaxe mit Gremolata Garnitur, Risotto Milanese und Peperonata",
+          "price": "CHF 23.90",
           "tags": []
         }
       ]
