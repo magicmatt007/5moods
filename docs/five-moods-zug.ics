@@ -4,27 +4,9 @@ PRODID:-//Five Moods Menu//Five Moods (Siemens\, Zug)//DE
 X-WR-CALNAME:Mittagsmenu Five Moods (Siemens, Zug)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
-DTSTART:20260930T113000
-DTEND:20260930T130000
-DTSTAMP:20260930T051539Z
-UID:five-moods-zug-2026-09-30-18149b77e96f@5moods
-DESCRIPTION:DAILY'S\n-------\nPoulet Innenfilets\nSweet-Chili-Sauce\, Gebr
- atenen Nudeln\, und Wokgemüse mit Sprossen\nCHF 18.90\n(Laktosefrei)\n\n
- \nHEALTHY CHOICE\n--------------\nGebackene Mungobohnen Bites\nmit Tomaten
- sauce\, Vollkorn Penne\, Wurzelgemüse aus dem Ofen  und Romanesco\nCHF 3
- .90\n(Vegetarisch)\n\n\nFREE CHOICE\n-----------\nCipollata\nmit Beilagen 
- vom Free Choice- und Salatbuffet.    pro 100g\nCHF 3.90\n\n\nTASTE OF ITA
- LY\n--------------\nFarfalle Carbonara\nmit Speck-Rahmsauce und Reibkäse
- \nCHF 15.90\n\n\nCHEF’S CHOICE\n-------------\nThe Crispy Chicken Hawai
- i Burger\npaniertes Pouletschenkel Steak im Briochebun mit Eisberg\, grill
- ierter Ananas\, Cheddar\, Curry Mayonnaise und Pommes Frites\nCHF 20.90
-LOCATION:Five Moods (Siemens\, Zug)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261001T113000
 DTEND:20261001T130000
-DTSTAMP:20260930T051539Z
+DTSTAMP:20261001T051558Z
 UID:five-moods-zug-2026-10-01-9ea5f14d8cb5@5moods
 DESCRIPTION:DAILY'S\n-------\nPoulet Schenkel\nRotweinsauce\, Kartoffelspa
  lten und Bohnenpfanne\nCHF 15.90\n\n\nHEALTHY CHOICE\n--------------\nLin
@@ -42,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261002T113000
 DTEND:20261002T130000
-DTSTAMP:20260930T051539Z
+DTSTAMP:20261001T051558Z
 UID:five-moods-zug-2026-10-02-cf2396899838@5moods
 DESCRIPTION:DAILY'S\n-------\nPasta-Plausch\nmit drei verschiedenen Saucen
  \, Käse-Rahm-\, Bolo- und Tomatensauce Reibkäse und ein Menü-Salat\nCHF
@@ -59,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261005T113000
 DTEND:20261005T130000
-DTSTAMP:20260930T051539Z
+DTSTAMP:20261001T051558Z
 UID:five-moods-zug-2026-10-05-50e5ea987ffa@5moods
 DESCRIPTION:DAILY'S\n-------\nPoulet Meatballs\nmit Pfeffersauce\,  Countr
  y Cuts  und Tex-Mex Gemüse\nCHF 15.90\n\n\nHEALTHY CHOICE\n-------------
@@ -77,10 +59,10 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261006T113000
 DTEND:20261006T130000
-DTSTAMP:20260930T051539Z
-UID:five-moods-zug-2026-10-06-5f42505ad7dc@5moods
+DTSTAMP:20261001T051558Z
+UID:five-moods-zug-2026-10-06-22bd06ab3d1c@5moods
 DESCRIPTION:DAILY'S\n-------\nSpätzlipfanne\nmit Röstzwiebeln\, Wurzelge
- müse und Menüsalat\nCHF 15.90\n(Vegetarisch)\n\n\nHEALTHY CHOICE\n-----
+ müse und Menüsalat\nCHF 15.50\n(Vegetarisch)\n\n\nHEALTHY CHOICE\n-----
  ---------\nTruten Piccata\nmit Tomatensauce\, Purpur Weizen\, Peperoni und
   Maisgemüse  Pro 100g\nCHF 3.90\n\n\nFREE CHOICE\n-----------\nEnten-ges
  chnetzeltes\nmit Beilagen vom Free Choice- und Salatbuffet.    pro 100g\nC
@@ -89,6 +71,24 @@ DESCRIPTION:DAILY'S\n-------\nSpätzlipfanne\nmit Röstzwiebeln\, Wurzelge
  eln und Knoblauch\nCHF 21.90\n(Vegetarisch)\n\n\nCHEF’S CHOICE\n-------
  ------\nOsso Buco Gremolata\nGeschmorte Kalbshaxe mit Gremolata Garnitur\,
   Risotto Milanese und Peperonata\nCHF 23.90
+LOCATION:Five Moods (Siemens\, Zug)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
+DTSTART:20261007T113000
+DTEND:20261007T130000
+DTSTAMP:20261001T051558Z
+UID:five-moods-zug-2026-10-07-fbebe32458cf@5moods
+DESCRIPTION:DAILY'S\n-------\nRotes Thai Curry\nmit Gemüse\, Kefen und Ja
+ sminreis\nCHF 18.50\n(Vegan\, Glutenfrei\, Laktosefrei)\n\n\nHEALTHY CHOI
+ CE\n--------------\nPochierter Rotbarsch\nmit leichter Apfelsauce\, Dampfk
+ artoffeln\, Spinat und Karotten  Pro 100g\nCHF 3.90\n\n\nFREE CHOICE\n---
+ --------\nTessinerbraten\nmit Beilagen vom Free Choice- und Salatbuffet.  
+   pro 100g\nCHF 3.90\n(Glutenfrei\, Laktosefrei)\n\n\nTASTE OF ITALY\n---
+ -----------\nPenne Carbonara\nmit Rahmsauce\, Pouletschinken und Reibkäse
+ \nCHF 15.90\n\n\nCHEF’S CHOICE\n-------------\nThe Preiselburger\nIP-SU
+ ISSE Rinds Patty im Brioche Bun mit Honig-Senf Sauce\, Eisbergsalat\, Brie
+ \, gepickelter Kürbis und Preiselbeeren mit Pommes Frites\nCHF 23.50
 LOCATION:Five Moods (Siemens\, Zug)
 END:VEVENT
 END:VCALENDAR
