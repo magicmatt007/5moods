@@ -1,49 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-10-02T05:15:27+00:00",
+  "updated_utc": "2026-10-03T05:14:14+00:00",
   "days": {
-    "2026-10-02": [
-      {
-        "category": "Daily's",
-        "dish": "Pasta-Plausch",
-        "description": "mit drei verschiedenen Saucen, Käse-Rahm-, Bolo- und Tomatensauce Reibkäse und ein Menü-Salat",
-        "price": "CHF 15.90",
-        "tags": []
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Gefüllte Auberginen",
-        "description": "mit Couscous, Lauch  Heute im Free Choice Integriert",
-        "price": "CHF 3.90",
-        "tags": [
-          "Vegetarisch",
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Truthahnbraten",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Pizza & Pasta",
-        "description": "Immer von Montag bis Donnerstag",
-        "price": "CHF 0.00",
-        "tags": []
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "Poulet Cordon-Bleu",
-        "description": "mit Pommes Frites und zweifarbigen Karotten",
-        "price": "CHF 18.50",
-        "tags": []
-      }
-    ],
     "2026-10-05": [
       {
         "category": "Daily's",
@@ -216,54 +174,53 @@
         "price": "CHF 26.50",
         "tags": []
       }
+    ],
+    "2026-10-09": [
+      {
+        "category": "Daily's",
+        "dish": "Meerfisch-knusperli",
+        "description": "mit Remulade, Sakzkartoffeln und Ofenbroccoli",
+        "price": "CHF 17.50",
+        "tags": []
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Gemüsebuffet",
+        "description": "im Free Choice inkludiert  Pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Vegan",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Schweinsgyros",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Glutenfrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Pizza & Pasta",
+        "description": "Immer von Montag bis Donnerstag",
+        "price": "CHF 0.00",
+        "tags": []
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Ravioli",
+        "description": "Mit Tomatenrahmsauce und einem Menüsalat",
+        "price": "CHF 15.90",
+        "tags": [
+          "Vegetarisch"
+        ]
+      }
     ]
   },
   "by_weekday": {
-    "Fr": {
-      "date": "2026-10-02",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Pasta-Plausch",
-          "description": "mit drei verschiedenen Saucen, Käse-Rahm-, Bolo- und Tomatensauce Reibkäse und ein Menü-Salat",
-          "price": "CHF 15.90",
-          "tags": []
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Gefüllte Auberginen",
-          "description": "mit Couscous, Lauch  Heute im Free Choice Integriert",
-          "price": "CHF 3.90",
-          "tags": [
-            "Vegetarisch",
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Truthahnbraten",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Pizza & Pasta",
-          "description": "Immer von Montag bis Donnerstag",
-          "price": "CHF 0.00",
-          "tags": []
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "Poulet Cordon-Bleu",
-          "description": "mit Pommes Frites und zweifarbigen Karotten",
-          "price": "CHF 18.50",
-          "tags": []
-        }
-      ]
-    },
     "Mo": {
       "date": "2026-10-05",
       "entries": [
@@ -446,6 +403,53 @@
           "description": "mit Zwiebeln, Kapern, Oliven und Hausbrot  150gr CHF 19.90",
           "price": "CHF 26.50",
           "tags": []
+        }
+      ]
+    },
+    "Fr": {
+      "date": "2026-10-09",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Meerfisch-knusperli",
+          "description": "mit Remulade, Sakzkartoffeln und Ofenbroccoli",
+          "price": "CHF 17.50",
+          "tags": []
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Gemüsebuffet",
+          "description": "im Free Choice inkludiert  Pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Vegan",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Schweinsgyros",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Glutenfrei"
+          ]
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Pizza & Pasta",
+          "description": "Immer von Montag bis Donnerstag",
+          "price": "CHF 0.00",
+          "tags": []
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "Ravioli",
+          "description": "Mit Tomatenrahmsauce und einem Menüsalat",
+          "price": "CHF 15.90",
+          "tags": [
+            "Vegetarisch"
+          ]
         }
       ]
     }
