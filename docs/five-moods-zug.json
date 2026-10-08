@@ -1,51 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-10-07T05:16:14+00:00",
+  "updated_utc": "2026-10-08T05:16:33+00:00",
   "days": {
-    "2026-10-07": [
-      {
-        "category": "Daily's",
-        "dish": "Rotes Thai Curry",
-        "description": "mit Gemüse, Kefen und Jasminreis",
-        "price": "CHF 18.50",
-        "tags": [
-          "Vegan",
-          "Glutenfrei",
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Pochierter Rotbarsch",
-        "description": "mit leichter Apfelsauce, Dampfkartoffeln, Spinat und Karotten  Pro 100g",
-        "price": "CHF 3.90",
-        "tags": []
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Tessinerbraten",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Glutenfrei",
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Penne Carbonara",
-        "description": "mit Rahmsauce, Pouletschinken und Reibkäse",
-        "price": "CHF 15.90",
-        "tags": []
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "The Preiselburger",
-        "description": "IP-SUISSE Rinds Patty im Brioche Bun mit Honig-Senf Sauce, Eisbergsalat, Brie, gepickelter Kürbis und Preiselbeeren mit Pommes Frites",
-        "price": "CHF 23.50",
-        "tags": []
-      }
-    ],
     "2026-10-08": [
       {
         "category": "Daily's",
@@ -217,56 +173,52 @@
         "price": "CHF 24.50",
         "tags": []
       }
+    ],
+    "2026-10-14": [
+      {
+        "category": "Daily's",
+        "dish": "Bratwurst vom Kräuterschwein",
+        "description": "mit Zwiebelsauce, Bratkartoffeln und Erbsen-Karotten Gemüse",
+        "price": "CHF 17.90",
+        "tags": []
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Spinatstrudel",
+        "description": "mit Spinat und Bergkäse mit bunten Quinoa  Pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Vegetarisch"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Tex-Mex Buffet mit Chili con Carne",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Rigatoni Gambaretti",
+        "description": "Pasta, mit Tomatensauce, Riesencrevetten und Cherrytomaten",
+        "price": "CHF 15.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "The Johnny Deer",
+        "description": "Hirschkalb Patty im Rustico Bun mit Rotkabis, glasierten Marroni, Birnenschnitz, Kürbismayo und Lollosalat mit Pommes Frites",
+        "price": "CHF 23.50",
+        "tags": []
+      }
     ]
   },
   "by_weekday": {
-    "Mi": {
-      "date": "2026-10-07",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Rotes Thai Curry",
-          "description": "mit Gemüse, Kefen und Jasminreis",
-          "price": "CHF 18.50",
-          "tags": [
-            "Vegan",
-            "Glutenfrei",
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Pochierter Rotbarsch",
-          "description": "mit leichter Apfelsauce, Dampfkartoffeln, Spinat und Karotten  Pro 100g",
-          "price": "CHF 3.90",
-          "tags": []
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Tessinerbraten",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Glutenfrei",
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Penne Carbonara",
-          "description": "mit Rahmsauce, Pouletschinken und Reibkäse",
-          "price": "CHF 15.90",
-          "tags": []
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "The Preiselburger",
-          "description": "IP-SUISSE Rinds Patty im Brioche Bun mit Honig-Senf Sauce, Eisbergsalat, Brie, gepickelter Kürbis und Preiselbeeren mit Pommes Frites",
-          "price": "CHF 23.50",
-          "tags": []
-        }
-      ]
-    },
     "Do": {
       "date": "2026-10-08",
       "entries": [
@@ -447,6 +399,52 @@
           "dish": "Hirsch Jägerschnitzel",
           "description": "mit Wildrahmsauce, Butterspätzli, Rotkraut und Birne",
           "price": "CHF 24.50",
+          "tags": []
+        }
+      ]
+    },
+    "Mi": {
+      "date": "2026-10-14",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Bratwurst vom Kräuterschwein",
+          "description": "mit Zwiebelsauce, Bratkartoffeln und Erbsen-Karotten Gemüse",
+          "price": "CHF 17.90",
+          "tags": []
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Spinatstrudel",
+          "description": "mit Spinat und Bergkäse mit bunten Quinoa  Pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Vegetarisch"
+          ]
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Tex-Mex Buffet mit Chili con Carne",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Rigatoni Gambaretti",
+          "description": "Pasta, mit Tomatensauce, Riesencrevetten und Cherrytomaten",
+          "price": "CHF 15.90",
+          "tags": [
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "The Johnny Deer",
+          "description": "Hirschkalb Patty im Rustico Bun mit Rotkabis, glasierten Marroni, Birnenschnitz, Kürbismayo und Lollosalat mit Pommes Frites",
+          "price": "CHF 23.50",
           "tags": []
         }
       ]
