@@ -1,51 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-10-08T05:16:33+00:00",
+  "updated_utc": "2026-10-09T05:16:54+00:00",
   "days": {
-    "2026-10-08": [
-      {
-        "category": "Daily's",
-        "dish": "Texas Brisket",
-        "description": "Schonend gegarte Rindsbrust mit Baked Potato und Red-Coleslaw Salad",
-        "price": "CHF 18.90",
-        "tags": [
-          "Glutenfrei",
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Linsen-Quinoa-Joghurt Balls",
-        "description": "mit Kräuter Dip, Dinkelkörner, Okra und Mischgemüse  Pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Vegetarisch"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Pouletschenkel Tandoori",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Glutenfrei"
-        ]
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Cornetti Salsiccia",
-        "description": "Pasta mit  Tomaten, Knoblauch, Schweins-Salsiccia und Peperoncini",
-        "price": "CHF 15.90",
-        "tags": []
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "Beefsteak Tatar XXL 220gr",
-        "description": "mit Zwiebeln, Kapern, Oliven und Hausbrot  150gr CHF 19.90",
-        "price": "CHF 26.50",
-        "tags": []
-      }
-    ],
     "2026-10-09": [
       {
         "category": "Daily's",
@@ -216,56 +172,46 @@
         "price": "CHF 23.50",
         "tags": []
       }
+    ],
+    "2026-10-15": [
+      {
+        "category": "Daily's",
+        "dish": "Gemüselasagne",
+        "description": "mit Tomatensauce, Reibkäse und einem Menüsalat",
+        "price": "CHF 15.90",
+        "tags": [
+          "Vegetarisch"
+        ]
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Gebackene Mungobohnen Bites",
+        "description": "mit Tomatensauce, Vollkorn Penne, und Wurzelgemüse aus dem Ofen    Pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Vegan",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Rindsragout",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": []
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Penne Pollo",
+        "description": "Mit Tomatensauce und Pouletstreifen",
+        "price": "CHF 16.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      }
     ]
   },
   "by_weekday": {
-    "Do": {
-      "date": "2026-10-08",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Texas Brisket",
-          "description": "Schonend gegarte Rindsbrust mit Baked Potato und Red-Coleslaw Salad",
-          "price": "CHF 18.90",
-          "tags": [
-            "Glutenfrei",
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Linsen-Quinoa-Joghurt Balls",
-          "description": "mit Kräuter Dip, Dinkelkörner, Okra und Mischgemüse  Pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Vegetarisch"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Pouletschenkel Tandoori",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Glutenfrei"
-          ]
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Cornetti Salsiccia",
-          "description": "Pasta mit  Tomaten, Knoblauch, Schweins-Salsiccia und Peperoncini",
-          "price": "CHF 15.90",
-          "tags": []
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "Beefsteak Tatar XXL 220gr",
-          "description": "mit Zwiebeln, Kapern, Oliven und Hausbrot  150gr CHF 19.90",
-          "price": "CHF 26.50",
-          "tags": []
-        }
-      ]
-    },
     "Fr": {
       "date": "2026-10-09",
       "entries": [
@@ -446,6 +392,46 @@
           "description": "Hirschkalb Patty im Rustico Bun mit Rotkabis, glasierten Marroni, Birnenschnitz, Kürbismayo und Lollosalat mit Pommes Frites",
           "price": "CHF 23.50",
           "tags": []
+        }
+      ]
+    },
+    "Do": {
+      "date": "2026-10-15",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Gemüselasagne",
+          "description": "mit Tomatensauce, Reibkäse und einem Menüsalat",
+          "price": "CHF 15.90",
+          "tags": [
+            "Vegetarisch"
+          ]
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Gebackene Mungobohnen Bites",
+          "description": "mit Tomatensauce, Vollkorn Penne, und Wurzelgemüse aus dem Ofen    Pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Vegan",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Rindsragout",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": []
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Penne Pollo",
+          "description": "Mit Tomatensauce und Pouletstreifen",
+          "price": "CHF 16.90",
+          "tags": [
+            "Laktosefrei"
+          ]
         }
       ]
     }
