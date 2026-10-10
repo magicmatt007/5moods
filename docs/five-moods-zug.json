@@ -1,51 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-10-09T05:16:54+00:00",
+  "updated_utc": "2026-10-10T05:14:29+00:00",
   "days": {
-    "2026-10-09": [
-      {
-        "category": "Daily's",
-        "dish": "Meerfisch-knusperli",
-        "description": "mit Remulade, Sakzkartoffeln und Ofenbroccoli",
-        "price": "CHF 17.50",
-        "tags": []
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Gemüsebuffet",
-        "description": "im Free Choice inkludiert  Pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Vegan",
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Schweinsgyros",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Glutenfrei"
-        ]
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Pizza & Pasta",
-        "description": "Immer von Montag bis Donnerstag",
-        "price": "CHF 0.00",
-        "tags": []
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "Ravioli",
-        "description": "Mit Tomatenrahmsauce und einem Menüsalat",
-        "price": "CHF 15.90",
-        "tags": [
-          "Vegetarisch"
-        ]
-      }
-    ],
     "2026-10-12": [
       {
         "category": "Daily's",
@@ -66,7 +22,7 @@
       },
       {
         "category": "Free Choice",
-        "dish": "Kalbs geschnetzeltes",
+        "dish": "Kalbs Geschnetzeltes",
         "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
         "price": "CHF 3.90",
         "tags": []
@@ -169,7 +125,7 @@
         "category": "Chef’s Choice",
         "dish": "The Johnny Deer",
         "description": "Hirschkalb Patty im Rustico Bun mit Rotkabis, glasierten Marroni, Birnenschnitz, Kürbismayo und Lollosalat mit Pommes Frites",
-        "price": "CHF 23.50",
+        "price": "CHF 24.50",
         "tags": []
       }
     ],
@@ -209,56 +165,54 @@
           "Laktosefrei"
         ]
       }
+    ],
+    "2026-10-16": [
+      {
+        "category": "Daily's",
+        "dish": "Tortellini",
+        "description": "mit Ricotta Spinat füllung, Tomatensauce Reibkäse und ein Menü-Salat",
+        "price": "CHF 15.90",
+        "tags": [
+          "Vegetarisch"
+        ]
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Gemüsebuffet",
+        "description": "im Free Choice inkludiert  Pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Vegan",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Gebackene Meerfisch-Stäbchen",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Glutenfrei",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Pizza & Pasta",
+        "description": "Immer von Montag bis Donnerstag",
+        "price": "CHF 0.00",
+        "tags": []
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Paniertes Schweins Schnitzel",
+        "description": "mit Pommes Frites und bunten Karotten",
+        "price": "CHF 16.90",
+        "tags": []
+      }
     ]
   },
   "by_weekday": {
-    "Fr": {
-      "date": "2026-10-09",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Meerfisch-knusperli",
-          "description": "mit Remulade, Sakzkartoffeln und Ofenbroccoli",
-          "price": "CHF 17.50",
-          "tags": []
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Gemüsebuffet",
-          "description": "im Free Choice inkludiert  Pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Vegan",
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Schweinsgyros",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Glutenfrei"
-          ]
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Pizza & Pasta",
-          "description": "Immer von Montag bis Donnerstag",
-          "price": "CHF 0.00",
-          "tags": []
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "Ravioli",
-          "description": "Mit Tomatenrahmsauce und einem Menüsalat",
-          "price": "CHF 15.90",
-          "tags": [
-            "Vegetarisch"
-          ]
-        }
-      ]
-    },
     "Mo": {
       "date": "2026-10-12",
       "entries": [
@@ -281,7 +235,7 @@
         },
         {
           "category": "Free Choice",
-          "dish": "Kalbs geschnetzeltes",
+          "dish": "Kalbs Geschnetzeltes",
           "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
           "price": "CHF 3.90",
           "tags": []
@@ -390,7 +344,7 @@
           "category": "Chef’s Choice",
           "dish": "The Johnny Deer",
           "description": "Hirschkalb Patty im Rustico Bun mit Rotkabis, glasierten Marroni, Birnenschnitz, Kürbismayo und Lollosalat mit Pommes Frites",
-          "price": "CHF 23.50",
+          "price": "CHF 24.50",
           "tags": []
         }
       ]
@@ -432,6 +386,54 @@
           "tags": [
             "Laktosefrei"
           ]
+        }
+      ]
+    },
+    "Fr": {
+      "date": "2026-10-16",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Tortellini",
+          "description": "mit Ricotta Spinat füllung, Tomatensauce Reibkäse und ein Menü-Salat",
+          "price": "CHF 15.90",
+          "tags": [
+            "Vegetarisch"
+          ]
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Gemüsebuffet",
+          "description": "im Free Choice inkludiert  Pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Vegan",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Gebackene Meerfisch-Stäbchen",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Glutenfrei",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Pizza & Pasta",
+          "description": "Immer von Montag bis Donnerstag",
+          "price": "CHF 0.00",
+          "tags": []
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "Paniertes Schweins Schnitzel",
+          "description": "mit Pommes Frites und bunten Karotten",
+          "price": "CHF 16.90",
+          "tags": []
         }
       ]
     }
