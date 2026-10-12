@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261012T113000
 DTEND:20261012T130000
-DTSTAMP:20261011T051459Z
+DTSTAMP:20261012T052203Z
 UID:five-moods-zug-2026-10-12-277be066888f@5moods
 DESCRIPTION:DAILY'S\n-------\nGelbes Thaicurry\nmit mariniertem Tofu\, Jas
  minreis\, und Gemüse\nCHF 15.90\n(Vegan\, Laktosefrei)\n\n\nHEALTHY CHOI
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261013T113000
 DTEND:20261013T130000
-DTSTAMP:20261011T051459Z
+DTSTAMP:20261012T052203Z
 UID:five-moods-zug-2026-10-13-65b87a0cce5c@5moods
 DESCRIPTION:DAILY'S\n-------\nTruten Schnitzel\nmit Peperonisauce\, Farfal
  le und Broccoli\nCHF 15.90\n\n\nHEALTHY CHOICE\n--------------\nGefüllte
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261014T113000
 DTEND:20261014T130000
-DTSTAMP:20261011T051459Z
+DTSTAMP:20261012T052203Z
 UID:five-moods-zug-2026-10-14-d875c3462d1f@5moods
 DESCRIPTION:DAILY'S\n-------\nBratwurst vom Kräuterschwein\nmit Zwiebelsa
  uce\, Bratkartoffeln und Erbsen-Karotten Gemüse\nCHF 17.90\n\n\nHEALTHY 
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261015T113000
 DTEND:20261015T130000
-DTSTAMP:20261011T051459Z
+DTSTAMP:20261012T052203Z
 UID:five-moods-zug-2026-10-15-12aac0f0bfb1@5moods
 DESCRIPTION:DAILY'S\n-------\nGemüselasagne\nmit Tomatensauce\, Reibkäse
   und einem Menüsalat\nCHF 15.90\n(Vegetarisch)\n\n\nHEALTHY CHOICE\n----
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261016T113000
 DTEND:20261016T130000
-DTSTAMP:20261011T051459Z
+DTSTAMP:20261012T052203Z
 UID:five-moods-zug-2026-10-16-8f5159cc54f2@5moods
 DESCRIPTION:DAILY'S\n-------\nTortellini\nmit Ricotta Spinat füllung\, To
  matensauce Reibkäse und ein Menü-Salat\nCHF 15.90\n(Vegetarisch)\n\n\nH
