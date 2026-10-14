@@ -1,48 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-10-13T05:17:52+00:00",
+  "updated_utc": "2026-10-14T05:14:15+00:00",
   "days": {
-    "2026-10-13": [
-      {
-        "category": "Daily's",
-        "dish": "Truten Schnitzel",
-        "description": "mit Peperonisauce, Farfalle und Broccoli",
-        "price": "CHF 15.90",
-        "tags": []
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Gefüllte Peperoni",
-        "description": "Peperoni gefüllt mit Gemüse, Frischkäse, Kräutern und Käse dazu Zartweizen und Kräuterquark   Pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Vegetarisch"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Aloo Gobi Indisches Blumenkohl Curry",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Vegetarisch"
-        ]
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Fusilli Gorgonzola",
-        "description": "mit Gorgonzola-Rahmsauce, Speck und Spinat",
-        "price": "CHF 15.90",
-        "tags": []
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "Hirsch Jägerschnitzel",
-        "description": "mit Wildrahmsauce, Butterspätzli, Rotkraut und Birne",
-        "price": "CHF 24.50",
-        "tags": []
-      }
-    ],
     "2026-10-14": [
       {
         "category": "Daily's",
@@ -209,53 +168,54 @@
         "price": "CHF 19.90",
         "tags": []
       }
+    ],
+    "2026-10-20": [
+      {
+        "category": "Daily's",
+        "dish": "Pouletflügeli",
+        "description": "Güggelisauce, Pommes Frites und Menüsalat",
+        "price": "CHF 14.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Tofu Piccata",
+        "description": "mit Buchweizen, Ratatouille und Blattspinat  Pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Vegetarisch"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Wild Buffet",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Pizza Giuseppe",
+        "description": "mit Tomatensauce, Mozzarella, Gorgonzola und Spinat",
+        "price": "CHF 21.90",
+        "tags": []
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Momos",
+        "description": "Teigtaschen mit Rindfleisch füllung 8 Stk.",
+        "price": "CHF 18.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      }
     ]
   },
   "by_weekday": {
-    "Di": {
-      "date": "2026-10-13",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Truten Schnitzel",
-          "description": "mit Peperonisauce, Farfalle und Broccoli",
-          "price": "CHF 15.90",
-          "tags": []
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Gefüllte Peperoni",
-          "description": "Peperoni gefüllt mit Gemüse, Frischkäse, Kräutern und Käse dazu Zartweizen und Kräuterquark   Pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Vegetarisch"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Aloo Gobi Indisches Blumenkohl Curry",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Vegetarisch"
-          ]
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Fusilli Gorgonzola",
-          "description": "mit Gorgonzola-Rahmsauce, Speck und Spinat",
-          "price": "CHF 15.90",
-          "tags": []
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "Hirsch Jägerschnitzel",
-          "description": "mit Wildrahmsauce, Butterspätzli, Rotkraut und Birne",
-          "price": "CHF 24.50",
-          "tags": []
-        }
-      ]
-    },
     "Mi": {
       "date": "2026-10-14",
       "entries": [
@@ -432,6 +392,54 @@
           "description": "Bunt gemischter Salatteller mit grillierter Schweins-Nierstücksteak und Kräuterbutter",
           "price": "CHF 19.90",
           "tags": []
+        }
+      ]
+    },
+    "Di": {
+      "date": "2026-10-20",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Pouletflügeli",
+          "description": "Güggelisauce, Pommes Frites und Menüsalat",
+          "price": "CHF 14.90",
+          "tags": [
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Tofu Piccata",
+          "description": "mit Buchweizen, Ratatouille und Blattspinat  Pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Vegetarisch"
+          ]
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Wild Buffet",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Pizza Giuseppe",
+          "description": "mit Tomatensauce, Mozzarella, Gorgonzola und Spinat",
+          "price": "CHF 21.90",
+          "tags": []
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "Momos",
+          "description": "Teigtaschen mit Rindfleisch füllung 8 Stk.",
+          "price": "CHF 18.90",
+          "tags": [
+            "Laktosefrei"
+          ]
         }
       ]
     }
