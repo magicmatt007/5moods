@@ -1,50 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-10-14T05:14:15+00:00",
+  "updated_utc": "2026-10-15T05:15:07+00:00",
   "days": {
-    "2026-10-14": [
-      {
-        "category": "Daily's",
-        "dish": "Bratwurst vom Kräuterschwein",
-        "description": "mit Zwiebelsauce, Bratkartoffeln und Erbsen-Karotten Gemüse",
-        "price": "CHF 17.90",
-        "tags": []
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Spinatstrudel",
-        "description": "mit Spinat und Bergkäse mit bunten Quinoa  Pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Vegetarisch"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Tex-Mex Buffet mit Chili con Carne",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Rigatoni Gambaretti",
-        "description": "Pasta, mit Tomatensauce, Riesencrevetten und Cherrytomaten",
-        "price": "CHF 15.90",
-        "tags": [
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "The Johnny Deer",
-        "description": "Hirschkalb Patty im Rustico Bun mit Rotkabis, glasierten Marroni, Birnenschnitz, Kürbismayo und Lollosalat mit Pommes Frites",
-        "price": "CHF 24.50",
-        "tags": []
-      }
-    ],
     "2026-10-15": [
       {
         "category": "Daily's",
@@ -58,7 +15,7 @@
       {
         "category": "Healthy Choice",
         "dish": "Gebackene Mungobohnen Bites",
-        "description": "mit Tomatensauce, Vollkorn Penne, und Wurzelgemüse aus dem Ofen    Pro 100g",
+        "description": "mit Tomatensauce, Gemüse-Weizen, und Wurzelgemüse aus dem Ofen    Pro 100g",
         "price": "CHF 3.90",
         "tags": [
           "Vegan",
@@ -75,7 +32,7 @@
       {
         "category": "Taste of Italy",
         "dish": "Penne Pollo",
-        "description": "Mit Tomatensauce und Pouletstreifen",
+        "description": "Mit Kräuterrahmsauce und Pouletstreifen",
         "price": "CHF 16.90",
         "tags": [
           "Laktosefrei"
@@ -213,55 +170,48 @@
           "Laktosefrei"
         ]
       }
+    ],
+    "2026-10-21": [
+      {
+        "category": "Daily's",
+        "dish": "Saibling Zuger Art",
+        "description": "mit Kräuter-Rahmsauce, Salzkartoffeln und Blattspinat",
+        "price": "CHF 18.90",
+        "tags": []
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Karotten Hirse Medaillon",
+        "description": "mit plant based Sour-Cream, Grünkern, geröstetem Blumenkohl und Kefen  Pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Vegetarisch"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Poulet Nuggets",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": []
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Tortellini",
+        "description": "Gefüllte Pasta mit Rindfleisch füllung mit Kräuterrahmsauce",
+        "price": "CHF 14.90",
+        "tags": []
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "The Helvetic Burger",
+        "description": "Rindfleisch Patty im Brioche Bun mit Tartaresauce, Raclettekäse, Kabissalat, Essiggurke, Tomate, Eisberg und Röstifries",
+        "price": "CHF 24.90",
+        "tags": []
+      }
     ]
   },
   "by_weekday": {
-    "Mi": {
-      "date": "2026-10-14",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Bratwurst vom Kräuterschwein",
-          "description": "mit Zwiebelsauce, Bratkartoffeln und Erbsen-Karotten Gemüse",
-          "price": "CHF 17.90",
-          "tags": []
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Spinatstrudel",
-          "description": "mit Spinat und Bergkäse mit bunten Quinoa  Pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Vegetarisch"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Tex-Mex Buffet mit Chili con Carne",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Rigatoni Gambaretti",
-          "description": "Pasta, mit Tomatensauce, Riesencrevetten und Cherrytomaten",
-          "price": "CHF 15.90",
-          "tags": [
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "The Johnny Deer",
-          "description": "Hirschkalb Patty im Rustico Bun mit Rotkabis, glasierten Marroni, Birnenschnitz, Kürbismayo und Lollosalat mit Pommes Frites",
-          "price": "CHF 24.50",
-          "tags": []
-        }
-      ]
-    },
     "Do": {
       "date": "2026-10-15",
       "entries": [
@@ -277,7 +227,7 @@
         {
           "category": "Healthy Choice",
           "dish": "Gebackene Mungobohnen Bites",
-          "description": "mit Tomatensauce, Vollkorn Penne, und Wurzelgemüse aus dem Ofen    Pro 100g",
+          "description": "mit Tomatensauce, Gemüse-Weizen, und Wurzelgemüse aus dem Ofen    Pro 100g",
           "price": "CHF 3.90",
           "tags": [
             "Vegan",
@@ -294,7 +244,7 @@
         {
           "category": "Taste of Italy",
           "dish": "Penne Pollo",
-          "description": "Mit Tomatensauce und Pouletstreifen",
+          "description": "Mit Kräuterrahmsauce und Pouletstreifen",
           "price": "CHF 16.90",
           "tags": [
             "Laktosefrei"
@@ -440,6 +390,48 @@
           "tags": [
             "Laktosefrei"
           ]
+        }
+      ]
+    },
+    "Mi": {
+      "date": "2026-10-21",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Saibling Zuger Art",
+          "description": "mit Kräuter-Rahmsauce, Salzkartoffeln und Blattspinat",
+          "price": "CHF 18.90",
+          "tags": []
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Karotten Hirse Medaillon",
+          "description": "mit plant based Sour-Cream, Grünkern, geröstetem Blumenkohl und Kefen  Pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Vegetarisch"
+          ]
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Poulet Nuggets",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": []
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Tortellini",
+          "description": "Gefüllte Pasta mit Rindfleisch füllung mit Kräuterrahmsauce",
+          "price": "CHF 14.90",
+          "tags": []
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "The Helvetic Burger",
+          "description": "Rindfleisch Patty im Brioche Bun mit Tartaresauce, Raclettekäse, Kabissalat, Essiggurke, Tomate, Eisberg und Röstifries",
+          "price": "CHF 24.90",
+          "tags": []
         }
       ]
     }
