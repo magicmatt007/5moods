@@ -4,25 +4,9 @@ PRODID:-//Five Moods Menu//Five Moods (Siemens\, Zug)//DE
 X-WR-CALNAME:Mittagsmenu Five Moods (Siemens, Zug)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
-DTSTART:20261015T113000
-DTEND:20261015T130000
-DTSTAMP:20261015T051507Z
-UID:five-moods-zug-2026-10-15-cac26c70db04@5moods
-DESCRIPTION:DAILY'S\n-------\nGemüselasagne\nmit Tomatensauce\, Reibkäse
-  und einem Menüsalat\nCHF 15.90\n(Vegetarisch)\n\n\nHEALTHY CHOICE\n----
- ----------\nGebackene Mungobohnen Bites\nmit Tomatensauce\, Gemüse-Weizen
- \, und Wurzelgemüse aus dem Ofen    Pro 100g\nCHF 3.90\n(Vegan\, Laktose
- frei)\n\n\nFREE CHOICE\n-----------\nRindsragout\nmit Beilagen vom Free Ch
- oice- und Salatbuffet.    pro 100g\nCHF 3.90\n\n\nTASTE OF ITALY\n-------
- -------\nPenne Pollo\nMit Kräuterrahmsauce und Pouletstreifen\nCHF 16.90
- \n(Laktosefrei)
-LOCATION:Five Moods (Siemens\, Zug)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261016T113000
 DTEND:20261016T130000
-DTSTAMP:20261015T051507Z
+DTSTAMP:20261016T051416Z
 UID:five-moods-zug-2026-10-16-8f5159cc54f2@5moods
 DESCRIPTION:DAILY'S\n-------\nTortellini\nmit Ricotta Spinat füllung\, To
  matensauce Reibkäse und ein Menü-Salat\nCHF 15.90\n(Vegetarisch)\n\n\nH
@@ -39,15 +23,15 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261019T113000
 DTEND:20261019T130000
-DTSTAMP:20261015T051507Z
-UID:five-moods-zug-2026-10-19-2f2a48881322@5moods
+DTSTAMP:20261016T051416Z
+UID:five-moods-zug-2026-10-19-c1c98fd2c924@5moods
 DESCRIPTION:DAILY'S\n-------\nRindshacktätschli\nPfeffersauce\, Spätzli 
  und Kohlrabi-Gemüse\nCHF 16.50\n\n\nHEALTHY CHOICE\n--------------\nGem
  üse-Falafel\nmit Joghurt Dip\, Kurkumareis\, Kichererbsen-Gemüse und Pim
  ientos de Padron  Pro 100g\nCHF 3.90\n(Vegetarisch)\n\n\nFREE CHOICE\n---
  --------\nChicken Tikka Masala\nmit Beilagen vom Free Choice- und Salatbuf
  fet.    pro 100g\nCHF 3.90\n\n\nTASTE OF ITALY\n--------------\nPenne\nmi
- t Gemüse-Tomatensauce und Pesto\nCHF 14.90\n(Vegetarisch\, Laktosefrei)
+ t Gemüse-Tomatensauce und Pesto\nCHF 15.50\n(Vegetarisch\, Laktosefrei)
  \n\n\nCHEF’S CHOICE\n-------------\nFitnessteller Schweinsnierstück\nBu
  nt gemischter Salatteller mit grillierter Schweins-Nierstücksteak und Kr
  äuterbutter\nCHF 19.90
@@ -57,10 +41,10 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261020T113000
 DTEND:20261020T130000
-DTSTAMP:20261015T051507Z
-UID:five-moods-zug-2026-10-20-2b39f492c4e1@5moods
+DTSTAMP:20261016T051416Z
+UID:five-moods-zug-2026-10-20-470ffb8f7ca1@5moods
 DESCRIPTION:DAILY'S\n-------\nPouletflügeli\nGüggelisauce\, Pommes Frite
- s und Menüsalat\nCHF 14.90\n(Laktosefrei)\n\n\nHEALTHY CHOICE\n---------
+ s und Menüsalat\nCHF 15.90\n(Laktosefrei)\n\n\nHEALTHY CHOICE\n---------
  -----\nTofu Piccata\nmit Buchweizen\, Ratatouille und Blattspinat  Pro 100
  g\nCHF 3.90\n(Vegetarisch)\n\n\nFREE CHOICE\n-----------\nWild Buffet\nmi
  t Beilagen vom Free Choice- und Salatbuffet.    pro 100g\nCHF 3.90\n(Lakt
@@ -74,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261021T113000
 DTEND:20261021T130000
-DTSTAMP:20261015T051507Z
+DTSTAMP:20261016T051416Z
 UID:five-moods-zug-2026-10-21-6f721e3781f9@5moods
 DESCRIPTION:DAILY'S\n-------\nSaibling Zuger Art\nmit Kräuter-Rahmsauce\,
   Salzkartoffeln und Blattspinat\nCHF 18.90\n\n\nHEALTHY CHOICE\n---------
@@ -86,6 +70,23 @@ DESCRIPTION:DAILY'S\n-------\nSaibling Zuger Art\nmit Kräuter-Rahmsauce\,
  ce\nCHF 14.90\n\n\nCHEF’S CHOICE\n-------------\nThe Helvetic Burger\nR
  indfleisch Patty im Brioche Bun mit Tartaresauce\, Raclettekäse\, Kabissa
  lat\, Essiggurke\, Tomate\, Eisberg und Röstifries\nCHF 24.90
+LOCATION:Five Moods (Siemens\, Zug)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
+DTSTART:20261022T113000
+DTEND:20261022T130000
+DTSTAMP:20261016T051416Z
+UID:five-moods-zug-2026-10-22-f92afa07741d@5moods
+DESCRIPTION:DAILY'S\n-------\nNasi Goreng mit Poulet\nIndonesisches Reisge
+ richt mit Gemüse und Pouletstreifen\nCHF 15.90\n(Laktosefrei)\n\n\nHEALT
+ HY CHOICE\n--------------\nGemüse Omelette\nZartweizen\, Kürbisgemüse u
+ nd gedämpften Bohnen  Pro 100g\nCHF 3.90\n(Vegetarisch)\n\n\nFREE CHOICE
+ \n-----------\nSchweins-Geschnetzeltes\nmit Beilagen vom Free Choice- und 
+ Salatbuffet.    pro 100g\nCHF 3.90\n\n\nTASTE OF ITALY\n--------------\nP
+ izza Argentina\nmit Tomatensauce\, Mozzarella\, Rindfleischstreifen und Kr
+ äuterbutter\nCHF 22.50\n\n\nCHEF’S CHOICE\n-------------\nRaclette\nmi
+ t Brot und Essiggemüse\nCHF 17.90
 LOCATION:Five Moods (Siemens\, Zug)
 END:VEVENT
 END:VCALENDAR
