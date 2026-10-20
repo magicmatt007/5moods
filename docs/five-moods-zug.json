@@ -1,49 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-10-19T05:14:47+00:00",
+  "updated_utc": "2026-10-20T05:13:43+00:00",
   "days": {
-    "2026-10-19": [
-      {
-        "category": "Daily's",
-        "dish": "Rindshacktätschli",
-        "description": "Pfeffersauce, Spätzli und Kohlrabi-Gemüse",
-        "price": "CHF 16.50",
-        "tags": []
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Gemüse-Falafel",
-        "description": "mit Joghurt Dip, Kurkumareis, Kichererbsen-Gemüse und Pimientos de Padron  Pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Vegetarisch"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Chicken Tikka Masala",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": []
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Penne",
-        "description": "mit Gemüse-Tomatensauce und Pesto",
-        "price": "CHF 15.50",
-        "tags": [
-          "Vegetarisch",
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "Fitnessteller Schweinsnierstück",
-        "description": "Bunt gemischter Salatteller mit grillierter Schweins-Nierstücksteak und Kräuterbutter",
-        "price": "CHF 19.90",
-        "tags": []
-      }
-    ],
     "2026-10-20": [
       {
         "category": "Daily's",
@@ -209,54 +167,54 @@
         "price": "CHF 15.90",
         "tags": []
       }
+    ],
+    "2026-10-26": [
+      {
+        "category": "Daily's",
+        "dish": "Gelbes Thai Curry",
+        "description": "mit Poulet, Gemüse und Jasminreis",
+        "price": "CHF 18.90",
+        "tags": [
+          "Glutenfrei",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Gebackenes Dorschfilet",
+        "description": "mit Zitrone, Salzkartoffeln, Mangold und Pfälzer Karotten",
+        "price": "CHF 3.90",
+        "tags": [
+          "Glutenfrei",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Linsen Dal",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Vegetarisch"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Gemüse Ravioli",
+        "description": "mit Radicchio, Kräuterrahmsauce und  Cherry Tomaten",
+        "price": "CHF 15.90",
+        "tags": []
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Gulaschsuppe",
+        "description": "mit Knoblauchbrot",
+        "price": "CHF 16.90",
+        "tags": []
+      }
     ]
   },
   "by_weekday": {
-    "Mo": {
-      "date": "2026-10-19",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Rindshacktätschli",
-          "description": "Pfeffersauce, Spätzli und Kohlrabi-Gemüse",
-          "price": "CHF 16.50",
-          "tags": []
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Gemüse-Falafel",
-          "description": "mit Joghurt Dip, Kurkumareis, Kichererbsen-Gemüse und Pimientos de Padron  Pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Vegetarisch"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Chicken Tikka Masala",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": []
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Penne",
-          "description": "mit Gemüse-Tomatensauce und Pesto",
-          "price": "CHF 15.50",
-          "tags": [
-            "Vegetarisch",
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "Fitnessteller Schweinsnierstück",
-          "description": "Bunt gemischter Salatteller mit grillierter Schweins-Nierstücksteak und Kräuterbutter",
-          "price": "CHF 19.90",
-          "tags": []
-        }
-      ]
-    },
     "Di": {
       "date": "2026-10-20",
       "entries": [
@@ -431,6 +389,54 @@
           "dish": "Pasta-Plausch",
           "description": "mit Rinds-Bolognese, Tomatensauce und Gemüse-Rahmsauce, dazu ein Menüsalat",
           "price": "CHF 15.90",
+          "tags": []
+        }
+      ]
+    },
+    "Mo": {
+      "date": "2026-10-26",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Gelbes Thai Curry",
+          "description": "mit Poulet, Gemüse und Jasminreis",
+          "price": "CHF 18.90",
+          "tags": [
+            "Glutenfrei",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Gebackenes Dorschfilet",
+          "description": "mit Zitrone, Salzkartoffeln, Mangold und Pfälzer Karotten",
+          "price": "CHF 3.90",
+          "tags": [
+            "Glutenfrei",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Linsen Dal",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Vegetarisch"
+          ]
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Gemüse Ravioli",
+          "description": "mit Radicchio, Kräuterrahmsauce und  Cherry Tomaten",
+          "price": "CHF 15.90",
+          "tags": []
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "Gulaschsuppe",
+          "description": "mit Knoblauchbrot",
+          "price": "CHF 16.90",
           "tags": []
         }
       ]
