@@ -1,52 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-10-20T05:13:43+00:00",
+  "updated_utc": "2026-10-21T05:13:59+00:00",
   "days": {
-    "2026-10-20": [
-      {
-        "category": "Daily's",
-        "dish": "Pouletflügeli",
-        "description": "Güggelisauce, Pommes Frites und Menüsalat",
-        "price": "CHF 15.90",
-        "tags": [
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Tofu Piccata",
-        "description": "mit Buchweizen, Ratatouille und Blattspinat  Pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Vegetarisch"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Wild Buffet",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Pizza Giuseppe",
-        "description": "mit Tomatensauce, Mozzarella, Gorgonzola und Spinat",
-        "price": "CHF 21.90",
-        "tags": []
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "Momos",
-        "description": "Teigtaschen mit Rindfleisch füllung 8 Stk.",
-        "price": "CHF 18.90",
-        "tags": [
-          "Laktosefrei"
-        ]
-      }
-    ],
     "2026-10-21": [
       {
         "category": "Daily's",
@@ -212,57 +167,53 @@
         "price": "CHF 16.90",
         "tags": []
       }
+    ],
+    "2026-10-27": [
+      {
+        "category": "Daily's",
+        "dish": "Poulet Geschnetzeltes",
+        "description": "mit Kräuter-Rahmsauce, Spinat-Spätzli und Pfälzer Karotten",
+        "price": "CHF 16.90",
+        "tags": []
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Linsen Tempeh Patty",
+        "description": "mit New Roots Kräuter-Dip, UrDinkel Kernotto, gedünsteten Pastinaken und Kefen",
+        "price": "CHF 3.90",
+        "tags": [
+          "Vegan",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Bratwurst Buffet",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Glutenfrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Pizza Tonno",
+        "description": "mit Tomatensauce, Mozzarella, Thon und Zwiebeln",
+        "price": "CHF 21.90",
+        "tags": []
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Momos",
+        "description": "Teigtaschen mit Gemüse Füllung 8 Stk.",
+        "price": "CHF 18.90",
+        "tags": [
+          "Vegetarisch"
+        ]
+      }
     ]
   },
   "by_weekday": {
-    "Di": {
-      "date": "2026-10-20",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Pouletflügeli",
-          "description": "Güggelisauce, Pommes Frites und Menüsalat",
-          "price": "CHF 15.90",
-          "tags": [
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Tofu Piccata",
-          "description": "mit Buchweizen, Ratatouille und Blattspinat  Pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Vegetarisch"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Wild Buffet",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Pizza Giuseppe",
-          "description": "mit Tomatensauce, Mozzarella, Gorgonzola und Spinat",
-          "price": "CHF 21.90",
-          "tags": []
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "Momos",
-          "description": "Teigtaschen mit Rindfleisch füllung 8 Stk.",
-          "price": "CHF 18.90",
-          "tags": [
-            "Laktosefrei"
-          ]
-        }
-      ]
-    },
     "Mi": {
       "date": "2026-10-21",
       "entries": [
@@ -438,6 +389,53 @@
           "description": "mit Knoblauchbrot",
           "price": "CHF 16.90",
           "tags": []
+        }
+      ]
+    },
+    "Di": {
+      "date": "2026-10-27",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Poulet Geschnetzeltes",
+          "description": "mit Kräuter-Rahmsauce, Spinat-Spätzli und Pfälzer Karotten",
+          "price": "CHF 16.90",
+          "tags": []
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Linsen Tempeh Patty",
+          "description": "mit New Roots Kräuter-Dip, UrDinkel Kernotto, gedünsteten Pastinaken und Kefen",
+          "price": "CHF 3.90",
+          "tags": [
+            "Vegan",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Bratwurst Buffet",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Glutenfrei"
+          ]
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Pizza Tonno",
+          "description": "mit Tomatensauce, Mozzarella, Thon und Zwiebeln",
+          "price": "CHF 21.90",
+          "tags": []
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "Momos",
+          "description": "Teigtaschen mit Gemüse Füllung 8 Stk.",
+          "price": "CHF 18.90",
+          "tags": [
+            "Vegetarisch"
+          ]
         }
       ]
     }
