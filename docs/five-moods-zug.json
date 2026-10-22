@@ -1,46 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-10-21T05:13:59+00:00",
+  "updated_utc": "2026-10-22T05:14:30+00:00",
   "days": {
-    "2026-10-21": [
-      {
-        "category": "Daily's",
-        "dish": "Saibling Zuger Art",
-        "description": "mit Kräuter-Rahmsauce, Salzkartoffeln und Blattspinat",
-        "price": "CHF 18.90",
-        "tags": []
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Karotten Hirse Medaillon",
-        "description": "mit plant based Sour-Cream, Grünkern, geröstetem Blumenkohl und Kefen  Pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Vegetarisch"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Poulet Nuggets",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": []
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Tortellini",
-        "description": "Gefüllte Pasta mit Rindfleisch füllung mit Kräuterrahmsauce",
-        "price": "CHF 15.90",
-        "tags": []
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "The Helvetic Burger",
-        "description": "Rindfleisch Patty im Brioche Bun mit Tartaresauce, Raclettekäse, Kabissalat, Essiggurke, Tomate, Eisberg und Röstifries",
-        "price": "CHF 24.90",
-        "tags": []
-      }
-    ],
     "2026-10-22": [
       {
         "category": "Daily's",
@@ -211,51 +172,53 @@
           "Vegetarisch"
         ]
       }
+    ],
+    "2026-10-28": [
+      {
+        "category": "Daily's",
+        "dish": "Rinds Meatballs",
+        "description": "mit Tomatensauce, Jägerhörnli und Peperonata",
+        "price": "CHF 16.50",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Lamm Spiess",
+        "description": "mit Kräuter Salsa,  Gemüse-Couscous, Mais und geröstetem Federkohl",
+        "price": "CHF 3.90",
+        "tags": []
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Geräucherter Schweinshals-Braten",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Pasta Broccoli e Pinoli",
+        "description": "Pasta mit Olivenöl, Broccoli, gerösteten Pinienkernen und Frühlingszwiebeln",
+        "price": "CHF 15.90",
+        "tags": [
+          "Vegetarisch",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "The Caesar Burger",
+        "description": "im Brioche Bun mit Pouletbrust, Tomate, Zwiebeln, Essiggurke, Caesar Sauce, Römersalat und gehobeltem Hartkäse mit Pommes Frites",
+        "price": "CHF 22.90",
+        "tags": []
+      }
     ]
   },
   "by_weekday": {
-    "Mi": {
-      "date": "2026-10-21",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Saibling Zuger Art",
-          "description": "mit Kräuter-Rahmsauce, Salzkartoffeln und Blattspinat",
-          "price": "CHF 18.90",
-          "tags": []
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Karotten Hirse Medaillon",
-          "description": "mit plant based Sour-Cream, Grünkern, geröstetem Blumenkohl und Kefen  Pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Vegetarisch"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Poulet Nuggets",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": []
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Tortellini",
-          "description": "Gefüllte Pasta mit Rindfleisch füllung mit Kräuterrahmsauce",
-          "price": "CHF 15.90",
-          "tags": []
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "The Helvetic Burger",
-          "description": "Rindfleisch Patty im Brioche Bun mit Tartaresauce, Raclettekäse, Kabissalat, Essiggurke, Tomate, Eisberg und Röstifries",
-          "price": "CHF 24.90",
-          "tags": []
-        }
-      ]
-    },
     "Do": {
       "date": "2026-10-22",
       "entries": [
@@ -436,6 +399,53 @@
           "tags": [
             "Vegetarisch"
           ]
+        }
+      ]
+    },
+    "Mi": {
+      "date": "2026-10-28",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Rinds Meatballs",
+          "description": "mit Tomatensauce, Jägerhörnli und Peperonata",
+          "price": "CHF 16.50",
+          "tags": [
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Lamm Spiess",
+          "description": "mit Kräuter Salsa,  Gemüse-Couscous, Mais und geröstetem Federkohl",
+          "price": "CHF 3.90",
+          "tags": []
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Geräucherter Schweinshals-Braten",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Pasta Broccoli e Pinoli",
+          "description": "Pasta mit Olivenöl, Broccoli, gerösteten Pinienkernen und Frühlingszwiebeln",
+          "price": "CHF 15.90",
+          "tags": [
+            "Vegetarisch",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "The Caesar Burger",
+          "description": "im Brioche Bun mit Pouletbrust, Tomate, Zwiebeln, Essiggurke, Caesar Sauce, Römersalat und gehobeltem Hartkäse mit Pommes Frites",
+          "price": "CHF 22.90",
+          "tags": []
         }
       ]
     }
