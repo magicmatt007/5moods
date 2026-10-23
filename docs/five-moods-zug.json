@@ -1,48 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-10-22T05:14:30+00:00",
+  "updated_utc": "2026-10-23T05:14:12+00:00",
   "days": {
-    "2026-10-22": [
-      {
-        "category": "Daily's",
-        "dish": "Nasi Goreng mit Poulet",
-        "description": "Indonesisches Reisgericht mit Gemüse und Pouletstreifen",
-        "price": "CHF 15.90",
-        "tags": [
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Gemüse Omelette",
-        "description": "Zartweizen, Kürbisgemüse und gedämpften Bohnen  Pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Vegetarisch"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Schweins-Geschnetzeltes",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": []
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Pizza Argentina",
-        "description": "mit Tomatensauce, Mozzarella, Rindfleischstreifen und Kräuterbutter",
-        "price": "CHF 22.50",
-        "tags": []
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "Raclette",
-        "description": "mit Kartoffeln und Essiggemüse",
-        "price": "CHF 17.90",
-        "tags": []
-      }
-    ],
     "2026-10-23": [
       {
         "category": "Daily's",
@@ -216,53 +175,52 @@
         "price": "CHF 22.90",
         "tags": []
       }
+    ],
+    "2026-10-29": [
+      {
+        "category": "Daily's",
+        "dish": "Poulet Schenkel Steak",
+        "description": "mit Rosmarinsauce, Bratkartoffeln und Bohnen",
+        "price": "CHF 15.90",
+        "tags": []
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Plant-Based Kebab",
+        "description": "mit Veganem Tzatziki, Gewürzreis, Sumac Peperoni und Spinat",
+        "price": "CHF 3.90",
+        "tags": [
+          "Vegan",
+          "Glutenfrei",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Free Choice Buffet",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Pizza Prosciutto",
+        "description": "mit, Tomaten, Mozzarella, und Schinken",
+        "price": "CHF 20.90",
+        "tags": []
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Beefsteak Tatar XXL 220g",
+        "description": "mit Zwiebeln, Kapern, Oliven und Toast  Normale Portion 150g CHF 19.90",
+        "price": "CHF 26.50",
+        "tags": []
+      }
     ]
   },
   "by_weekday": {
-    "Do": {
-      "date": "2026-10-22",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Nasi Goreng mit Poulet",
-          "description": "Indonesisches Reisgericht mit Gemüse und Pouletstreifen",
-          "price": "CHF 15.90",
-          "tags": [
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Gemüse Omelette",
-          "description": "Zartweizen, Kürbisgemüse und gedämpften Bohnen  Pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Vegetarisch"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Schweins-Geschnetzeltes",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": []
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Pizza Argentina",
-          "description": "mit Tomatensauce, Mozzarella, Rindfleischstreifen und Kräuterbutter",
-          "price": "CHF 22.50",
-          "tags": []
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "Raclette",
-          "description": "mit Kartoffeln und Essiggemüse",
-          "price": "CHF 17.90",
-          "tags": []
-        }
-      ]
-    },
     "Fr": {
       "date": "2026-10-23",
       "entries": [
@@ -445,6 +403,52 @@
           "dish": "The Caesar Burger",
           "description": "im Brioche Bun mit Pouletbrust, Tomate, Zwiebeln, Essiggurke, Caesar Sauce, Römersalat und gehobeltem Hartkäse mit Pommes Frites",
           "price": "CHF 22.90",
+          "tags": []
+        }
+      ]
+    },
+    "Do": {
+      "date": "2026-10-29",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Poulet Schenkel Steak",
+          "description": "mit Rosmarinsauce, Bratkartoffeln und Bohnen",
+          "price": "CHF 15.90",
+          "tags": []
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Plant-Based Kebab",
+          "description": "mit Veganem Tzatziki, Gewürzreis, Sumac Peperoni und Spinat",
+          "price": "CHF 3.90",
+          "tags": [
+            "Vegan",
+            "Glutenfrei",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Free Choice Buffet",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Pizza Prosciutto",
+          "description": "mit, Tomaten, Mozzarella, und Schinken",
+          "price": "CHF 20.90",
+          "tags": []
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "Beefsteak Tatar XXL 220g",
+          "description": "mit Zwiebeln, Kapern, Oliven und Toast  Normale Portion 150g CHF 19.90",
+          "price": "CHF 26.50",
           "tags": []
         }
       ]
