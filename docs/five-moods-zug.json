@@ -1,48 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-10-23T05:14:12+00:00",
+  "updated_utc": "2026-10-24T05:13:38+00:00",
   "days": {
-    "2026-10-23": [
-      {
-        "category": "Daily's",
-        "dish": "Schweins Cordon-Bleu",
-        "description": "mit Pommes Frites und Mediterranem Gemüse",
-        "price": "CHF 22.50",
-        "tags": []
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Gemüsebuffet",
-        "description": "Buntes Gemüsebuffet mit allerlei köstlichkeiten  Pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Vegan",
-          "Glutenfrei",
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Fisch-Knusperli",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": []
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Pizza & Pasta",
-        "description": "Immer von Montag bis Donnerstag",
-        "price": "CHF 0.00",
-        "tags": []
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "Pasta-Plausch",
-        "description": "mit Rinds-Bolognese, Tomatensauce und Gemüse-Rahmsauce, dazu ein Menüsalat",
-        "price": "CHF 15.90",
-        "tags": []
-      }
-    ],
     "2026-10-26": [
       {
         "category": "Daily's",
@@ -218,53 +177,50 @@
         "price": "CHF 26.50",
         "tags": []
       }
+    ],
+    "2026-10-30": [
+      {
+        "category": "Daily's",
+        "dish": "Pasta-Plausch",
+        "description": "mit Rinds-Bolognese, Tomatensauce und Gemüse-Rahmsauce, dazu ein Menüsalat",
+        "price": "CHF 15.90",
+        "tags": []
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Gemüsebuffet",
+        "description": "Buntes Gemüsebuffet mit allerlei köstlichkeiten",
+        "price": "CHF 3.90",
+        "tags": [
+          "Vegan",
+          "Glutenfrei",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Meerfisch Knusperli",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": []
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Pizza & Pasta",
+        "description": "Immer von Montag bis Donnerstag",
+        "price": "CHF 0.00",
+        "tags": []
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Poulet Cordon-Bleu",
+        "description": "mit Pommes Frites und zweifarbigen Karotten",
+        "price": "CHF 18.50",
+        "tags": []
+      }
     ]
   },
   "by_weekday": {
-    "Fr": {
-      "date": "2026-10-23",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Schweins Cordon-Bleu",
-          "description": "mit Pommes Frites und Mediterranem Gemüse",
-          "price": "CHF 22.50",
-          "tags": []
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Gemüsebuffet",
-          "description": "Buntes Gemüsebuffet mit allerlei köstlichkeiten  Pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Vegan",
-            "Glutenfrei",
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Fisch-Knusperli",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": []
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Pizza & Pasta",
-          "description": "Immer von Montag bis Donnerstag",
-          "price": "CHF 0.00",
-          "tags": []
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "Pasta-Plausch",
-          "description": "mit Rinds-Bolognese, Tomatensauce und Gemüse-Rahmsauce, dazu ein Menüsalat",
-          "price": "CHF 15.90",
-          "tags": []
-        }
-      ]
-    },
     "Mo": {
       "date": "2026-10-26",
       "entries": [
@@ -449,6 +405,50 @@
           "dish": "Beefsteak Tatar XXL 220g",
           "description": "mit Zwiebeln, Kapern, Oliven und Toast  Normale Portion 150g CHF 19.90",
           "price": "CHF 26.50",
+          "tags": []
+        }
+      ]
+    },
+    "Fr": {
+      "date": "2026-10-30",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Pasta-Plausch",
+          "description": "mit Rinds-Bolognese, Tomatensauce und Gemüse-Rahmsauce, dazu ein Menüsalat",
+          "price": "CHF 15.90",
+          "tags": []
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Gemüsebuffet",
+          "description": "Buntes Gemüsebuffet mit allerlei köstlichkeiten",
+          "price": "CHF 3.90",
+          "tags": [
+            "Vegan",
+            "Glutenfrei",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Meerfisch Knusperli",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": []
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Pizza & Pasta",
+          "description": "Immer von Montag bis Donnerstag",
+          "price": "CHF 0.00",
+          "tags": []
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "Poulet Cordon-Bleu",
+          "description": "mit Pommes Frites und zweifarbigen Karotten",
+          "price": "CHF 18.50",
           "tags": []
         }
       ]
