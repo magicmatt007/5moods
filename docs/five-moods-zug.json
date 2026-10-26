@@ -1,6 +1,6 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-10-25T05:13:17+00:00",
+  "updated_utc": "2026-10-26T05:16:05+00:00",
   "days": {
     "2026-10-26": [
       {
@@ -51,7 +51,7 @@
       {
         "category": "Daily's",
         "dish": "Poulet Geschnetzeltes",
-        "description": "mit Kräuter-Rahmsauce, Spinat-Spätzli und Pfälzer Karotten",
+        "description": "mit Kräuter-Rahmsauce, Spinat-Spätzli und Zucchetti",
         "price": "CHF 16.90",
         "tags": []
       },
@@ -167,7 +167,7 @@
         "category": "Taste of Italy",
         "dish": "Pizza Prosciutto",
         "description": "mit, Tomaten, Mozzarella, und Schinken",
-        "price": "CHF 20.90",
+        "price": "CHF 21.90",
         "tags": []
       },
       {
@@ -275,7 +275,7 @@
         {
           "category": "Daily's",
           "dish": "Poulet Geschnetzeltes",
-          "description": "mit Kräuter-Rahmsauce, Spinat-Spätzli und Pfälzer Karotten",
+          "description": "mit Kräuter-Rahmsauce, Spinat-Spätzli und Zucchetti",
           "price": "CHF 16.90",
           "tags": []
         },
@@ -397,7 +397,7 @@
           "category": "Taste of Italy",
           "dish": "Pizza Prosciutto",
           "description": "mit, Tomaten, Mozzarella, und Schinken",
-          "price": "CHF 20.90",
+          "price": "CHF 21.90",
           "tags": []
         },
         {
