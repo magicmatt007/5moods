@@ -1,52 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-10-26T05:16:05+00:00",
+  "updated_utc": "2026-10-27T05:14:50+00:00",
   "days": {
-    "2026-10-26": [
-      {
-        "category": "Daily's",
-        "dish": "Gelbes Thai Curry",
-        "description": "mit Poulet, Gemüse und Jasminreis",
-        "price": "CHF 18.90",
-        "tags": [
-          "Glutenfrei",
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Gebackenes Dorschfilet",
-        "description": "mit Zitrone, Salzkartoffeln, Mangold und Pfälzer Karotten",
-        "price": "CHF 3.90",
-        "tags": [
-          "Glutenfrei",
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Linsen Dal",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Vegetarisch"
-        ]
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Gemüse Ravioli",
-        "description": "mit Radicchio, Kräuterrahmsauce und  Cherry Tomaten",
-        "price": "CHF 15.90",
-        "tags": []
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "Gulaschsuppe",
-        "description": "mit Knoblauchbrot",
-        "price": "CHF 16.90",
-        "tags": []
-      }
-    ],
     "2026-10-27": [
       {
         "category": "Daily's",
@@ -218,57 +173,51 @@
         "price": "CHF 18.50",
         "tags": []
       }
+    ],
+    "2026-11-02": [
+      {
+        "category": "Daily's",
+        "dish": "Onigiri California",
+        "description": "Tofu, Sushireis, Avocado, Misomayonnaise, Nori, Röstzwiebeln",
+        "price": "CHF 18.90",
+        "tags": [
+          "Vegan",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Gebratenes Forellenfilet",
+        "description": "mit Langkorn-Reis, Zitronensauce, Stangensellerie mit Cranberrys Pro 100g",
+        "price": "CHF 3.90",
+        "tags": []
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Szegediner Gulasch",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Fusilli e Gorgonzola",
+        "description": "Pasta mit Gorgonzola, Erbsen, Kräutern und Rahmsauce",
+        "price": "CHF 15.90",
+        "tags": []
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Beefsteak Tatar XXL 220g",
+        "description": "mit Zwiebeln, Kapern, Oliven und Toast  Normale Portion 150g CHF 19.90",
+        "price": "CHF 26.50",
+        "tags": []
+      }
     ]
   },
   "by_weekday": {
-    "Mo": {
-      "date": "2026-10-26",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Gelbes Thai Curry",
-          "description": "mit Poulet, Gemüse und Jasminreis",
-          "price": "CHF 18.90",
-          "tags": [
-            "Glutenfrei",
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Gebackenes Dorschfilet",
-          "description": "mit Zitrone, Salzkartoffeln, Mangold und Pfälzer Karotten",
-          "price": "CHF 3.90",
-          "tags": [
-            "Glutenfrei",
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Linsen Dal",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Vegetarisch"
-          ]
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Gemüse Ravioli",
-          "description": "mit Radicchio, Kräuterrahmsauce und  Cherry Tomaten",
-          "price": "CHF 15.90",
-          "tags": []
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "Gulaschsuppe",
-          "description": "mit Knoblauchbrot",
-          "price": "CHF 16.90",
-          "tags": []
-        }
-      ]
-    },
     "Di": {
       "date": "2026-10-27",
       "entries": [
@@ -449,6 +398,51 @@
           "dish": "Poulet Cordon-Bleu",
           "description": "mit Pommes Frites und zweifarbigen Karotten",
           "price": "CHF 18.50",
+          "tags": []
+        }
+      ]
+    },
+    "Mo": {
+      "date": "2026-11-02",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Onigiri California",
+          "description": "Tofu, Sushireis, Avocado, Misomayonnaise, Nori, Röstzwiebeln",
+          "price": "CHF 18.90",
+          "tags": [
+            "Vegan",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Gebratenes Forellenfilet",
+          "description": "mit Langkorn-Reis, Zitronensauce, Stangensellerie mit Cranberrys Pro 100g",
+          "price": "CHF 3.90",
+          "tags": []
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Szegediner Gulasch",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Fusilli e Gorgonzola",
+          "description": "Pasta mit Gorgonzola, Erbsen, Kräutern und Rahmsauce",
+          "price": "CHF 15.90",
+          "tags": []
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "Beefsteak Tatar XXL 220g",
+          "description": "mit Zwiebeln, Kapern, Oliven und Toast  Normale Portion 150g CHF 19.90",
+          "price": "CHF 26.50",
           "tags": []
         }
       ]
