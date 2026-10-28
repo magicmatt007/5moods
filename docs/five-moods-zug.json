@@ -1,51 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-10-27T05:14:50+00:00",
+  "updated_utc": "2026-10-28T05:11:19+00:00",
   "days": {
-    "2026-10-27": [
-      {
-        "category": "Daily's",
-        "dish": "Poulet Geschnetzeltes",
-        "description": "mit Kräuter-Rahmsauce, Spinat-Spätzli und Zucchetti",
-        "price": "CHF 16.90",
-        "tags": []
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Linsen Tempeh Patty",
-        "description": "mit New Roots Kräuter-Dip, UrDinkel Kernotto, gedünsteten Pastinaken und Kefen",
-        "price": "CHF 3.90",
-        "tags": [
-          "Vegan",
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Bratwurst Buffet",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Glutenfrei"
-        ]
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Pizza Tonno",
-        "description": "mit Tomatensauce, Mozzarella, Thon und Zwiebeln",
-        "price": "CHF 21.90",
-        "tags": []
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "Momos",
-        "description": "Teigtaschen mit Gemüse Füllung 8 Stk.",
-        "price": "CHF 18.90",
-        "tags": [
-          "Vegetarisch"
-        ]
-      }
-    ],
     "2026-10-28": [
       {
         "category": "Daily's",
@@ -215,56 +171,54 @@
         "price": "CHF 26.50",
         "tags": []
       }
+    ],
+    "2026-11-03": [
+      {
+        "category": "Daily's",
+        "dish": "Assari Ramen",
+        "description": "Schweinebauch, Ei, Champignons, Spinat, Furikake",
+        "price": "CHF 15.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Gefüllte Peperoni",
+        "description": "Peperoni gefüllt mit Gemüse, Frischkäse, Kräutern und Käse dazu Zartweizen und Kräuterquark   Pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Vegetarisch"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Kalbs-hackbraten",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Pizza Autunno",
+        "description": "mit Tomaten, Mozzarella, Steinpilzen und Kürbiskernen",
+        "price": "CHF 21.90",
+        "tags": [
+          "Vegetarisch"
+        ]
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Hirschkalb Pfeffer",
+        "description": "mit Spätzli, Rotkraut, Champignons und Speck",
+        "price": "CHF 24.50",
+        "tags": []
+      }
     ]
   },
   "by_weekday": {
-    "Di": {
-      "date": "2026-10-27",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Poulet Geschnetzeltes",
-          "description": "mit Kräuter-Rahmsauce, Spinat-Spätzli und Zucchetti",
-          "price": "CHF 16.90",
-          "tags": []
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Linsen Tempeh Patty",
-          "description": "mit New Roots Kräuter-Dip, UrDinkel Kernotto, gedünsteten Pastinaken und Kefen",
-          "price": "CHF 3.90",
-          "tags": [
-            "Vegan",
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Bratwurst Buffet",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Glutenfrei"
-          ]
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Pizza Tonno",
-          "description": "mit Tomatensauce, Mozzarella, Thon und Zwiebeln",
-          "price": "CHF 21.90",
-          "tags": []
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "Momos",
-          "description": "Teigtaschen mit Gemüse Füllung 8 Stk.",
-          "price": "CHF 18.90",
-          "tags": [
-            "Vegetarisch"
-          ]
-        }
-      ]
-    },
     "Mi": {
       "date": "2026-10-28",
       "entries": [
@@ -443,6 +397,54 @@
           "dish": "Beefsteak Tatar XXL 220g",
           "description": "mit Zwiebeln, Kapern, Oliven und Toast  Normale Portion 150g CHF 19.90",
           "price": "CHF 26.50",
+          "tags": []
+        }
+      ]
+    },
+    "Di": {
+      "date": "2026-11-03",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Assari Ramen",
+          "description": "Schweinebauch, Ei, Champignons, Spinat, Furikake",
+          "price": "CHF 15.90",
+          "tags": [
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Gefüllte Peperoni",
+          "description": "Peperoni gefüllt mit Gemüse, Frischkäse, Kräutern und Käse dazu Zartweizen und Kräuterquark   Pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Vegetarisch"
+          ]
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Kalbs-hackbraten",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Pizza Autunno",
+          "description": "mit Tomaten, Mozzarella, Steinpilzen und Kürbiskernen",
+          "price": "CHF 21.90",
+          "tags": [
+            "Vegetarisch"
+          ]
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "Hirschkalb Pfeffer",
+          "description": "mit Spätzli, Rotkraut, Champignons und Speck",
+          "price": "CHF 24.50",
           "tags": []
         }
       ]
