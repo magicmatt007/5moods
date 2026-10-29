@@ -1,51 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-10-28T05:11:19+00:00",
+  "updated_utc": "2026-10-29T05:11:08+00:00",
   "days": {
-    "2026-10-28": [
-      {
-        "category": "Daily's",
-        "dish": "Rinds Meatballs",
-        "description": "mit Tomatensauce, Jägerhörnli und Peperonata",
-        "price": "CHF 16.50",
-        "tags": [
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Lamm Spiess",
-        "description": "mit Kräuter Salsa,  Gemüse-Couscous, Mais und geröstetem Federkohl",
-        "price": "CHF 3.90",
-        "tags": []
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Geräucherter Schweinshals-Braten",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Pasta Broccoli e Pinoli",
-        "description": "Pasta mit Olivenöl, Broccoli, gerösteten Pinienkernen und Frühlingszwiebeln",
-        "price": "CHF 15.90",
-        "tags": [
-          "Vegetarisch",
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "The Caesar Burger",
-        "description": "im Brioche Bun mit Pouletbrust, Tomate, Zwiebeln, Essiggurke, Caesar Sauce, Römersalat und gehobeltem Hartkäse mit Pommes Frites",
-        "price": "CHF 22.90",
-        "tags": []
-      }
-    ],
     "2026-10-29": [
       {
         "category": "Daily's",
@@ -216,56 +172,57 @@
         "price": "CHF 24.50",
         "tags": []
       }
+    ],
+    "2026-11-04": [
+      {
+        "category": "Daily's",
+        "dish": "Kare Raisu",
+        "description": "Rind, Sushireis, Kartoffeln, Karotten, eingemachte Zwiebeln",
+        "price": "CHF 19.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Spinatstrudel",
+        "description": "mit Spinat und Bergkäse mit bunten Quinoa  Pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Vegetarisch"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Free Choice Buffet",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Strozzapreti Thomaso",
+        "description": "mit Tomatensauce, Basilikum, Zucchetti und Peperoni",
+        "price": "CHF 15.90",
+        "tags": [
+          "Vegetarisch",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "The Chicken Burger",
+        "description": "Crispy Chicken Schnitzel im Brioche Bun, Cocktailsauce, Gurken Pickles, Tomaten, Zwiebeln und Pommes Frites",
+        "price": "CHF 19.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      }
     ]
   },
   "by_weekday": {
-    "Mi": {
-      "date": "2026-10-28",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Rinds Meatballs",
-          "description": "mit Tomatensauce, Jägerhörnli und Peperonata",
-          "price": "CHF 16.50",
-          "tags": [
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Lamm Spiess",
-          "description": "mit Kräuter Salsa,  Gemüse-Couscous, Mais und geröstetem Federkohl",
-          "price": "CHF 3.90",
-          "tags": []
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Geräucherter Schweinshals-Braten",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Pasta Broccoli e Pinoli",
-          "description": "Pasta mit Olivenöl, Broccoli, gerösteten Pinienkernen und Frühlingszwiebeln",
-          "price": "CHF 15.90",
-          "tags": [
-            "Vegetarisch",
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "The Caesar Burger",
-          "description": "im Brioche Bun mit Pouletbrust, Tomate, Zwiebeln, Essiggurke, Caesar Sauce, Römersalat und gehobeltem Hartkäse mit Pommes Frites",
-          "price": "CHF 22.90",
-          "tags": []
-        }
-      ]
-    },
     "Do": {
       "date": "2026-10-29",
       "entries": [
@@ -446,6 +403,57 @@
           "description": "mit Spätzli, Rotkraut, Champignons und Speck",
           "price": "CHF 24.50",
           "tags": []
+        }
+      ]
+    },
+    "Mi": {
+      "date": "2026-11-04",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Kare Raisu",
+          "description": "Rind, Sushireis, Kartoffeln, Karotten, eingemachte Zwiebeln",
+          "price": "CHF 19.90",
+          "tags": [
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Spinatstrudel",
+          "description": "mit Spinat und Bergkäse mit bunten Quinoa  Pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Vegetarisch"
+          ]
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Free Choice Buffet",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Strozzapreti Thomaso",
+          "description": "mit Tomatensauce, Basilikum, Zucchetti und Peperoni",
+          "price": "CHF 15.90",
+          "tags": [
+            "Vegetarisch",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "The Chicken Burger",
+          "description": "Crispy Chicken Schnitzel im Brioche Bun, Cocktailsauce, Gurken Pickles, Tomaten, Zwiebeln und Pommes Frites",
+          "price": "CHF 19.90",
+          "tags": [
+            "Laktosefrei"
+          ]
         }
       ]
     }
