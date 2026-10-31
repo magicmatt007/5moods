@@ -1,48 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-10-30T05:11:14+00:00",
+  "updated_utc": "2026-10-31T05:08:50+00:00",
   "days": {
-    "2026-10-30": [
-      {
-        "category": "Daily's",
-        "dish": "Pasta-Plausch",
-        "description": "mit Rinds-Bolognese, Tomatensauce und Gemüse-Rahmsauce, dazu ein Menüsalat",
-        "price": "CHF 15.90",
-        "tags": []
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Gemüsebuffet",
-        "description": "Buntes Gemüsebuffet mit allerlei köstlichkeiten",
-        "price": "CHF 3.90",
-        "tags": [
-          "Vegan",
-          "Glutenfrei",
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Meerfisch Knusperli",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": []
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Pizza & Pasta",
-        "description": "Immer von Montag bis Donnerstag",
-        "price": "CHF 0.00",
-        "tags": []
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "Poulet Cordon-Bleu",
-        "description": "mit Pommes Frites und zweifarbigen Karotten",
-        "price": "CHF 18.50",
-        "tags": []
-      }
-    ],
     "2026-11-02": [
       {
         "category": "Daily's",
@@ -161,12 +120,9 @@
       {
         "category": "Taste of Italy",
         "dish": "Strozzapreti Thomaso",
-        "description": "mit Tomatensauce, Basilikum, Zucchetti und Peperoni",
+        "description": "mit Tomatensauce, Basilikum, Zucchetti Peperoni und Speck",
         "price": "CHF 15.90",
-        "tags": [
-          "Vegetarisch",
-          "Laktosefrei"
-        ]
+        "tags": []
       },
       {
         "category": "Chef’s Choice",
@@ -203,7 +159,7 @@
         "category": "Free Choice",
         "dish": "Cipollata",
         "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.70",
+        "price": "CHF 3.90",
         "tags": []
       },
       {
@@ -222,53 +178,58 @@
         "price": "CHF 26.90",
         "tags": []
       }
+    ],
+    "2026-11-06": [
+      {
+        "category": "Daily's",
+        "dish": "Kebabteller",
+        "description": "Bunter gemischter Salatteller, mit Kebabfleisch, Tzatziki und Zwiebeln  Zusätzlich Pommes Frites CHF 5.00",
+        "price": "CHF 19.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Gemüsebuffet",
+        "description": "Buntes Gemüsebuffet mit allerlei köstlichkeiten",
+        "price": "CHF 3.90",
+        "tags": [
+          "Vegan",
+          "Glutenfrei",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Gebratenes Wolfsbarsch-filet",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Glutenfrei",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Pizza & Pasta",
+        "description": "Immer von Montag bis Donnerstag",
+        "price": "CHF 0.00",
+        "tags": []
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Yaki Udon",
+        "description": "Udon Nudeln, Austernpilze, Pak Choi, Karotten, Sesam, Sojasauce",
+        "price": "CHF 15.90",
+        "tags": [
+          "Vegan",
+          "Laktosefrei"
+        ]
+      }
     ]
   },
   "by_weekday": {
-    "Fr": {
-      "date": "2026-10-30",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Pasta-Plausch",
-          "description": "mit Rinds-Bolognese, Tomatensauce und Gemüse-Rahmsauce, dazu ein Menüsalat",
-          "price": "CHF 15.90",
-          "tags": []
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Gemüsebuffet",
-          "description": "Buntes Gemüsebuffet mit allerlei köstlichkeiten",
-          "price": "CHF 3.90",
-          "tags": [
-            "Vegan",
-            "Glutenfrei",
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Meerfisch Knusperli",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": []
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Pizza & Pasta",
-          "description": "Immer von Montag bis Donnerstag",
-          "price": "CHF 0.00",
-          "tags": []
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "Poulet Cordon-Bleu",
-          "description": "mit Pommes Frites und zweifarbigen Karotten",
-          "price": "CHF 18.50",
-          "tags": []
-        }
-      ]
-    },
     "Mo": {
       "date": "2026-11-02",
       "entries": [
@@ -395,12 +356,9 @@
         {
           "category": "Taste of Italy",
           "dish": "Strozzapreti Thomaso",
-          "description": "mit Tomatensauce, Basilikum, Zucchetti und Peperoni",
+          "description": "mit Tomatensauce, Basilikum, Zucchetti Peperoni und Speck",
           "price": "CHF 15.90",
-          "tags": [
-            "Vegetarisch",
-            "Laktosefrei"
-          ]
+          "tags": []
         },
         {
           "category": "Chef’s Choice",
@@ -440,7 +398,7 @@
           "category": "Free Choice",
           "dish": "Cipollata",
           "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.70",
+          "price": "CHF 3.90",
           "tags": []
         },
         {
@@ -458,6 +416,58 @@
           "description": "gebratenes Lammnierstück, Rosmarin-Jus, mediterrane Gnocchi und Ratatouille",
           "price": "CHF 26.90",
           "tags": []
+        }
+      ]
+    },
+    "Fr": {
+      "date": "2026-11-06",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Kebabteller",
+          "description": "Bunter gemischter Salatteller, mit Kebabfleisch, Tzatziki und Zwiebeln  Zusätzlich Pommes Frites CHF 5.00",
+          "price": "CHF 19.90",
+          "tags": [
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Gemüsebuffet",
+          "description": "Buntes Gemüsebuffet mit allerlei köstlichkeiten",
+          "price": "CHF 3.90",
+          "tags": [
+            "Vegan",
+            "Glutenfrei",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Gebratenes Wolfsbarsch-filet",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Glutenfrei",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Pizza & Pasta",
+          "description": "Immer von Montag bis Donnerstag",
+          "price": "CHF 0.00",
+          "tags": []
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "Yaki Udon",
+          "description": "Udon Nudeln, Austernpilze, Pak Choi, Karotten, Sesam, Sojasauce",
+          "price": "CHF 15.90",
+          "tags": [
+            "Vegan",
+            "Laktosefrei"
+          ]
         }
       ]
     }
