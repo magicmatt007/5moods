@@ -4,27 +4,9 @@ PRODID:-//Five Moods Menu//Five Moods (Siemens\, Zug)//DE
 X-WR-CALNAME:Mittagsmenu Five Moods (Siemens, Zug)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
-DTSTART:20261103T113000
-DTEND:20261103T130000
-DTSTAMP:20261103T051002Z
-UID:five-moods-zug-2026-11-03-98394cb1f8be@5moods
-DESCRIPTION:DAILY'S\n-------\nAssari Ramen\nSchweinebauch\, Ei\, Champigno
- ns\, Spinat\, Furikake\nCHF 15.90\n(Laktosefrei)\n\n\nHEALTHY CHOICE\n---
- -----------\nGefüllte Peperoni\nPeperoni gefüllt mit Gemüse\, Frischkä
- se\, Kräutern und Käse dazu Zartweizen und Kräuterquark   Pro 100g\nCHF
-  3.90\n(Vegetarisch)\n\n\nFREE CHOICE\n-----------\nKalbs-hackbraten\nmit
-  Beilagen vom Free Choice- und Salatbuffet.    pro 100g\nCHF 3.90\n(Lakto
- sefrei)\n\n\nTASTE OF ITALY\n--------------\nPizza Autunno\nmit Tomaten\, 
- Mozzarella\, Steinpilzen und Kürbiskernen\nCHF 21.90\n(Vegetarisch)\n\n
- \nCHEF’S CHOICE\n-------------\nHirschkalb Pfeffer\nmit Spätzli\, Rotkr
- aut\, Champignons und Speck\nCHF 24.50
-LOCATION:Five Moods (Siemens\, Zug)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261104T113000
 DTEND:20261104T130000
-DTSTAMP:20261103T051002Z
+DTSTAMP:20261104T050953Z
 UID:five-moods-zug-2026-11-04-c30a521aa5d5@5moods
 DESCRIPTION:DAILY'S\n-------\nKare Raisu\nRind\, Sushireis\, Kartoffeln\, 
  Karotten\, eingemachte Zwiebeln\nCHF 19.90\n(Laktosefrei)\n\n\nHEALTHY CH
@@ -42,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261105T113000
 DTEND:20261105T130000
-DTSTAMP:20261103T051002Z
+DTSTAMP:20261104T050953Z
 UID:five-moods-zug-2026-11-05-7dd6d4e272af@5moods
 DESCRIPTION:DAILY'S\n-------\nTantanmen Ramen\nPlantbased hack\, Pak Choi
  \, Sojasprossen\, Furikake\nCHF 15.90\n(Vegan\, Laktosefrei)\n\n\nHEALTHY
@@ -60,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261106T113000
 DTEND:20261106T130000
-DTSTAMP:20261103T051002Z
+DTSTAMP:20261104T050953Z
 UID:five-moods-zug-2026-11-06-5b577ef099fc@5moods
 DESCRIPTION:DAILY'S\n-------\nKebabteller\nBunter gemischter Salatteller\,
   mit Kebabfleisch\, Tzatziki und Zwiebeln  Zusätzlich Pommes Frites CHF 5
@@ -78,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261109T113000
 DTEND:20261109T130000
-DTSTAMP:20261103T051002Z
+DTSTAMP:20261104T050953Z
 UID:five-moods-zug-2026-11-09-363fed6c4ff8@5moods
 DESCRIPTION:DAILY'S\n-------\nJapanisches Kürbis Curry\nTofu\, Sushireis
  \, Frühlingszwiebeln\nCHF 15.90\n(Vegan\, Laktosefrei)\n\n\nHEALTHY CHOI
@@ -90,6 +72,23 @@ DESCRIPTION:DAILY'S\n-------\nJapanisches Kürbis Curry\nTofu\, Sushireis
  atensauce\nCHF 16.90\n\n\nCHEF’S CHOICE\n-------------\nBeefsteak Tatar
   XXL 220gr\nmit Zwiebeln\, Kapern\, Oliven und Toast  150gr CHF 19.90\nCHF
   26.50
+LOCATION:Five Moods (Siemens\, Zug)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
+DTSTART:20261110T113000
+DTEND:20261110T130000
+DTSTAMP:20261104T050953Z
+UID:five-moods-zug-2026-11-10-f3ff76b19808@5moods
+DESCRIPTION:DAILY'S\n-------\nScharfe Knoblauch Ramen\nPlanted\, Ei\, Pak 
+ Choi\, Chili\, Koriander\nCHF 15.90\n(Vegetarisch\, Laktosefrei)\n\n\nHEA
+ LTHY CHOICE\n--------------\nGedämpfter Crevettenspiess\nmit Avocado Dip
+ \, Wildreis Wokgemüse und Chili-Pak-Choi\nCHF 3.90\n(Glutenfrei)\n\n\nFR
+ EE CHOICE\n-----------\nPapet Vaudoise\nmit Beilagen vom Free Choice- und 
+ Salatbuffet.    pro 100g\nCHF 3.90\n(Glutenfrei)\n\n\nTASTE OF ITALY\n---
+ -----------\nPizza Svizzera\nMit Tomate\, Mozzarella\, Speck und Bergkäse
+ \nCHF 20.90\n\n\nCHEF’S CHOICE\n-------------\nReh Geschnetzeltes\nmit 
+ Wildrahmsauce\, Butterspätzli\, Rotkraut und Marroni\nCHF 24.90
 LOCATION:Five Moods (Siemens\, Zug)
 END:VEVENT
 END:VCALENDAR
