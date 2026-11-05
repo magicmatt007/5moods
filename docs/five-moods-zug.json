@@ -1,52 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-11-04T05:09:53+00:00",
+  "updated_utc": "2026-11-05T05:10:48+00:00",
   "days": {
-    "2026-11-04": [
-      {
-        "category": "Daily's",
-        "dish": "Kare Raisu",
-        "description": "Rind, Sushireis, Kartoffeln, Karotten, eingemachte Zwiebeln",
-        "price": "CHF 19.90",
-        "tags": [
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Spinatstrudel",
-        "description": "mit Spinat und Bergkäse mit bunten Quinoa  Pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Vegetarisch"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Free Choice Buffet",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Strozzapreti Thomaso",
-        "description": "mit Tomatensauce, Basilikum, Zucchetti Peperoni und Speck",
-        "price": "CHF 15.90",
-        "tags": []
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "The Chicken Burger",
-        "description": "Crispy Chicken Schnitzel im Brioche Bun, Cocktailsauce, Gurken Pickles, Tomaten, Zwiebeln und Pommes Frites",
-        "price": "CHF 19.90",
-        "tags": [
-          "Laktosefrei"
-        ]
-      }
-    ],
     "2026-11-05": [
       {
         "category": "Daily's",
@@ -216,7 +171,7 @@
         "category": "Taste of Italy",
         "dish": "Pizza Svizzera",
         "description": "Mit Tomate, Mozzarella, Speck und Bergkäse",
-        "price": "CHF 20.90",
+        "price": "CHF 21.50",
         "tags": []
       },
       {
@@ -226,57 +181,54 @@
         "price": "CHF 24.90",
         "tags": []
       }
+    ],
+    "2026-11-11": [
+      {
+        "category": "Daily's",
+        "dish": "Curry Wurst",
+        "description": "mit Pommes Frites und Menüsalat",
+        "price": "CHF 15.90",
+        "tags": [
+          "Glutenfrei"
+        ]
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Gebackene Mungobohnen Bites",
+        "description": "mit Tomatensauce, Vollkorn Penne, Wurzelgemüse aus dem Ofen  und Romanesco",
+        "price": "CHF 3.90",
+        "tags": [
+          "Vegetarisch"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Kalbshacksteak",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Mac and Cheese",
+        "description": "Hörnli an Cheddar-Käsesauce mit Röstzwiebeln",
+        "price": "CHF 15.90",
+        "tags": [
+          "Vegetarisch"
+        ]
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Tokio Calling Burger",
+        "description": "Crispy Chicken Schnitzel im Sesam Bun mit Miso-Limetten Mayo, Eisberg, Tomate, gepickelte Zwiebeln, Furikake und Süsskartoffel Fries",
+        "price": "CHF 22.90",
+        "tags": []
+      }
     ]
   },
   "by_weekday": {
-    "Mi": {
-      "date": "2026-11-04",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Kare Raisu",
-          "description": "Rind, Sushireis, Kartoffeln, Karotten, eingemachte Zwiebeln",
-          "price": "CHF 19.90",
-          "tags": [
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Spinatstrudel",
-          "description": "mit Spinat und Bergkäse mit bunten Quinoa  Pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Vegetarisch"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Free Choice Buffet",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Strozzapreti Thomaso",
-          "description": "mit Tomatensauce, Basilikum, Zucchetti Peperoni und Speck",
-          "price": "CHF 15.90",
-          "tags": []
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "The Chicken Burger",
-          "description": "Crispy Chicken Schnitzel im Brioche Bun, Cocktailsauce, Gurken Pickles, Tomaten, Zwiebeln und Pommes Frites",
-          "price": "CHF 19.90",
-          "tags": [
-            "Laktosefrei"
-          ]
-        }
-      ]
-    },
     "Do": {
       "date": "2026-11-05",
       "entries": [
@@ -457,7 +409,7 @@
           "category": "Taste of Italy",
           "dish": "Pizza Svizzera",
           "description": "Mit Tomate, Mozzarella, Speck und Bergkäse",
-          "price": "CHF 20.90",
+          "price": "CHF 21.50",
           "tags": []
         },
         {
@@ -465,6 +417,54 @@
           "dish": "Reh Geschnetzeltes",
           "description": "mit Wildrahmsauce, Butterspätzli, Rotkraut und Marroni",
           "price": "CHF 24.90",
+          "tags": []
+        }
+      ]
+    },
+    "Mi": {
+      "date": "2026-11-11",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Curry Wurst",
+          "description": "mit Pommes Frites und Menüsalat",
+          "price": "CHF 15.90",
+          "tags": [
+            "Glutenfrei"
+          ]
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Gebackene Mungobohnen Bites",
+          "description": "mit Tomatensauce, Vollkorn Penne, Wurzelgemüse aus dem Ofen  und Romanesco",
+          "price": "CHF 3.90",
+          "tags": [
+            "Vegetarisch"
+          ]
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Kalbshacksteak",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Mac and Cheese",
+          "description": "Hörnli an Cheddar-Käsesauce mit Röstzwiebeln",
+          "price": "CHF 15.90",
+          "tags": [
+            "Vegetarisch"
+          ]
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "Tokio Calling Burger",
+          "description": "Crispy Chicken Schnitzel im Sesam Bun mit Miso-Limetten Mayo, Eisberg, Tomate, gepickelte Zwiebeln, Furikake und Süsskartoffel Fries",
+          "price": "CHF 22.90",
           "tags": []
         }
       ]

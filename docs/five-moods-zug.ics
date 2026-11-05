@@ -4,27 +4,9 @@ PRODID:-//Five Moods Menu//Five Moods (Siemens\, Zug)//DE
 X-WR-CALNAME:Mittagsmenu Five Moods (Siemens, Zug)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
-DTSTART:20261104T113000
-DTEND:20261104T130000
-DTSTAMP:20261104T050953Z
-UID:five-moods-zug-2026-11-04-c30a521aa5d5@5moods
-DESCRIPTION:DAILY'S\n-------\nKare Raisu\nRind\, Sushireis\, Kartoffeln\, 
- Karotten\, eingemachte Zwiebeln\nCHF 19.90\n(Laktosefrei)\n\n\nHEALTHY CH
- OICE\n--------------\nSpinatstrudel\nmit Spinat und Bergkäse mit bunten Q
- uinoa  Pro 100g\nCHF 3.90\n(Vegetarisch)\n\n\nFREE CHOICE\n-----------\nF
- ree Choice Buffet\nmit Beilagen vom Free Choice- und Salatbuffet.    pro 1
- 00g\nCHF 3.90\n(Laktosefrei)\n\n\nTASTE OF ITALY\n--------------\nStrozza
- preti Thomaso\nmit Tomatensauce\, Basilikum\, Zucchetti Peperoni und Speck
- \nCHF 15.90\n\n\nCHEF’S CHOICE\n-------------\nThe Chicken Burger\nCris
- py Chicken Schnitzel im Brioche Bun\, Cocktailsauce\, Gurken Pickles\, Tom
- aten\, Zwiebeln und Pommes Frites\nCHF 19.90\n(Laktosefrei)
-LOCATION:Five Moods (Siemens\, Zug)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261105T113000
 DTEND:20261105T130000
-DTSTAMP:20261104T050953Z
+DTSTAMP:20261105T051048Z
 UID:five-moods-zug-2026-11-05-7dd6d4e272af@5moods
 DESCRIPTION:DAILY'S\n-------\nTantanmen Ramen\nPlantbased hack\, Pak Choi
  \, Sojasprossen\, Furikake\nCHF 15.90\n(Vegan\, Laktosefrei)\n\n\nHEALTHY
@@ -42,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261106T113000
 DTEND:20261106T130000
-DTSTAMP:20261104T050953Z
+DTSTAMP:20261105T051048Z
 UID:five-moods-zug-2026-11-06-5b577ef099fc@5moods
 DESCRIPTION:DAILY'S\n-------\nKebabteller\nBunter gemischter Salatteller\,
   mit Kebabfleisch\, Tzatziki und Zwiebeln  Zusätzlich Pommes Frites CHF 5
@@ -60,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261109T113000
 DTEND:20261109T130000
-DTSTAMP:20261104T050953Z
+DTSTAMP:20261105T051048Z
 UID:five-moods-zug-2026-11-09-363fed6c4ff8@5moods
 DESCRIPTION:DAILY'S\n-------\nJapanisches Kürbis Curry\nTofu\, Sushireis
  \, Frühlingszwiebeln\nCHF 15.90\n(Vegan\, Laktosefrei)\n\n\nHEALTHY CHOI
@@ -78,8 +60,8 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261110T113000
 DTEND:20261110T130000
-DTSTAMP:20261104T050953Z
-UID:five-moods-zug-2026-11-10-f3ff76b19808@5moods
+DTSTAMP:20261105T051048Z
+UID:five-moods-zug-2026-11-10-0507ff73d575@5moods
 DESCRIPTION:DAILY'S\n-------\nScharfe Knoblauch Ramen\nPlanted\, Ei\, Pak 
  Choi\, Chili\, Koriander\nCHF 15.90\n(Vegetarisch\, Laktosefrei)\n\n\nHEA
  LTHY CHOICE\n--------------\nGedämpfter Crevettenspiess\nmit Avocado Dip
@@ -87,8 +69,26 @@ DESCRIPTION:DAILY'S\n-------\nScharfe Knoblauch Ramen\nPlanted\, Ei\, Pak
  EE CHOICE\n-----------\nPapet Vaudoise\nmit Beilagen vom Free Choice- und 
  Salatbuffet.    pro 100g\nCHF 3.90\n(Glutenfrei)\n\n\nTASTE OF ITALY\n---
  -----------\nPizza Svizzera\nMit Tomate\, Mozzarella\, Speck und Bergkäse
- \nCHF 20.90\n\n\nCHEF’S CHOICE\n-------------\nReh Geschnetzeltes\nmit 
+ \nCHF 21.50\n\n\nCHEF’S CHOICE\n-------------\nReh Geschnetzeltes\nmit 
  Wildrahmsauce\, Butterspätzli\, Rotkraut und Marroni\nCHF 24.90
+LOCATION:Five Moods (Siemens\, Zug)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
+DTSTART:20261111T113000
+DTEND:20261111T130000
+DTSTAMP:20261105T051048Z
+UID:five-moods-zug-2026-11-11-3d2b34c3e750@5moods
+DESCRIPTION:DAILY'S\n-------\nCurry Wurst\nmit Pommes Frites und Menüsala
+ t\nCHF 15.90\n(Glutenfrei)\n\n\nHEALTHY CHOICE\n--------------\nGebackene
+  Mungobohnen Bites\nmit Tomatensauce\, Vollkorn Penne\, Wurzelgemüse aus 
+ dem Ofen  und Romanesco\nCHF 3.90\n(Vegetarisch)\n\n\nFREE CHOICE\n------
+ -----\nKalbshacksteak\nmit Beilagen vom Free Choice- und Salatbuffet.    p
+ ro 100g\nCHF 3.90\n(Laktosefrei)\n\n\nTASTE OF ITALY\n--------------\nMac
+  and Cheese\nHörnli an Cheddar-Käsesauce mit Röstzwiebeln\nCHF 15.90\n
+ (Vegetarisch)\n\n\nCHEF’S CHOICE\n-------------\nTokio Calling Burger\nC
+ rispy Chicken Schnitzel im Sesam Bun mit Miso-Limetten Mayo\, Eisberg\, To
+ mate\, gepickelte Zwiebeln\, Furikake und Süsskartoffel Fries\nCHF 22.90
 LOCATION:Five Moods (Siemens\, Zug)
 END:VEVENT
 END:VCALENDAR
