@@ -1,52 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-11-05T05:10:48+00:00",
+  "updated_utc": "2026-11-06T05:10:11+00:00",
   "days": {
-    "2026-11-05": [
-      {
-        "category": "Daily's",
-        "dish": "Tantanmen Ramen",
-        "description": "Plantbased hack, Pak Choi, Sojasprossen, Furikake",
-        "price": "CHF 15.90",
-        "tags": [
-          "Vegan",
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Gebackene Mungobohnen Bites",
-        "description": "mit Tomatensauce, Vollkorn Penne, und Wurzelgemüse aus dem Ofen    Pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Vegan",
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Cipollata",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": []
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Ricotta-Spinat Ravioli",
-        "description": "mit Rahmsauce, Tomatenwürfel und Kräutern",
-        "price": "CHF 16.90",
-        "tags": [
-          "Vegetarisch"
-        ]
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "Lammnierstück",
-        "description": "gebratenes Lammnierstück, Rosmarin-Jus, mediterrane Gnocchi und Ratatouille",
-        "price": "CHF 26.90",
-        "tags": []
-      }
-    ],
     "2026-11-06": [
       {
         "category": "Daily's",
@@ -226,57 +181,53 @@
         "price": "CHF 22.90",
         "tags": []
       }
+    ],
+    "2026-11-12": [
+      {
+        "category": "Daily's",
+        "dish": "Tonkatsu",
+        "description": "Schweinssteak, Bulldog Sauce, Sushireis, Coleslaw",
+        "price": "CHF 17.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Harissa Lachs",
+        "description": "mit Kräuterreis, Wokgemüse, Spinat und Minz Joghurt",
+        "price": "CHF 3.90",
+        "tags": [
+          "Glutenfrei",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Rinds-Gulasch",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": []
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Pasta Cinque Pi",
+        "description": "Pasta mit Tomatenrahmsauce und Reibkäse",
+        "price": "CHF 15.90",
+        "tags": [
+          "Vegetarisch"
+        ]
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "The Worker Cheese-Burger",
+        "description": "Rindfleischburger im Sesam Bun mit Cocktailsauce, Eisberg, Tomate, Käse, Gurke und Coleslaw mit Pommes Frites",
+        "price": "CHF 20.90",
+        "tags": []
+      }
     ]
   },
   "by_weekday": {
-    "Do": {
-      "date": "2026-11-05",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Tantanmen Ramen",
-          "description": "Plantbased hack, Pak Choi, Sojasprossen, Furikake",
-          "price": "CHF 15.90",
-          "tags": [
-            "Vegan",
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Gebackene Mungobohnen Bites",
-          "description": "mit Tomatensauce, Vollkorn Penne, und Wurzelgemüse aus dem Ofen    Pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Vegan",
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Cipollata",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": []
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Ricotta-Spinat Ravioli",
-          "description": "mit Rahmsauce, Tomatenwürfel und Kräutern",
-          "price": "CHF 16.90",
-          "tags": [
-            "Vegetarisch"
-          ]
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "Lammnierstück",
-          "description": "gebratenes Lammnierstück, Rosmarin-Jus, mediterrane Gnocchi und Ratatouille",
-          "price": "CHF 26.90",
-          "tags": []
-        }
-      ]
-    },
     "Fr": {
       "date": "2026-11-06",
       "entries": [
@@ -465,6 +416,53 @@
           "dish": "Tokio Calling Burger",
           "description": "Crispy Chicken Schnitzel im Sesam Bun mit Miso-Limetten Mayo, Eisberg, Tomate, gepickelte Zwiebeln, Furikake und Süsskartoffel Fries",
           "price": "CHF 22.90",
+          "tags": []
+        }
+      ]
+    },
+    "Do": {
+      "date": "2026-11-12",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Tonkatsu",
+          "description": "Schweinssteak, Bulldog Sauce, Sushireis, Coleslaw",
+          "price": "CHF 17.90",
+          "tags": [
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Harissa Lachs",
+          "description": "mit Kräuterreis, Wokgemüse, Spinat und Minz Joghurt",
+          "price": "CHF 3.90",
+          "tags": [
+            "Glutenfrei",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Rinds-Gulasch",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": []
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Pasta Cinque Pi",
+          "description": "Pasta mit Tomatenrahmsauce und Reibkäse",
+          "price": "CHF 15.90",
+          "tags": [
+            "Vegetarisch"
+          ]
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "The Worker Cheese-Burger",
+          "description": "Rindfleischburger im Sesam Bun mit Cocktailsauce, Eisberg, Tomate, Käse, Gurke und Coleslaw mit Pommes Frites",
+          "price": "CHF 20.90",
           "tags": []
         }
       ]
