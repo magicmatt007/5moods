@@ -4,29 +4,12 @@ PRODID:-//Five Moods Menu//Five Moods (Siemens\, Zug)//DE
 X-WR-CALNAME:Mittagsmenu Five Moods (Siemens, Zug)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
-DTSTART:20261110T113000
-DTEND:20261110T130000
-DTSTAMP:20261110T051020Z
-UID:five-moods-zug-2026-11-10-0507ff73d575@5moods
-DESCRIPTION:DAILY'S\n-------\nScharfe Knoblauch Ramen\nPlanted\, Ei\, Pak 
- Choi\, Chili\, Koriander\nCHF 15.90\n(Vegetarisch\, Laktosefrei)\n\n\nHEA
- LTHY CHOICE\n--------------\nGedämpfter Crevettenspiess\nmit Avocado Dip
- \, Wildreis Wokgemüse und Chili-Pak-Choi\nCHF 3.90\n(Glutenfrei)\n\n\nFR
- EE CHOICE\n-----------\nPapet Vaudoise\nmit Beilagen vom Free Choice- und 
- Salatbuffet.    pro 100g\nCHF 3.90\n(Glutenfrei)\n\n\nTASTE OF ITALY\n---
- -----------\nPizza Svizzera\nMit Tomate\, Mozzarella\, Speck und Bergkäse
- \nCHF 21.50\n\n\nCHEF’S CHOICE\n-------------\nReh Geschnetzeltes\nmit 
- Wildrahmsauce\, Butterspätzli\, Rotkraut und Marroni\nCHF 24.90
-LOCATION:Five Moods (Siemens\, Zug)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261111T113000
 DTEND:20261111T130000
-DTSTAMP:20261110T051020Z
-UID:five-moods-zug-2026-11-11-3d2b34c3e750@5moods
+DTSTAMP:20261111T051006Z
+UID:five-moods-zug-2026-11-11-0447270a2608@5moods
 DESCRIPTION:DAILY'S\n-------\nCurry Wurst\nmit Pommes Frites und Menüsala
- t\nCHF 15.90\n(Glutenfrei)\n\n\nHEALTHY CHOICE\n--------------\nGebackene
+ t\nCHF 17.90\n(Glutenfrei)\n\n\nHEALTHY CHOICE\n--------------\nGebackene
   Mungobohnen Bites\nmit Tomatensauce\, Vollkorn Penne\, Wurzelgemüse aus 
  dem Ofen  und Romanesco\nCHF 3.90\n(Vegetarisch)\n\n\nFREE CHOICE\n------
  -----\nKalbshacksteak\nmit Beilagen vom Free Choice- und Salatbuffet.    p
@@ -41,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261112T113000
 DTEND:20261112T130000
-DTSTAMP:20261110T051020Z
+DTSTAMP:20261111T051006Z
 UID:five-moods-zug-2026-11-12-6b119a2faca9@5moods
 DESCRIPTION:DAILY'S\n-------\nTonkatsu\nSchweinssteak\, Bulldog Sauce\, Su
  shireis\, Coleslaw\nCHF 17.90\n(Laktosefrei)\n\n\nHEALTHY CHOICE\n-------
@@ -59,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261113T113000
 DTEND:20261113T130000
-DTSTAMP:20261110T051020Z
+DTSTAMP:20261111T051006Z
 UID:five-moods-zug-2026-11-13-3cac8e913e29@5moods
 DESCRIPTION:DAILY'S\n-------\nWasabi Dog\nWienerli\, Brioche Bun\, Colesla
  w\, Nori\, Wasabimayonnaise\, Furikake\, Pommes Frites\nCHF 17.90\n\n\nHE
@@ -76,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261116T113000
 DTEND:20261116T130000
-DTSTAMP:20261110T051020Z
+DTSTAMP:20261111T051006Z
 UID:five-moods-zug-2026-11-16-afc4a528fcce@5moods
 DESCRIPTION:DAILY'S\n-------\nSchweins-Steak\nThymian-Portwein Jus\, Nudel
  n und Grill-Tomate\nCHF 17.50\n\n\nHEALTHY CHOICE\n--------------\nGemüs
@@ -87,6 +70,24 @@ DESCRIPTION:DAILY'S\n-------\nSchweins-Steak\nThymian-Portwein Jus\, Nudel
  Rauchlachs-Ricotta füllung\, mit Rahmsauce und Jungem Spinat\nCHF 14.90
  \n\n\nCHEF’S CHOICE\n-------------\nBeefsteak Tatar XXL 220gr\nmit Zwieb
  eln\, Kapern\, Oliven und Hausbrot  150gr CHF 19.90\nCHF 26.50
+LOCATION:Five Moods (Siemens\, Zug)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
+DTSTART:20261117T113000
+DTEND:20261117T130000
+DTSTAMP:20261111T051006Z
+UID:five-moods-zug-2026-11-17-da390859c844@5moods
+DESCRIPTION:DAILY'S\n-------\nGelbes Thaicurry\nTofu\, Jasminreis\, und Ge
+ müse  Zusätzlich Poulet Spiess CHF 6.00\nCHF 14.90\n(Vegan\, Laktosefre
+ i)\n\n\nHEALTHY CHOICE\n--------------\nTruten Piccata\nmit Tomatensauce\,
+  Purpur Weizen\, Peperoni und Maisgemüse  Pro 100g\nCHF 3.70\n\n\nFREE C
+ HOICE\n-----------\nRinds-Voressen\nmit Beilagen vom Free Choice- und Sala
+ tbuffet.    pro 100g\nCHF 3.70\n(Laktosefrei)\n\n\nTASTE OF ITALY\n------
+ --------\nPizza Salame Piccante\nMit Tomate\, Mozzarella\, und Scharfem Sa
+ lami\nCHF 20.90\n\n\nCHEF’S CHOICE\n-------------\nFitnessteller mit gr
+ illierter Pouletbrust\nBunt gemischter Salatteller mit grillierter Pouletb
+ rust und Kräuterdip\nCHF 19.90
 LOCATION:Five Moods (Siemens\, Zug)
 END:VEVENT
 END:VCALENDAR

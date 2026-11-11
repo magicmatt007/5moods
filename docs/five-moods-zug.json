@@ -1,57 +1,13 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-11-10T05:10:20+00:00",
+  "updated_utc": "2026-11-11T05:10:06+00:00",
   "days": {
-    "2026-11-10": [
-      {
-        "category": "Daily's",
-        "dish": "Scharfe Knoblauch Ramen",
-        "description": "Planted, Ei, Pak Choi, Chili, Koriander",
-        "price": "CHF 15.90",
-        "tags": [
-          "Vegetarisch",
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Gedämpfter Crevettenspiess",
-        "description": "mit Avocado Dip, Wildreis Wokgemüse und Chili-Pak-Choi",
-        "price": "CHF 3.90",
-        "tags": [
-          "Glutenfrei"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Papet Vaudoise",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Glutenfrei"
-        ]
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Pizza Svizzera",
-        "description": "Mit Tomate, Mozzarella, Speck und Bergkäse",
-        "price": "CHF 21.50",
-        "tags": []
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "Reh Geschnetzeltes",
-        "description": "mit Wildrahmsauce, Butterspätzli, Rotkraut und Marroni",
-        "price": "CHF 24.90",
-        "tags": []
-      }
-    ],
     "2026-11-11": [
       {
         "category": "Daily's",
         "dish": "Curry Wurst",
         "description": "mit Pommes Frites und Menüsalat",
-        "price": "CHF 15.90",
+        "price": "CHF 17.90",
         "tags": [
           "Glutenfrei"
         ]
@@ -215,56 +171,51 @@
         "price": "CHF 26.50",
         "tags": []
       }
+    ],
+    "2026-11-17": [
+      {
+        "category": "Daily's",
+        "dish": "Gelbes Thaicurry",
+        "description": "Tofu, Jasminreis, und Gemüse  Zusätzlich Poulet Spiess CHF 6.00",
+        "price": "CHF 14.90",
+        "tags": [
+          "Vegan",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Truten Piccata",
+        "description": "mit Tomatensauce, Purpur Weizen, Peperoni und Maisgemüse  Pro 100g",
+        "price": "CHF 3.70",
+        "tags": []
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Rinds-Voressen",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.70",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Pizza Salame Piccante",
+        "description": "Mit Tomate, Mozzarella, und Scharfem Salami",
+        "price": "CHF 20.90",
+        "tags": []
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Fitnessteller mit grillierter Pouletbrust",
+        "description": "Bunt gemischter Salatteller mit grillierter Pouletbrust und Kräuterdip",
+        "price": "CHF 19.90",
+        "tags": []
+      }
     ]
   },
   "by_weekday": {
-    "Di": {
-      "date": "2026-11-10",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Scharfe Knoblauch Ramen",
-          "description": "Planted, Ei, Pak Choi, Chili, Koriander",
-          "price": "CHF 15.90",
-          "tags": [
-            "Vegetarisch",
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Gedämpfter Crevettenspiess",
-          "description": "mit Avocado Dip, Wildreis Wokgemüse und Chili-Pak-Choi",
-          "price": "CHF 3.90",
-          "tags": [
-            "Glutenfrei"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Papet Vaudoise",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Glutenfrei"
-          ]
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Pizza Svizzera",
-          "description": "Mit Tomate, Mozzarella, Speck und Bergkäse",
-          "price": "CHF 21.50",
-          "tags": []
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "Reh Geschnetzeltes",
-          "description": "mit Wildrahmsauce, Butterspätzli, Rotkraut und Marroni",
-          "price": "CHF 24.90",
-          "tags": []
-        }
-      ]
-    },
     "Mi": {
       "date": "2026-11-11",
       "entries": [
@@ -272,7 +223,7 @@
           "category": "Daily's",
           "dish": "Curry Wurst",
           "description": "mit Pommes Frites und Menüsalat",
-          "price": "CHF 15.90",
+          "price": "CHF 17.90",
           "tags": [
             "Glutenfrei"
           ]
@@ -443,6 +394,51 @@
           "dish": "Beefsteak Tatar XXL 220gr",
           "description": "mit Zwiebeln, Kapern, Oliven und Hausbrot  150gr CHF 19.90",
           "price": "CHF 26.50",
+          "tags": []
+        }
+      ]
+    },
+    "Di": {
+      "date": "2026-11-17",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Gelbes Thaicurry",
+          "description": "Tofu, Jasminreis, und Gemüse  Zusätzlich Poulet Spiess CHF 6.00",
+          "price": "CHF 14.90",
+          "tags": [
+            "Vegan",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Truten Piccata",
+          "description": "mit Tomatensauce, Purpur Weizen, Peperoni und Maisgemüse  Pro 100g",
+          "price": "CHF 3.70",
+          "tags": []
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Rinds-Voressen",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.70",
+          "tags": [
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Pizza Salame Piccante",
+          "description": "Mit Tomate, Mozzarella, und Scharfem Salami",
+          "price": "CHF 20.90",
+          "tags": []
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "Fitnessteller mit grillierter Pouletbrust",
+          "description": "Bunt gemischter Salatteller mit grillierter Pouletbrust und Kräuterdip",
+          "price": "CHF 19.90",
           "tags": []
         }
       ]
