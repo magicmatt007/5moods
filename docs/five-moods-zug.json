@@ -1,52 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-11-11T05:10:06+00:00",
+  "updated_utc": "2026-11-12T05:10:20+00:00",
   "days": {
-    "2026-11-11": [
-      {
-        "category": "Daily's",
-        "dish": "Curry Wurst",
-        "description": "mit Pommes Frites und Menüsalat",
-        "price": "CHF 17.90",
-        "tags": [
-          "Glutenfrei"
-        ]
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Gebackene Mungobohnen Bites",
-        "description": "mit Tomatensauce, Vollkorn Penne, Wurzelgemüse aus dem Ofen  und Romanesco",
-        "price": "CHF 3.90",
-        "tags": [
-          "Vegetarisch"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Kalbshacksteak",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Mac and Cheese",
-        "description": "Hörnli an Cheddar-Käsesauce mit Röstzwiebeln",
-        "price": "CHF 15.90",
-        "tags": [
-          "Vegetarisch"
-        ]
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "Tokio Calling Burger",
-        "description": "Crispy Chicken Schnitzel im Sesam Bun mit Miso-Limetten Mayo, Eisberg, Tomate, gepickelte Zwiebeln, Furikake und Süsskartoffel Fries",
-        "price": "CHF 22.90",
-        "tags": []
-      }
-    ],
     "2026-11-12": [
       {
         "category": "Daily's",
@@ -213,57 +168,51 @@
         "price": "CHF 19.90",
         "tags": []
       }
+    ],
+    "2026-11-18": [
+      {
+        "category": "Daily's",
+        "dish": "Crispy Chicken Bites",
+        "description": "oder Curry Rice Balls Sweet-Chili-Sauce, Gebratenen Nudeln, und Wokgemüse",
+        "price": "CHF 16.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Pochierter Rotbarsch",
+        "description": "mit leichter Apfelsauce, Dampfkartoffeln, Spinat und Karotten  Pro 100g",
+        "price": "CHF 3.70",
+        "tags": []
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Bratwurst Buffet",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.70",
+        "tags": []
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Strozzapreti All Arrabiata",
+        "description": "mit rassiger Tomatensauce, Peperoncini und Knoblauch",
+        "price": "CHF 14.90",
+        "tags": [
+          "Vegetarisch",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "The Preiselburger",
+        "description": "IP-SUISSE Rinds Patty im Brioche Bun mit Honig-Senf Sauce, Eisbergsalat, Brie, gepickelter Kürbis und Preiselbeeren mit Pommes Frites",
+        "price": "CHF 23.50",
+        "tags": []
+      }
     ]
   },
   "by_weekday": {
-    "Mi": {
-      "date": "2026-11-11",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Curry Wurst",
-          "description": "mit Pommes Frites und Menüsalat",
-          "price": "CHF 17.90",
-          "tags": [
-            "Glutenfrei"
-          ]
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Gebackene Mungobohnen Bites",
-          "description": "mit Tomatensauce, Vollkorn Penne, Wurzelgemüse aus dem Ofen  und Romanesco",
-          "price": "CHF 3.90",
-          "tags": [
-            "Vegetarisch"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Kalbshacksteak",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Mac and Cheese",
-          "description": "Hörnli an Cheddar-Käsesauce mit Röstzwiebeln",
-          "price": "CHF 15.90",
-          "tags": [
-            "Vegetarisch"
-          ]
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "Tokio Calling Burger",
-          "description": "Crispy Chicken Schnitzel im Sesam Bun mit Miso-Limetten Mayo, Eisberg, Tomate, gepickelte Zwiebeln, Furikake und Süsskartoffel Fries",
-          "price": "CHF 22.90",
-          "tags": []
-        }
-      ]
-    },
     "Do": {
       "date": "2026-11-12",
       "entries": [
@@ -439,6 +388,51 @@
           "dish": "Fitnessteller mit grillierter Pouletbrust",
           "description": "Bunt gemischter Salatteller mit grillierter Pouletbrust und Kräuterdip",
           "price": "CHF 19.90",
+          "tags": []
+        }
+      ]
+    },
+    "Mi": {
+      "date": "2026-11-18",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Crispy Chicken Bites",
+          "description": "oder Curry Rice Balls Sweet-Chili-Sauce, Gebratenen Nudeln, und Wokgemüse",
+          "price": "CHF 16.90",
+          "tags": [
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Pochierter Rotbarsch",
+          "description": "mit leichter Apfelsauce, Dampfkartoffeln, Spinat und Karotten  Pro 100g",
+          "price": "CHF 3.70",
+          "tags": []
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Bratwurst Buffet",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.70",
+          "tags": []
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Strozzapreti All Arrabiata",
+          "description": "mit rassiger Tomatensauce, Peperoncini und Knoblauch",
+          "price": "CHF 14.90",
+          "tags": [
+            "Vegetarisch",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "The Preiselburger",
+          "description": "IP-SUISSE Rinds Patty im Brioche Bun mit Honig-Senf Sauce, Eisbergsalat, Brie, gepickelter Kürbis und Preiselbeeren mit Pommes Frites",
+          "price": "CHF 23.50",
           "tags": []
         }
       ]
