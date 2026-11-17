@@ -1,46 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-11-16T05:10:59+00:00",
+  "updated_utc": "2026-11-17T05:09:50+00:00",
   "days": {
-    "2026-11-16": [
-      {
-        "category": "Daily's",
-        "dish": "Schweins-Steak",
-        "description": "Thymian-Portwein Jus, Nudeln und Grill-Tomate",
-        "price": "CHF 17.50",
-        "tags": []
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Gemüse-Schnitzel",
-        "description": "mit Kräuter-Chili-Dip, Gemüse-Cous-Cous und Zucchetti-Pfanne",
-        "price": "CHF 3.70",
-        "tags": [
-          "Vegetarisch"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Seehechtfilet Müllerin",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.70",
-        "tags": []
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Ravioli Rauchlachs",
-        "description": "Pasta mit Rauchlachs-Ricotta füllung, mit Rahmsauce und Jungem Spinat",
-        "price": "CHF 15.90",
-        "tags": []
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "Beefsteak Tatar XXL 220gr",
-        "description": "mit Zwiebeln, Kapern, Oliven und Hausbrot  150gr CHF 19.90",
-        "price": "CHF 26.50",
-        "tags": []
-      }
-    ],
     "2026-11-17": [
       {
         "category": "Daily's",
@@ -56,14 +17,14 @@
         "category": "Healthy Choice",
         "dish": "Truten Piccata",
         "description": "mit Tomatensauce, Purpur Weizen, Peperoni und Maisgemüse  Pro 100g",
-        "price": "CHF 3.70",
+        "price": "CHF 3.90",
         "tags": []
       },
       {
         "category": "Free Choice",
         "dish": "Rinds-Voressen",
         "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.70",
+        "price": "CHF 3.90",
         "tags": [
           "Laktosefrei"
         ]
@@ -97,14 +58,14 @@
         "category": "Healthy Choice",
         "dish": "Pochierter Rotbarsch",
         "description": "mit leichter Apfelsauce, Dampfkartoffeln, Spinat und Karotten  Pro 100g",
-        "price": "CHF 3.70",
+        "price": "CHF 3.90",
         "tags": []
       },
       {
         "category": "Free Choice",
         "dish": "Wurst Buffet",
         "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.70",
+        "price": "CHF 3.90",
         "tags": []
       },
       {
@@ -137,7 +98,7 @@
         "category": "Healthy Choice",
         "dish": "Linsen-Quinoa-Joghurt Balls",
         "description": "mit Kräuter Dip, Dinkelkörner, Okra und Mischgemüse  Pro 100g",
-        "price": "CHF 3.70",
+        "price": "CHF 3.90",
         "tags": [
           "Vegetarisch"
         ]
@@ -146,7 +107,7 @@
         "category": "Free Choice",
         "dish": "Herbst Wild Buffet",
         "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.70",
+        "price": "CHF 3.90",
         "tags": [
           "Vegetarisch"
         ]
@@ -171,14 +132,14 @@
         "category": "Daily's",
         "dish": "Pasta-Plausch",
         "description": "mit drei verschiedenen Saucen, Käse-Rahm-, Bolo- und Tomatensauce Reibkäse und ein Menü-Salat",
-        "price": "CHF 15.50",
+        "price": "CHF 15.90",
         "tags": []
       },
       {
         "category": "Healthy Choice",
         "dish": "Gemüsebuffet",
         "description": "im Free Choice inkludiert  Pro 100g",
-        "price": "CHF 3.70",
+        "price": "CHF 3.90",
         "tags": [
           "Vegan",
           "Laktosefrei"
@@ -188,7 +149,7 @@
         "category": "Free Choice",
         "dish": "Gebratenes Wolfsbarsch-filet",
         "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.70",
+        "price": "CHF 3.90",
         "tags": [
           "Glutenfrei",
           "Laktosefrei"
@@ -211,51 +172,55 @@
           "Laktosefrei"
         ]
       }
+    ],
+    "2026-11-23": [
+      {
+        "category": "Daily's",
+        "dish": "Gebackener Fleischkäse",
+        "description": "mit Senfsauce, Lyonerkartoffeln und Karotten",
+        "price": "CHF 15.90",
+        "tags": [
+          "Glutenfrei"
+        ]
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Gefüllte Peperoni",
+        "description": "Peperoni gefüllt mit Gemüse, Frischkäse, Kräutern und Käse dazu Zartweizen und Kräuterquark   Pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Vegetarisch"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Calamares Ringe im Backteig",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Ravioli Ratatouille",
+        "description": "Gefüllte Pasta mit Tomatensauce und Reibkäse",
+        "price": "CHF 16.50",
+        "tags": [
+          "Vegetarisch",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Beefsteak Tatar XXL 220gr",
+        "description": "mit Zwiebeln, Kapern, Oliven und Hausbrot  150gr CHF 19.90",
+        "price": "CHF 26.50",
+        "tags": []
+      }
     ]
   },
   "by_weekday": {
-    "Mo": {
-      "date": "2026-11-16",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Schweins-Steak",
-          "description": "Thymian-Portwein Jus, Nudeln und Grill-Tomate",
-          "price": "CHF 17.50",
-          "tags": []
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Gemüse-Schnitzel",
-          "description": "mit Kräuter-Chili-Dip, Gemüse-Cous-Cous und Zucchetti-Pfanne",
-          "price": "CHF 3.70",
-          "tags": [
-            "Vegetarisch"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Seehechtfilet Müllerin",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.70",
-          "tags": []
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Ravioli Rauchlachs",
-          "description": "Pasta mit Rauchlachs-Ricotta füllung, mit Rahmsauce und Jungem Spinat",
-          "price": "CHF 15.90",
-          "tags": []
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "Beefsteak Tatar XXL 220gr",
-          "description": "mit Zwiebeln, Kapern, Oliven und Hausbrot  150gr CHF 19.90",
-          "price": "CHF 26.50",
-          "tags": []
-        }
-      ]
-    },
     "Di": {
       "date": "2026-11-17",
       "entries": [
@@ -273,14 +238,14 @@
           "category": "Healthy Choice",
           "dish": "Truten Piccata",
           "description": "mit Tomatensauce, Purpur Weizen, Peperoni und Maisgemüse  Pro 100g",
-          "price": "CHF 3.70",
+          "price": "CHF 3.90",
           "tags": []
         },
         {
           "category": "Free Choice",
           "dish": "Rinds-Voressen",
           "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.70",
+          "price": "CHF 3.90",
           "tags": [
             "Laktosefrei"
           ]
@@ -317,14 +282,14 @@
           "category": "Healthy Choice",
           "dish": "Pochierter Rotbarsch",
           "description": "mit leichter Apfelsauce, Dampfkartoffeln, Spinat und Karotten  Pro 100g",
-          "price": "CHF 3.70",
+          "price": "CHF 3.90",
           "tags": []
         },
         {
           "category": "Free Choice",
           "dish": "Wurst Buffet",
           "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.70",
+          "price": "CHF 3.90",
           "tags": []
         },
         {
@@ -360,7 +325,7 @@
           "category": "Healthy Choice",
           "dish": "Linsen-Quinoa-Joghurt Balls",
           "description": "mit Kräuter Dip, Dinkelkörner, Okra und Mischgemüse  Pro 100g",
-          "price": "CHF 3.70",
+          "price": "CHF 3.90",
           "tags": [
             "Vegetarisch"
           ]
@@ -369,7 +334,7 @@
           "category": "Free Choice",
           "dish": "Herbst Wild Buffet",
           "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.70",
+          "price": "CHF 3.90",
           "tags": [
             "Vegetarisch"
           ]
@@ -397,14 +362,14 @@
           "category": "Daily's",
           "dish": "Pasta-Plausch",
           "description": "mit drei verschiedenen Saucen, Käse-Rahm-, Bolo- und Tomatensauce Reibkäse und ein Menü-Salat",
-          "price": "CHF 15.50",
+          "price": "CHF 15.90",
           "tags": []
         },
         {
           "category": "Healthy Choice",
           "dish": "Gemüsebuffet",
           "description": "im Free Choice inkludiert  Pro 100g",
-          "price": "CHF 3.70",
+          "price": "CHF 3.90",
           "tags": [
             "Vegan",
             "Laktosefrei"
@@ -414,7 +379,7 @@
           "category": "Free Choice",
           "dish": "Gebratenes Wolfsbarsch-filet",
           "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.70",
+          "price": "CHF 3.90",
           "tags": [
             "Glutenfrei",
             "Laktosefrei"
@@ -436,6 +401,55 @@
             "Vegetarisch",
             "Laktosefrei"
           ]
+        }
+      ]
+    },
+    "Mo": {
+      "date": "2026-11-23",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Gebackener Fleischkäse",
+          "description": "mit Senfsauce, Lyonerkartoffeln und Karotten",
+          "price": "CHF 15.90",
+          "tags": [
+            "Glutenfrei"
+          ]
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Gefüllte Peperoni",
+          "description": "Peperoni gefüllt mit Gemüse, Frischkäse, Kräutern und Käse dazu Zartweizen und Kräuterquark   Pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Vegetarisch"
+          ]
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Calamares Ringe im Backteig",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Ravioli Ratatouille",
+          "description": "Gefüllte Pasta mit Tomatensauce und Reibkäse",
+          "price": "CHF 16.50",
+          "tags": [
+            "Vegetarisch",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "Beefsteak Tatar XXL 220gr",
+          "description": "mit Zwiebeln, Kapern, Oliven und Hausbrot  150gr CHF 19.90",
+          "price": "CHF 26.50",
+          "tags": []
         }
       ]
     }
