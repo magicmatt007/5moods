@@ -1,54 +1,12 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-11-17T05:09:50+00:00",
+  "updated_utc": "2026-11-18T05:10:16+00:00",
   "days": {
-    "2026-11-17": [
-      {
-        "category": "Daily's",
-        "dish": "Gelbes Thaicurry",
-        "description": "Tofu, Jasminreis, und Gemüse  Zusätzlich Poulet Spiess CHF 6.00",
-        "price": "CHF 15.90",
-        "tags": [
-          "Vegan",
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Truten Piccata",
-        "description": "mit Tomatensauce, Purpur Weizen, Peperoni und Maisgemüse  Pro 100g",
-        "price": "CHF 3.90",
-        "tags": []
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Rinds-Voressen",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Pizza Salame Piccante",
-        "description": "Mit Tomate, Mozzarella, und Scharfem Salami",
-        "price": "CHF 20.90",
-        "tags": []
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "Fitnessteller mit grillierter Pouletbrust",
-        "description": "Bunt gemischter Salatteller mit grillierter Pouletbrust und Kräuterdip",
-        "price": "CHF 19.90",
-        "tags": []
-      }
-    ],
     "2026-11-18": [
       {
         "category": "Daily's",
         "dish": "Crispy Chicken Bites",
-        "description": "oder Curry Rice Balls Sweet-Chili-Sauce, Gebratenen Nudeln, und Wokgemüse",
+        "description": "Sweet-Chili-Sauce, Gebratenen Nudeln, und Wokgemüse",
         "price": "CHF 16.90",
         "tags": [
           "Laktosefrei"
@@ -91,7 +49,7 @@
         "category": "Daily's",
         "dish": "Poulet Schenkel",
         "description": "Rotweinsauce, Kartoffelspalten und Menüsalat",
-        "price": "CHF 15.90",
+        "price": "CHF 17.90",
         "tags": []
       },
       {
@@ -114,9 +72,9 @@
       },
       {
         "category": "Taste of Italy",
-        "dish": "Pizza Prosciutto",
-        "description": "mit Tomate, Mozzarella, und Schinkenstreifen",
-        "price": "CHF 20.50",
+        "dish": "Pasta Alfredo",
+        "description": "mit Rahmsauce, Schinkenstreifen und Erbsen",
+        "price": "CHF 15.90",
         "tags": []
       },
       {
@@ -218,61 +176,62 @@
         "price": "CHF 26.50",
         "tags": []
       }
+    ],
+    "2026-11-24": [
+      {
+        "category": "Daily's",
+        "dish": "Schweins Cordon-Bleu",
+        "description": "mit Pommes Frites, und Broccoli",
+        "price": "CHF 20.90",
+        "tags": []
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Dorschfilets im Vollkorn Mantel",
+        "description": "mit Langkorn-Reis, Zitronensauce, Stangensellerie mit Cranberrys Pro 100g",
+        "price": "CHF 3.90",
+        "tags": []
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Entengeschnetzeltes",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Glutenfrei",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Strozzapreti Carbonara Vegetariana",
+        "description": "Pasta mit  Geräuchertem Tofu und Rahmsauce",
+        "price": "CHF 14.90",
+        "tags": [
+          "Vegetarisch"
+        ]
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Raclette Classic",
+        "description": "mit Kartoffeln und Essiggemüse",
+        "price": "CHF 17.90",
+        "tags": [
+          "Vegetarisch",
+          "Glutenfrei",
+          "Laktosefrei"
+        ]
+      }
     ]
   },
   "by_weekday": {
-    "Di": {
-      "date": "2026-11-17",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Gelbes Thaicurry",
-          "description": "Tofu, Jasminreis, und Gemüse  Zusätzlich Poulet Spiess CHF 6.00",
-          "price": "CHF 15.90",
-          "tags": [
-            "Vegan",
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Truten Piccata",
-          "description": "mit Tomatensauce, Purpur Weizen, Peperoni und Maisgemüse  Pro 100g",
-          "price": "CHF 3.90",
-          "tags": []
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Rinds-Voressen",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Pizza Salame Piccante",
-          "description": "Mit Tomate, Mozzarella, und Scharfem Salami",
-          "price": "CHF 20.90",
-          "tags": []
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "Fitnessteller mit grillierter Pouletbrust",
-          "description": "Bunt gemischter Salatteller mit grillierter Pouletbrust und Kräuterdip",
-          "price": "CHF 19.90",
-          "tags": []
-        }
-      ]
-    },
     "Mi": {
       "date": "2026-11-18",
       "entries": [
         {
           "category": "Daily's",
           "dish": "Crispy Chicken Bites",
-          "description": "oder Curry Rice Balls Sweet-Chili-Sauce, Gebratenen Nudeln, und Wokgemüse",
+          "description": "Sweet-Chili-Sauce, Gebratenen Nudeln, und Wokgemüse",
           "price": "CHF 16.90",
           "tags": [
             "Laktosefrei"
@@ -318,7 +277,7 @@
           "category": "Daily's",
           "dish": "Poulet Schenkel",
           "description": "Rotweinsauce, Kartoffelspalten und Menüsalat",
-          "price": "CHF 15.90",
+          "price": "CHF 17.90",
           "tags": []
         },
         {
@@ -341,9 +300,9 @@
         },
         {
           "category": "Taste of Italy",
-          "dish": "Pizza Prosciutto",
-          "description": "mit Tomate, Mozzarella, und Schinkenstreifen",
-          "price": "CHF 20.50",
+          "dish": "Pasta Alfredo",
+          "description": "mit Rahmsauce, Schinkenstreifen und Erbsen",
+          "price": "CHF 15.90",
           "tags": []
         },
         {
@@ -450,6 +409,55 @@
           "description": "mit Zwiebeln, Kapern, Oliven und Hausbrot  150gr CHF 19.90",
           "price": "CHF 26.50",
           "tags": []
+        }
+      ]
+    },
+    "Di": {
+      "date": "2026-11-24",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Schweins Cordon-Bleu",
+          "description": "mit Pommes Frites, und Broccoli",
+          "price": "CHF 20.90",
+          "tags": []
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Dorschfilets im Vollkorn Mantel",
+          "description": "mit Langkorn-Reis, Zitronensauce, Stangensellerie mit Cranberrys Pro 100g",
+          "price": "CHF 3.90",
+          "tags": []
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Entengeschnetzeltes",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Glutenfrei",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Strozzapreti Carbonara Vegetariana",
+          "description": "Pasta mit  Geräuchertem Tofu und Rahmsauce",
+          "price": "CHF 14.90",
+          "tags": [
+            "Vegetarisch"
+          ]
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "Raclette Classic",
+          "description": "mit Kartoffeln und Essiggemüse",
+          "price": "CHF 17.90",
+          "tags": [
+            "Vegetarisch",
+            "Glutenfrei",
+            "Laktosefrei"
+          ]
         }
       ]
     }
