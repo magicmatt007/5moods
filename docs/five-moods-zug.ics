@@ -4,26 +4,9 @@ PRODID:-//Five Moods Menu//Five Moods (Siemens\, Zug)//DE
 X-WR-CALNAME:Mittagsmenu Five Moods (Siemens, Zug)
 BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
-DTSTART:20261119T113000
-DTEND:20261119T130000
-DTSTAMP:20261119T051006Z
-UID:five-moods-zug-2026-11-19-52c8b89e8f59@5moods
-DESCRIPTION:DAILY'S\n-------\nPoulet Schenkel\nRotweinsauce\, Kartoffelspa
- lten und Menüsalat\nCHF 17.90\n\n\nHEALTHY CHOICE\n--------------\nLinse
- n-Quinoa-Joghurt Balls\nmit Kräuter Dip\, Dinkelkörner\, Okra und Mischg
- emüse  Pro 100g\nCHF 3.90\n(Vegetarisch)\n\n\nFREE CHOICE\n-----------\n
- Herbst Wild Buffet\nmit Beilagen vom Free Choice- und Salatbuffet.    pro 
- 100g\nCHF 3.90\n(Vegetarisch)\n\n\nTASTE OF ITALY\n--------------\nPasta 
- Alfredo\nmit Rahmsauce\, Schinkenstreifen und Erbsen\nCHF 15.90\n\n\nCHEF
- ’S CHOICE\n-------------\nOssobuco Gremolata\nGeschmorte Kalbshaxe mit G
- remolata Garnitur\, Risotto Milanese und Peperonata\nCHF 23.90
-LOCATION:Five Moods (Siemens\, Zug)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261120T113000
 DTEND:20261120T130000
-DTSTAMP:20261119T051006Z
+DTSTAMP:20261120T051018Z
 UID:five-moods-zug-2026-11-20-e8bb71a446b2@5moods
 DESCRIPTION:DAILY'S\n-------\nPasta-Plausch\nmit drei verschiedenen Saucen
  \, Käse-Rahm-\, Bolo- und Tomatensauce Reibkäse und ein Menü-Salat\nCHF
@@ -41,8 +24,8 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261123T113000
 DTEND:20261123T130000
-DTSTAMP:20261119T051006Z
-UID:five-moods-zug-2026-11-23-1e79c2bd6da1@5moods
+DTSTAMP:20261120T051018Z
+UID:five-moods-zug-2026-11-23-b3038b167e1a@5moods
 DESCRIPTION:DAILY'S\n-------\nGebackener Fleischkäse\nmit Senfsauce\, Lyo
  nerkartoffeln und Karotten\nCHF 15.90\n(Glutenfrei)\n\n\nHEALTHY CHOICE\n
  --------------\nGefüllte Peperoni\nPeperoni gefüllt mit Gemüse\, Frisch
@@ -51,16 +34,15 @@ DESCRIPTION:DAILY'S\n-------\nGebackener Fleischkäse\nmit Senfsauce\, Lyo
   Backteig\nmit Beilagen vom Free Choice- und Salatbuffet.    pro 100g\nCHF
   3.90\n(Laktosefrei)\n\n\nTASTE OF ITALY\n--------------\nRavioli Ratatou
  ille\nGefüllte Pasta mit Tomatensauce und Reibkäse\nCHF 16.50\n(Vegetar
- isch\, Laktosefrei)\n\n\nCHEF’S CHOICE\n-------------\nBeefsteak Tatar X
- XL 220gr\nmit Zwiebeln\, Kapern\, Oliven und Hausbrot  150gr CHF 19.90\nCH
- F 26.50
+ isch\, Laktosefrei)\n\n\nCHEF’S CHOICE\n-------------\nRindshuft Steak\n
+ Kräuterbutter Pommes Frites Grillgemüse\nCHF 25.50\n(Glutenfrei)
 LOCATION:Five Moods (Siemens\, Zug)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261124T113000
 DTEND:20261124T130000
-DTSTAMP:20261119T051006Z
+DTSTAMP:20261120T051018Z
 UID:five-moods-zug-2026-11-24-9c0265befc4d@5moods
 DESCRIPTION:DAILY'S\n-------\nSchweins Cordon-Bleu\nmit Pommes Frites\, un
  d Broccoli\nCHF 20.90\n\n\nHEALTHY CHOICE\n--------------\nDorschfilets i
@@ -78,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261125T113000
 DTEND:20261125T130000
-DTSTAMP:20261119T051006Z
+DTSTAMP:20261120T051018Z
 UID:five-moods-zug-2026-11-25-c12e56c47a04@5moods
 DESCRIPTION:DAILY'S\n-------\nKalbs-Hackbraten\nThymian-Sauce\, Käse-Pole
  nta und glasierten Kohlrabi\nCHF 17.50\n\n\nHEALTHY CHOICE\n-------------
@@ -89,6 +71,24 @@ DESCRIPTION:DAILY'S\n-------\nKalbs-Hackbraten\nThymian-Sauce\, Käse-Pole
  asta mit Kürbissauce\, Pinienkerne und Broccoli\nCHF 15.90\n(Vegetarisch
  )\n\n\nCHEF’S CHOICE\n-------------\nRoastbeef\nSauce Bernaise\, Kartoff
  elgratin und Broccoli mit Mandeln\nCHF 26.50
+LOCATION:Five Moods (Siemens\, Zug)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
+DTSTART:20261126T113000
+DTEND:20261126T130000
+DTSTAMP:20261120T051018Z
+UID:five-moods-zug-2026-11-26-36d826e8625f@5moods
+DESCRIPTION:DAILY'S\n-------\nPalak Paneer\nMit Basmatireis  Zusätzlich N
+ aan Brot 2.50.-\nCHF 15.90\n(Vegetarisch)\n\n\nHEALTHY CHOICE\n----------
+ ----\nGebackene Mungobohnen Bites\nmit Tomatensauce\, Vollkorn Penne\, und
+  Wurzelgemüse aus dem Ofen    Pro 100g\nCHF 3.90\n(Vegan\, Laktosefrei)
+ \n\n\nFREE CHOICE\n-----------\nKalbsadrio\nmit saisonalen Beilagen und  S
+ alatbuffet mit Gemüse-\, Fleisch- und verschiedenen Blattsalaten\nCHF 3.
+ 90\n(Glutenfrei)\n\n\nTASTE OF ITALY\n--------------\nPizza Kebab\nmit Tom
+ atensauce\, Mozzarella\, Zwiebeln und Kebabfleisch\nCHF 22.50\n\n\nCHEF
+ ’S CHOICE\n-------------\nRaclette Classic\nmit Kartoffeln und Essiggem
+ üse\nCHF 17.90\n(Vegetarisch\, Glutenfrei\, Laktosefrei)
 LOCATION:Five Moods (Siemens\, Zug)
 END:VEVENT
 END:VCALENDAR
