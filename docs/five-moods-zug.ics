@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261123T113000
 DTEND:20261123T130000
-DTSTAMP:20261122T051002Z
+DTSTAMP:20261123T051052Z
 UID:five-moods-zug-2026-11-23-b3038b167e1a@5moods
 DESCRIPTION:DAILY'S\n-------\nGebackener Fleischkäse\nmit Senfsauce\, Lyo
  nerkartoffeln und Karotten\nCHF 15.90\n(Glutenfrei)\n\n\nHEALTHY CHOICE\n
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261124T113000
 DTEND:20261124T130000
-DTSTAMP:20261122T051002Z
+DTSTAMP:20261123T051052Z
 UID:five-moods-zug-2026-11-24-9c0265befc4d@5moods
 DESCRIPTION:DAILY'S\n-------\nSchweins Cordon-Bleu\nmit Pommes Frites\, un
  d Broccoli\nCHF 20.90\n\n\nHEALTHY CHOICE\n--------------\nDorschfilets i
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261125T113000
 DTEND:20261125T130000
-DTSTAMP:20261122T051002Z
+DTSTAMP:20261123T051052Z
 UID:five-moods-zug-2026-11-25-c12e56c47a04@5moods
 DESCRIPTION:DAILY'S\n-------\nKalbs-Hackbraten\nThymian-Sauce\, Käse-Pole
  nta und glasierten Kohlrabi\nCHF 17.50\n\n\nHEALTHY CHOICE\n-------------
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261126T113000
 DTEND:20261126T130000
-DTSTAMP:20261122T051002Z
+DTSTAMP:20261123T051052Z
 UID:five-moods-zug-2026-11-26-36d826e8625f@5moods
 DESCRIPTION:DAILY'S\n-------\nPalak Paneer\nMit Basmatireis  Zusätzlich N
  aan Brot 2.50.-\nCHF 15.90\n(Vegetarisch)\n\n\nHEALTHY CHOICE\n----------
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Mittagsmenu: Five Moods (Siemens\, Zug)
 DTSTART:20261127T113000
 DTEND:20261127T130000
-DTSTAMP:20261122T051002Z
+DTSTAMP:20261123T051052Z
 UID:five-moods-zug-2026-11-27-ca0146bc9fef@5moods
 DESCRIPTION:DAILY'S\n-------\nSeelachs Knusperli\nSauce Remulade\, Salzkar
  toffeln und Rahmspinat\nCHF 15.90\n\n\nHEALTHY CHOICE\n--------------\nGe
