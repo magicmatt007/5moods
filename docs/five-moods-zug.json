@@ -1,53 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-11-24T05:10:34+00:00",
+  "updated_utc": "2026-11-25T05:10:14+00:00",
   "days": {
-    "2026-11-24": [
-      {
-        "category": "Daily's",
-        "dish": "Schweins Cordon-Bleu",
-        "description": "mit Pommes Frites, und Broccoli",
-        "price": "CHF 20.90",
-        "tags": []
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Dorschfilets im Vollkorn Mantel",
-        "description": "mit Langkorn-Reis, Zitronensauce, Stangensellerie mit Cranberrys Pro 100g",
-        "price": "CHF 3.90",
-        "tags": []
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Entengeschnetzeltes",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Glutenfrei",
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Strozzapreti Carbonara Vegetariana",
-        "description": "Pasta mit  Geräuchertem Tofu und Rahmsauce",
-        "price": "CHF 14.90",
-        "tags": [
-          "Vegetarisch"
-        ]
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "Raclette Classic",
-        "description": "mit Kartoffeln und Essiggemüse",
-        "price": "CHF 17.90",
-        "tags": [
-          "Vegetarisch",
-          "Glutenfrei",
-          "Laktosefrei"
-        ]
-      }
-    ],
     "2026-11-25": [
       {
         "category": "Daily's",
@@ -224,58 +178,51 @@
           "Glutenfrei"
         ]
       }
+    ],
+    "2026-12-01": [
+      {
+        "category": "Daily's",
+        "dish": "Kalbsbrätkügeli",
+        "description": "im Blätterteigpastetli, mit Frittierten Kartoffeln und Broccoli",
+        "price": "CHF 15.90",
+        "tags": []
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Linsen Tempeh Patty",
+        "description": "mit New Roots Kräuter-Dip, UrDinkel Kernotto, gedünsteten Pastinaken und Kefen",
+        "price": "CHF 3.90",
+        "tags": [
+          "Vegan",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Tex-Mex Buffet",
+        "description": "mit Beilagen vom Free Choice und Salatbuffet  Pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Pizza Prosciutto e Funghi",
+        "description": "mit Tomaten, Mozzarella, Schinken und Champignon",
+        "price": "CHF 21.50",
+        "tags": []
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Gulaschsuppe",
+        "description": "mit einem Knoblauch Baguette",
+        "price": "CHF 19.90",
+        "tags": []
+      }
     ]
   },
   "by_weekday": {
-    "Di": {
-      "date": "2026-11-24",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Schweins Cordon-Bleu",
-          "description": "mit Pommes Frites, und Broccoli",
-          "price": "CHF 20.90",
-          "tags": []
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Dorschfilets im Vollkorn Mantel",
-          "description": "mit Langkorn-Reis, Zitronensauce, Stangensellerie mit Cranberrys Pro 100g",
-          "price": "CHF 3.90",
-          "tags": []
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Entengeschnetzeltes",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Glutenfrei",
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Strozzapreti Carbonara Vegetariana",
-          "description": "Pasta mit  Geräuchertem Tofu und Rahmsauce",
-          "price": "CHF 14.90",
-          "tags": [
-            "Vegetarisch"
-          ]
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "Raclette Classic",
-          "description": "mit Kartoffeln und Essiggemüse",
-          "price": "CHF 17.90",
-          "tags": [
-            "Vegetarisch",
-            "Glutenfrei",
-            "Laktosefrei"
-          ]
-        }
-      ]
-    },
     "Mi": {
       "date": "2026-11-25",
       "entries": [
@@ -462,6 +409,51 @@
           "tags": [
             "Glutenfrei"
           ]
+        }
+      ]
+    },
+    "Di": {
+      "date": "2026-12-01",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "Kalbsbrätkügeli",
+          "description": "im Blätterteigpastetli, mit Frittierten Kartoffeln und Broccoli",
+          "price": "CHF 15.90",
+          "tags": []
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Linsen Tempeh Patty",
+          "description": "mit New Roots Kräuter-Dip, UrDinkel Kernotto, gedünsteten Pastinaken und Kefen",
+          "price": "CHF 3.90",
+          "tags": [
+            "Vegan",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Tex-Mex Buffet",
+          "description": "mit Beilagen vom Free Choice und Salatbuffet  Pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Pizza Prosciutto e Funghi",
+          "description": "mit Tomaten, Mozzarella, Schinken und Champignon",
+          "price": "CHF 21.50",
+          "tags": []
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "Gulaschsuppe",
+          "description": "mit einem Knoblauch Baguette",
+          "price": "CHF 19.90",
+          "tags": []
         }
       ]
     }
