@@ -1,47 +1,7 @@
 {
   "restaurant": "Five Moods (Siemens, Zug)",
-  "updated_utc": "2026-11-27T05:10:03+00:00",
+  "updated_utc": "2026-11-28T05:09:55+00:00",
   "days": {
-    "2026-11-27": [
-      {
-        "category": "Daily's",
-        "dish": "Seelachs Knusperli",
-        "description": "Sauce Remulade, Salzkartoffeln und Rahmspinat",
-        "price": "CHF 15.90",
-        "tags": []
-      },
-      {
-        "category": "Healthy Choice",
-        "dish": "Gemüsebuffet",
-        "description": "im Free Choice inkludiert  Pro 100g",
-        "price": "CHF 3.90",
-        "tags": [
-          "Vegan",
-          "Laktosefrei"
-        ]
-      },
-      {
-        "category": "Free Choice",
-        "dish": "Rinds Fleischvögel",
-        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-        "price": "CHF 3.90",
-        "tags": []
-      },
-      {
-        "category": "Taste of Italy",
-        "dish": "Pizza & Pasta",
-        "description": "Immer von Montag bis Donnerstag",
-        "price": "CHF 0.00",
-        "tags": []
-      },
-      {
-        "category": "Chef’s Choice",
-        "dish": "Poulet Schenkel-Steak",
-        "description": "mit Kräutersauce, Pommes Rissolées, und Bohnen",
-        "price": "CHF 16.90",
-        "tags": []
-      }
-    ],
     "2026-11-30": [
       {
         "category": "Daily's",
@@ -217,52 +177,56 @@
           "Laktosefrei"
         ]
       }
+    ],
+    "2026-12-04": [
+      {
+        "category": "Daily's",
+        "dish": "G'Hackets und Hörnli",
+        "description": "mit Apfelmus und Reibkäse",
+        "price": "CHF 15.90",
+        "tags": []
+      },
+      {
+        "category": "Healthy Choice",
+        "dish": "Gemüsebuffet",
+        "description": "Buntes Gemüsebuffet mit allerlei köstlichkeiten",
+        "price": "CHF 3.90",
+        "tags": [
+          "Vegan",
+          "Glutenfrei",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Free Choice",
+        "dish": "Gebratene Dorade",
+        "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+        "price": "CHF 3.90",
+        "tags": [
+          "Glutenfrei",
+          "Laktosefrei"
+        ]
+      },
+      {
+        "category": "Taste of Italy",
+        "dish": "Pizza & Pasta",
+        "description": "Immer von Montag bis Donnerstag",
+        "price": "CHF 0.00",
+        "tags": []
+      },
+      {
+        "category": "Chef’s Choice",
+        "dish": "Gefüllte Zucchetti",
+        "description": "mit Tomatensauce und Wildreis",
+        "price": "CHF 16.90",
+        "tags": [
+          "Vegetarisch",
+          "Glutenfrei"
+        ]
+      }
     ]
   },
   "by_weekday": {
-    "Fr": {
-      "date": "2026-11-27",
-      "entries": [
-        {
-          "category": "Daily's",
-          "dish": "Seelachs Knusperli",
-          "description": "Sauce Remulade, Salzkartoffeln und Rahmspinat",
-          "price": "CHF 15.90",
-          "tags": []
-        },
-        {
-          "category": "Healthy Choice",
-          "dish": "Gemüsebuffet",
-          "description": "im Free Choice inkludiert  Pro 100g",
-          "price": "CHF 3.90",
-          "tags": [
-            "Vegan",
-            "Laktosefrei"
-          ]
-        },
-        {
-          "category": "Free Choice",
-          "dish": "Rinds Fleischvögel",
-          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
-          "price": "CHF 3.90",
-          "tags": []
-        },
-        {
-          "category": "Taste of Italy",
-          "dish": "Pizza & Pasta",
-          "description": "Immer von Montag bis Donnerstag",
-          "price": "CHF 0.00",
-          "tags": []
-        },
-        {
-          "category": "Chef’s Choice",
-          "dish": "Poulet Schenkel-Steak",
-          "description": "mit Kräutersauce, Pommes Rissolées, und Bohnen",
-          "price": "CHF 16.90",
-          "tags": []
-        }
-      ]
-    },
     "Mo": {
       "date": "2026-11-30",
       "entries": [
@@ -447,6 +411,56 @@
           "tags": [
             "Vegetarisch",
             "Laktosefrei"
+          ]
+        }
+      ]
+    },
+    "Fr": {
+      "date": "2026-12-04",
+      "entries": [
+        {
+          "category": "Daily's",
+          "dish": "G'Hackets und Hörnli",
+          "description": "mit Apfelmus und Reibkäse",
+          "price": "CHF 15.90",
+          "tags": []
+        },
+        {
+          "category": "Healthy Choice",
+          "dish": "Gemüsebuffet",
+          "description": "Buntes Gemüsebuffet mit allerlei köstlichkeiten",
+          "price": "CHF 3.90",
+          "tags": [
+            "Vegan",
+            "Glutenfrei",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Free Choice",
+          "dish": "Gebratene Dorade",
+          "description": "mit Beilagen vom Free Choice- und Salatbuffet.    pro 100g",
+          "price": "CHF 3.90",
+          "tags": [
+            "Glutenfrei",
+            "Laktosefrei"
+          ]
+        },
+        {
+          "category": "Taste of Italy",
+          "dish": "Pizza & Pasta",
+          "description": "Immer von Montag bis Donnerstag",
+          "price": "CHF 0.00",
+          "tags": []
+        },
+        {
+          "category": "Chef’s Choice",
+          "dish": "Gefüllte Zucchetti",
+          "description": "mit Tomatensauce und Wildreis",
+          "price": "CHF 16.90",
+          "tags": [
+            "Vegetarisch",
+            "Glutenfrei"
           ]
         }
       ]
